@@ -9,9 +9,45 @@
         <mark key="^" line="86" column="28" />
         <mark key="." line="86" column="28" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492437219560">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492437392155" />
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJvb2wgc3BhY2VFeHBsb3JhdGlvbkdyZWVkKCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJvb2wgc3BhY2VFeHBsb3JhdGlvbkdyZWVkKCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgQ2lyY2xlTm9kZVB0ciBjbik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvb2wgcHJvY2Vzc05vZGVHcmVlZChDaXJjbGVOb2RlUmVmIGdvYWwsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZvaWQgZXhwbG9yZUNpcmNsZU5vZGVHcmVlZChDaXJjbGVOb2RlUHRyIGNuKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIENpcmNsZU5vZGVQdHJBcnJheVB0ciBHZXRDaGlsZHJlbkdyZWVkKENpcmNsZU5vZGVQdHIgY24pOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
