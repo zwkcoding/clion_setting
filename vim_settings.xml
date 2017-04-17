@@ -21,12 +21,17 @@
         <mark key="^" line="186" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492466324066">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492468831496">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492468397647">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492460233170">
         <mark key="'" line="962" column="0" />
@@ -53,11 +58,11 @@
         <mark key="^" line="49" column="3" />
         <mark key="." line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492465141832">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
-        <mark key="^" line="16" column="29" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492468446109">
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="30" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -82,13 +87,14 @@
       <jump line="82" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
       <jump line="1" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>grid_map::</text>
+        <text encoding="base64">dm9pZCBwcmludE1hcChjb25zdCBpbnRlcm5hbF9ncmlkX21hcDo6SW50ZXJuYWxHcmlkTWFwICZtYXApIHsKICAgIGludCByb3dzID0gbWFwLm1hcF9wdHItPmdldFNpemUoKSgxKTsKICAgIGludCBjb2xzID0gbWFwLm1hcF9wdHItPmdldFNpemUoKSgwKTsKICAgIGZvciAoaW50IHJvd195ID0gMDsgcm93X3kgPCByb3dzOyByb3dfeSsrKSB7CiAgICAgICAgZm9yIChpbnQgY29sX3ggPSAwOyBjb2xfeCA8IGNvbHM7IGNvbF94KyspIHsKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICIoeCwgeSk9IiA8PCBtYXAubWFwX3B0ci0+YXQoImRpc3RhbmNlIiwgZ3JpZF9tYXA6OkluZGV4KGNvbF94LCByb3dfeSkpIDw8ICIgICAgICI7CiAgICAgICAgfQogICAgICAgIHN0ZDo6Y291dCA8PCBzdGQ6OmVuZGw7CiAgICB9Cn0KClRFU1QoSW50ZXJuYWxHcmlkTWFwVGVzdCwgc2V0R2VvbWV0cnkpIHsKICAgIGludGVybmFsX2dyaWRfbWFwOjpJbnRlcm5hbEdyaWRNYXAgbWFwOwogICAgZ3JpZF9tYXA6Okxlbmd0aCBsZW5ndGgoNS4xLCA0LjEpOwogICAgZG91YmxlIHJlc29sdXRpb24gPSAxOwogICAgZ3JpZF9tYXA6OlBvc2l0aW9uIHBvcygwLDApOwogICAgbWFwLnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zKTsKCiAgICBFWFBFQ1RfRVEoMSwgbWFwLmdldFJlc29sdXRpb24oKSk7CgogICAgRVhQRUNUX0RPVUJMRV9FUSg1LCBtYXAuZ2V0TGVuZ3RoKCkoMCkpOwogICAgRVhQRUNUX0RPVUJMRV9FUSg0LCBtYXAuZ2V0TGVuZ3RoKCkoMSkpOwogICAgRVhQRUNUX0VRKDAsIG1hcC5nZXRPcmlnaW4oKSgwKSk7CiAgICBFWFBFQ1RfRVEoMCwgbWFwLmdldE9yaWdpbigpKDEpKTsKfQoKClRFU1QoSW50ZXJuYWxHcmlkTWFwVGVzdCwgc2V0QmFzaWNMYXllcikgewogICAgaW50ZXJuYWxfZ3JpZF9tYXA6OkludGVybmFsR3JpZE1hcCBtYXA7CiAgICBncmlkX21hcDo6TGVuZ3RoIGxlbmd0aCg1LjEsIDQuMSk7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDE7CiAgICBncmlkX21hcDo6UG9zaXRpb24gcG9zKDAsIDApOwogICAgbWFwLnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zKTsKICAgIGludCByb3dzID0gbWFwLmdldFNpemUoKSgxKTsKICAgIGludCBjb2xzID0gbWFwLmdldFNpemUoKSgwKTsKICAgIGludCBzaXplX29mX21hcCA9IHJvd3MgKiBjb2xzOwogICAgc3RkOjp2ZWN0b3I8dWludDhfdD4gbWFwX3Yoc2l6ZV9vZl9tYXAsIDApOwogICAgbWFwX3ZbMF0gPSAxMDA7CiAgICBtYXBfdltzaXplX29mX21hcCAtIDFdID0gMTAwOwoKICAgIG1hcC5zZXRCYXNpY0xheWVyKG1hcF92KTsKCiAgICBncmlkX21hcDo6SW5kZXggaW5kZXgoMCwgMCk7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMS4wLCBtYXAubWFwX3B0ci0+YXQoImJhc2ljIiwgaW5kZXgpKTsKICAgIGluZGV4KDApID0gY29scyAtIDE7CiAgICBpbmRleCgxKSA9IHJvd3MgLSAxOwogICAgRVhQRUNUX0ZMT0FUX0VRKDEuMCwgbWFwLm1hcF9wdHItPmF0KCJiYXNpYyIsIGluZGV4KSk7Cn0KClRFU1QoSW50ZXJuYWxHcmlkTWFwVGVzdCwgdXBkYXRlRGlzdGFuY2VMYXllcikgewogICAgaW50ZXJuYWxfZ3JpZF9tYXA6OkludGVybmFsR3JpZE1hcCBtYXA7CiAgICBncmlkX21hcDo6TGVuZ3RoIGxlbmd0aCg1LjEsIDQuMSk7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDE7CiAgICBncmlkX21hcDo6UG9zaXRpb24gcG9zKDAsIDApOwogICAgbWFwLnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zKTsKICAgIGludCByb3dzID0gbWFwLmdldFNpemUoKSgxKTsKICAgIGludCBjb2xzID0gbWFwLmdldFNpemUoKSgwKTsKICAgIGludCBzaXplX29mX21hcCA9IHJvd3MgKiBjb2xzOwogICAgc3RkOjp2ZWN0b3I8dWludDhfdD4gbWFwX3Yoc2l6ZV9vZl9tYXAsIDApOwogICAgbWFwX3ZbMF0gPSAxMDA7CiAgICBtYXBfdltzaXplX29mX21hcCAtIDFdID0gMTAwOwoKICAgIG1hcC5zZXRCYXNpY0xheWVyKG1hcF92KTsKICAgIG1hcC51cGRhdGVEaXN0YW5jZUxheWVyKCk7CgogICAgZ3JpZF9tYXA6OkluZGV4IGluZGV4KDAsIDApOwogICAgRVhQRUNUX0ZMT0FUX0VRKDEuMCwgbWFwLm1hcF9wdHItPmF0KCJiYXNpYyIsIGluZGV4KSk7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMCwgbWFwLm1hcF9wdHItPmF0KCJkaXN0YW5jZSIsIGluZGV4KSk7CgogICAgaW5kZXgoMCkgPSBjb2xzIC0gMTsKICAgIGluZGV4KDEpID0gcm93cyAtIDE7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMS4wLCBtYXAubWFwX3B0ci0+YXQoImJhc2ljIiwgaW5kZXgpKTsKICAgIEVYUEVDVF9GTE9BVF9FUSgwLCBtYXAubWFwX3B0ci0+YXQoImRpc3RhbmNlIiwgaW5kZXgpKTsKCiAgICBpbmRleCgwKSA9IDA7CiAgICBpbmRleCgxKSA9IDE7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMCwgbWFwLm1hcF9wdHItPmF0KCJkaXN0YW5jZSIsIGluZGV4KSk7CiAgICBpbmRleCgwKSA9IDE7CiAgICBpbmRleCgxKSA9IDE7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMSwgbWFwLm1hcF9wdHItPmF0KCJkaXN0YW5jZSIsIGluZGV4KSk7CiAgICBwcmludE1hcChtYXApOwoKfQoKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>grid_map::</text>
+        <text>ialize</text>
       </register>
       <register name="/" type="4">
         <text>Space</text>
@@ -96,32 +102,34 @@
       <register name="0" type="4">
         <text encoding="base64">c2V0R2VvbWV0cnkoc3RkOjpzdHJpbmcgZnJhbWVfaWQsCiAgICAgICAgICAgICAgICAgICAgIGNvbnN0IExlbmd0aCAmbGVuZ3RoLAogICAgICAgICAgICAgICAgICAgICBjb25zdCBkb3VibGUgcmVzb2x1dGlvbiwKICAgICAgICAgICAgICAgICAgICAgY29uc3QgUG9zaXRpb24gJnBvc2l0aW9uKQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBncmlkX21hcDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">dm9pZCBwcmludE1hcChjb25zdCBpbnRlcm5hbF9ncmlkX21hcDo6SW50ZXJuYWxHcmlkTWFwICZtYXApIHsKICAgIGludCByb3dzID0gbWFwLm1hcF9wdHItPmdldFNpemUoKSgxKTsKICAgIGludCBjb2xzID0gbWFwLm1hcF9wdHItPmdldFNpemUoKSgwKTsKICAgIGZvciAoaW50IHJvd195ID0gMDsgcm93X3kgPCByb3dzOyByb3dfeSsrKSB7CiAgICAgICAgZm9yIChpbnQgY29sX3ggPSAwOyBjb2xfeCA8IGNvbHM7IGNvbF94KyspIHsKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICIoeCwgeSk9IiA8PCBtYXAubWFwX3B0ci0+YXQoImRpc3RhbmNlIiwgZ3JpZF9tYXA6OkluZGV4KGNvbF94LCByb3dfeSkpIDw8ICIgICAgICI7CiAgICAgICAgfQogICAgICAgIHN0ZDo6Y291dCA8PCBzdGQ6OmVuZGw7CiAgICB9Cn0KClRFU1QoSW50ZXJuYWxHcmlkTWFwVGVzdCwgc2V0R2VvbWV0cnkpIHsKICAgIGludGVybmFsX2dyaWRfbWFwOjpJbnRlcm5hbEdyaWRNYXAgbWFwOwogICAgZ3JpZF9tYXA6Okxlbmd0aCBsZW5ndGgoNS4xLCA0LjEpOwogICAgZG91YmxlIHJlc29sdXRpb24gPSAxOwogICAgZ3JpZF9tYXA6OlBvc2l0aW9uIHBvcygwLDApOwogICAgbWFwLnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zKTsKCiAgICBFWFBFQ1RfRVEoMSwgbWFwLmdldFJlc29sdXRpb24oKSk7CgogICAgRVhQRUNUX0RPVUJMRV9FUSg1LCBtYXAuZ2V0TGVuZ3RoKCkoMCkpOwogICAgRVhQRUNUX0RPVUJMRV9FUSg0LCBtYXAuZ2V0TGVuZ3RoKCkoMSkpOwogICAgRVhQRUNUX0VRKDAsIG1hcC5nZXRPcmlnaW4oKSgwKSk7CiAgICBFWFBFQ1RfRVEoMCwgbWFwLmdldE9yaWdpbigpKDEpKTsKfQoKClRFU1QoSW50ZXJuYWxHcmlkTWFwVGVzdCwgc2V0QmFzaWNMYXllcikgewogICAgaW50ZXJuYWxfZ3JpZF9tYXA6OkludGVybmFsR3JpZE1hcCBtYXA7CiAgICBncmlkX21hcDo6TGVuZ3RoIGxlbmd0aCg1LjEsIDQuMSk7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDE7CiAgICBncmlkX21hcDo6UG9zaXRpb24gcG9zKDAsIDApOwogICAgbWFwLnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zKTsKICAgIGludCByb3dzID0gbWFwLmdldFNpemUoKSgxKTsKICAgIGludCBjb2xzID0gbWFwLmdldFNpemUoKSgwKTsKICAgIGludCBzaXplX29mX21hcCA9IHJvd3MgKiBjb2xzOwogICAgc3RkOjp2ZWN0b3I8dWludDhfdD4gbWFwX3Yoc2l6ZV9vZl9tYXAsIDApOwogICAgbWFwX3ZbMF0gPSAxMDA7CiAgICBtYXBfdltzaXplX29mX21hcCAtIDFdID0gMTAwOwoKICAgIG1hcC5zZXRCYXNpY0xheWVyKG1hcF92KTsKCiAgICBncmlkX21hcDo6SW5kZXggaW5kZXgoMCwgMCk7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMS4wLCBtYXAubWFwX3B0ci0+YXQoImJhc2ljIiwgaW5kZXgpKTsKICAgIGluZGV4KDApID0gY29scyAtIDE7CiAgICBpbmRleCgxKSA9IHJvd3MgLSAxOwogICAgRVhQRUNUX0ZMT0FUX0VRKDEuMCwgbWFwLm1hcF9wdHItPmF0KCJiYXNpYyIsIGluZGV4KSk7Cn0KClRFU1QoSW50ZXJuYWxHcmlkTWFwVGVzdCwgdXBkYXRlRGlzdGFuY2VMYXllcikgewogICAgaW50ZXJuYWxfZ3JpZF9tYXA6OkludGVybmFsR3JpZE1hcCBtYXA7CiAgICBncmlkX21hcDo6TGVuZ3RoIGxlbmd0aCg1LjEsIDQuMSk7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDE7CiAgICBncmlkX21hcDo6UG9zaXRpb24gcG9zKDAsIDApOwogICAgbWFwLnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zKTsKICAgIGludCByb3dzID0gbWFwLmdldFNpemUoKSgxKTsKICAgIGludCBjb2xzID0gbWFwLmdldFNpemUoKSgwKTsKICAgIGludCBzaXplX29mX21hcCA9IHJvd3MgKiBjb2xzOwogICAgc3RkOjp2ZWN0b3I8dWludDhfdD4gbWFwX3Yoc2l6ZV9vZl9tYXAsIDApOwogICAgbWFwX3ZbMF0gPSAxMDA7CiAgICBtYXBfdltzaXplX29mX21hcCAtIDFdID0gMTAwOwoKICAgIG1hcC5zZXRCYXNpY0xheWVyKG1hcF92KTsKICAgIG1hcC51cGRhdGVEaXN0YW5jZUxheWVyKCk7CgogICAgZ3JpZF9tYXA6OkluZGV4IGluZGV4KDAsIDApOwogICAgRVhQRUNUX0ZMT0FUX0VRKDEuMCwgbWFwLm1hcF9wdHItPmF0KCJiYXNpYyIsIGluZGV4KSk7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMCwgbWFwLm1hcF9wdHItPmF0KCJkaXN0YW5jZSIsIGluZGV4KSk7CgogICAgaW5kZXgoMCkgPSBjb2xzIC0gMTsKICAgIGluZGV4KDEpID0gcm93cyAtIDE7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMS4wLCBtYXAubWFwX3B0ci0+YXQoImJhc2ljIiwgaW5kZXgpKTsKICAgIEVYUEVDVF9GTE9BVF9FUSgwLCBtYXAubWFwX3B0ci0+YXQoImRpc3RhbmNlIiwgaW5kZXgpKTsKCiAgICBpbmRleCgwKSA9IDA7CiAgICBpbmRleCgxKSA9IDE7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMCwgbWFwLm1hcF9wdHItPmF0KCJkaXN0YW5jZSIsIGluZGV4KSk7CiAgICBpbmRleCgwKSA9IDE7CiAgICBpbmRleCgxKSA9IDE7CiAgICBFWFBFQ1RfRkxPQVRfRVEoMSwgbWFwLm1hcF9wdHItPmF0KCJkaXN0YW5jZSIsIGluZGV4KSk7CiAgICBwcmludE1hcChtYXApOwoKfQoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPm1hcF9wdHItPnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zaXRpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPm1hcF9wdHItPnNldEZyYW1lSWQoZnJhbWVfaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBtYXBfcHRyOwo=</text>
+        <text encoding="base64">cHJpdmF0ZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPm1hcF9wdHIgPSBuZXcgZ3JpZF9tYXA6OkdyaWRNYXAodGhpcy0+bGF5ZXJzXyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGRpc3RhbmNlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG9ic3RhY2xlOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBsYXllcnNfOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIHRoZSBpbml0aWFsIGxheWVycyBpbmNsdWRlICdvYnN0YWNsZScgYW5kICdkaXN0YW5jZScuCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">LypJbnRlcm5hbEdyaWRNYXA6OkludGVybmFsR3JpZE1hcCgpCiAgICAgICAgOm9ic3RhY2xlX2xheWVyKCJvYnN0YWNsZSIpLAogICAgICAgICBkaXN0YW5jZV9sYXllcigiZGlzdGFuY2UiKSB7CiAgICB0aGlzLT5hZGQob2JzdGFjbGVfbGF5ZXIsIDApOwogICAgdGhpcy0+YWRkKGRpc3RhbmNlX2xheWVyLCAwKTsKfSov</text>
+      </register>
+      <register name="8" type="4">
+        <text>internal_grid_map::InternalGridMap::InternalGridMap()
+        : maps(grid_map::GridMap(layers_)){
+}</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBncmlkX21hcDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
