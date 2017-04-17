@@ -13,4 +13,5 @@ this repo is born.
 * `Grep Console`  
 * `Markdown support`  
 * `Cppcheck`  
-* `BashSupport`  
+* `BashSupport` 
+* `Settings Repository`
