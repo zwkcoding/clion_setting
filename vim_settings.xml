@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492463896628">
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="43" column="54" />
+        <mark key="^" line="43" column="54" />
+        <mark key="." line="43" column="54" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/circle_node.hpp" timestamp="1492435978459">
         <mark key="[" line="86" column="25" />
         <mark key="]" line="86" column="28" />
@@ -15,12 +21,12 @@
         <mark key="^" line="186" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492461658022">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492463984151">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="82" column="6" />
-        <mark key="^" line="86" column="32" />
-        <mark key="." line="82" column="6" />
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+        <mark key="^" line="11" column="8" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492460233170">
         <mark key="'" line="962" column="0" />
@@ -47,11 +53,10 @@
         <mark key="^" line="49" column="3" />
         <mark key="." line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492461423459">
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="32" />
-        <mark key="^" line="37" column="32" />
-        <mark key="." line="37" column="32" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492463877053">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -78,8 +83,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>internal_grid_map::</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMtPm1hcF9wdHItPnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zaXRpb24pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>internal_grid_map::</text>
@@ -88,34 +93,34 @@
         <text>Space</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cGllY2VfYW5nbGUgPSB0d29waSAvIDM2LjA7CiAgICAvLyBhbGxvY2F0ZSB0aGUgaW1hZ2UKICAgIHN0ZDo6c2l6ZV90IHcgPSB0aGlzLT5ncmlkLkdldFdpZHRoKCk7CiAgICBzdGQ6OnNpemVfdCBoID0gdGhpcy0+Z3JpZC5HZXRIZWlnaHQoKTsKICAgIC8vIGFmdGVyIHVzaW5nIHRoZSBwb2ludGVyLCBkZWxldGUgaXQKCiAgICB0aGlzLT5kaXNwbGF5XyA9IGN2OjpNYXQodywgaCwgQ1ZfOFVDNCwgY3Y6OlNjYWxhcigyNTUsIDI1NSwgMjU1KSk7CiAgICBjdjo6TWF0IG92ZXJsYXk7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IGRpc3BsYXlfLmNvbHM7IGkrKykgewogICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgZGlzcGxheV8ucm93czsgaisrKSB7CiAgICAgICAgICAgIGlmICgxID09IHRoaXMtPmdyaWQuZ3JpZF9tYXBbaV1bal0ub2NjdXBhbmN5KSB7CiAgICAgICAgICAgICAgICBjdjo6VmVjNGIgaW50ZW5zaXR5KDAsIDAsIDAsIDApOwogICAgICAgICAgICAgICAgdGhpcy0+ZGlzcGxheV8uYXQ8Y3Y6OlZlYzRiPihpLCBqKSA9IGludGVuc2l0eTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+        <text encoding="base64">c2V0R2VvbWV0cnkoc3RkOjpzdHJpbmcgZnJhbWVfaWQsCiAgICAgICAgICAgICAgICAgICAgIGNvbnN0IExlbmd0aCAmbGVuZ3RoLAogICAgICAgICAgICAgICAgICAgICBjb25zdCBkb3VibGUgcmVzb2x1dGlvbiwKICAgICAgICAgICAgICAgICAgICAgY29uc3QgUG9zaXRpb24gJnBvc2l0aW9uKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHRoaXMtPm1hcF9wdHItPnNldEdlb21ldHJ5KGxlbmd0aCwgcmVzb2x1dGlvbiwgcG9zaXRpb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMtPm1hcF9wdHItPnNldEZyYW1lSWQoZnJhbWVfaWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEhvbG9ub21pYyhhc3Rhcjo6SW50ZXJuYWxHcmlkTWFwUmVmIG1hcCk7Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBtYXBfcHRyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gYmFzaWMgY29uc3RydWN0b3IK</text>
+        <text encoding="base64">ICAgIHRoaXMtPm1hcF9wdHIgPSBuZXcgZ3JpZF9tYXA6OkdyaWRNYXAodGhpcy0+bGF5ZXJzXyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">SG9sb25vbWljOjpIb2xvbm9taWMoYXN0YXI6OkludGVybmFsR3JpZE1hcFJlZiBtYXApCiAgICAgICAgOiBncmlkKG1hcCksCiAgICAgICAgICBkaXNwbGF5XygpLAogICAgICAgICAgc3RhcnQoKSwKICAgICAgICAgIGdvYWwoKSwKICAgICAgICAgIHR3b3BpKDIuMCAqIE1fUEkpLAogICAgICAgICAgY2lyY2xlX3BhdGgoKSwKICAgICAgICAgIGJlc3Rfb3BlbigpLAogICAgICAgICAgY2xvc2VkKCksCiAgICAgICAgICBsb3dlcl9ib3VuZGFyeV8oMjApLAogICAgICAgICAgdXBwZXJfYm91bmRhcnlfKDgwLjApLAogICAgICAgICAgc2FmZXR5X21hcmdpbl8oMCksCiAgICAgICAgICBmX2dvYWxfKHN0ZDo6bnVtZXJpY19saW1pdHM8ZG91YmxlPjo6aW5maW5pdHkoKSksCiAgICAgICAgICBvdmVybGFwX3RocmVzaG9sZF8oMC4wNSksCiAgICAgICAgICBvcHRpbWl6ZWRfKGZhbHNlKSwKICAgICAgICAgIGN1cnZhdHVyZV9tYXhfKDAuMjIpLAogICAgICAgICAgYnNwbGluZV8obnVsbHB0ciksCiAgICAgICAgICB3aW5kb3dfbmFtZV8oImRpc3BsYXkiKSB7CiAgICBwaWVjZV9hbmdsZSA9IHR3b3BpIC8gMzYuMDsKICAgIC8vIGFsbG9jYXRlIHRoZSBpbWFnZQogICAgc3RkOjpzaXplX3QgdyA9IHRoaXMtPmdyaWQuR2V0V2lkdGgoKTsKICAgIHN0ZDo6c2l6ZV90IGggPSB0aGlzLT5ncmlkLkdldEhlaWdodCgpOwogICAgLy8gYWZ0ZXIgdXNpbmcgdGhlIHBvaW50ZXIsIGRlbGV0ZSBpdAoKICAgIHRoaXMtPmRpc3BsYXlfID0gY3Y6Ok1hdCh3LCBoLCBDVl84VUM0LCBjdjo6U2NhbGFyKDI1NSwgMjU1LCAyNTUpKTsKICAgIGN2OjpNYXQgb3ZlcmxheTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZGlzcGxheV8uY29sczsgaSsrKSB7CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBkaXNwbGF5Xy5yb3dzOyBqKyspIHsKICAgICAgICAgICAgaWYgKDEgPT0gdGhpcy0+Z3JpZC5ncmlkX21hcFtpXVtqXS5vY2N1cGFuY3kpIHsKICAgICAgICAgICAgICAgIGN2OjpWZWM0YiBpbnRlbnNpdHkoMCwgMCwgMCwgMCk7CiAgICAgICAgICAgICAgICB0aGlzLT5kaXNwbGF5Xy5hdDxjdjo6VmVjNGI+KGksIGopID0gaW50ZW5zaXR5OwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGRpc3RhbmNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIG9ic3RhY2xlOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBsYXllcnNfOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">SG9sb25vbWljOjpIb2xvbm9taWMoaW50ZXJuYWxfZ3JpZF9tYXA6OkludGVybmFsR3JpZE1hcCAmbWFwKQogICAgICAgIDogaWdtYXAobWFwKSB7Cgp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEhvbG9ub21pYyhhc3Rhcjo6SW50ZXJuYWxHcmlkTWFwUmVmIG1hcCwgY3Y6Ok1hdCAqZGlzcGxheSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gZmlsbCB0aGUgZGF0YSB0byB0aGUgYmFzaWMgbGF5ZXIKICAgIC8qKgogICAgICogICB3aGVuIHRoZSBtYXAgZGF0YSBpcyB1cGRhdGVkLCB0aGUgYmFzaWMgbGF5ZXIgYW5kIGRpc3RhbmNlIGxheWVyIGFyZSBhbHdheXMgdXBkYXRlZC4KICAgICAqIEBwYXJhbSBvZ20KICAgICAqLwogICAgdm9pZCBzZXRCYXNpY0xheWVyKGNvbnN0IHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+ICZvZ20pOwoKICAgIC8qKgogICAgICogSW5pdGlhbGl6ZSB0aGUgbWFwIHdpdGggYSBncmF5IHNjYWxlIGltYWdlKENWOFVDMSkKICAgICAqIEBwYXJhbSBpbWFnZSBzb3VyY2UgaW1hZ2UKICAgICAqLwogICAgdm9pZCBzZXRCYXNpY0xheWVyKGNvbnN0IGN2OjpNYXQgJmltYWdlKTsKICAgIC8qKgogICAgICogIFVwZGF0ZSB0aGUgZGlzdGFuY2UgbGF5ZXIKICAgICAqLwogICAgdm9pZCB1cGRhdGVEaXN0YW5jZUxheWVyKCk7CgogICAgZmxvYXQgZ2V0T2JzdGFjbGVEaXN0YW5jZShncmlkX21hcDo6SW5kZXggJmluZGV4KTsKCgoKICAgIC8vIHRoZSBtYXAgZGF0YSBjb250YWluZXIsIG11bHRpcGxlIGxheWVyCiAgICAvLyBiYXNpYyBsYXllciBpcyB0aGUgYmluYXJ5IG1hcCgwLCAxKSwgc2Vjb25kIGxheWVyIGlzIHRoZSBkaXN0YW5jZSBtYXAKCiAgICAvLyBnZXR0ZXIgZm9yIGltcG9ydGFudCBpbmZvcm1hdGlvbgogICAgLy8gZnJhbWUgaWQKICAgIHN0ZDo6c3RyaW5nIGdldEZyYW1lSUQoKSB7IHJldHVybiB0aGlzLT5tYXBfcHRyLT5nZXRGcmFtZUlkKCk7fQogICAgLy8gb3JpZ2luCiAgICBQb3NpdGlvbiBnZXRPcmlnaW4oKSB7IHJldHVybiB0aGlzLT5tYXBfcHRyLT5nZXRQb3NpdGlvbigpO30KICAgIC8vIGxlbmd0aCB2ZWN0b3Igb2YgeHksIHRoaXMgaXMgcm91bmRlZCBieSByZXNvbHV0aW9uLCBzbyBpdCdzIG5vdCB0aGUgZXhhY3QgdmFsdWUgd2l0aCB0aGUgb25lIHlvdSBwcm92aWRlCiAgICBMZW5ndGggZ2V0TGVuZ3RoKCkgeyByZXR1cm4gdGhpcy0+bWFwX3B0ci0+Z2V0TGVuZ3RoKCk7fQogICAgLy8gcmVzb2x1dGlvbgogICAgZG91YmxlIGdldFJlc29sdXRpb24oKSB7IHJldHVybiB0aGlzLT5tYXBfcHRyLT5nZXRSZXNvbHV0aW9uKCk7fQogICAgLy8gc2l6ZSB2ZWN0b3IKICAgIFNpemUgZ2V0U2l6ZSgpIHsgcmV0dXJuIHRoaXMtPm1hcF9wdHItPmdldFNpemUoKTt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -146,6 +151,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
