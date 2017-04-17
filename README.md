@@ -15,3 +15,4 @@ this repo is born.
 * `Cppcheck`  
 * `BashSupport` 
 * `Settings Repository`
+* `String Manipulation`
