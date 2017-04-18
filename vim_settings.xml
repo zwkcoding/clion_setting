@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492536984221">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="8" />
-        <mark key="." line="62" column="8" />
-        <mark key="^" line="19" column="14" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492538537143">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/circle_node.hpp" timestamp="1492435978459">
         <mark key="[" line="86" column="25" />
@@ -27,12 +27,12 @@
         <mark key="^" line="186" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492535800821">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492538526345">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="31" column="46" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="46" />
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="30" column="46" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="30" column="46" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492468397647">
         <mark key="[" line="22" column="0" />
@@ -70,12 +70,12 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492535805901">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492538327017">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
         <mark key="^" line="44" column="3" />
-        <mark key="." line="48" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -104,44 +104,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Space</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke09wZW5DVl9MSUJSQVJJRVN9KQo=</text>
+      <register name="0" type="4">
+        <text>${grid_map_cv_INCLUDE_DIRS}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKGdyaWRfbWFwX2N2IFJFUVVJUkVEKQo=</text>
+        <text encoding="base64">bWVzc2FnZSgiY2F0a2luIGRlcHMgaW5jbHVkZToiICR7Y2F0a2luX0lOQ0xVREVfRElSU30pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0xJQlJBUklFU30K</text>
+        <text encoding="base64">bWVzc2FnZSgiZ3JpZF9tYXBfY3YgaW5jbHVkZToiICR7Z3JpZF9tYXBfY3ZfSU5DTFVERV9ESVJTfSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmFkZF9kZXBlbmRlbmNpZXMoaW50ZXJuYWxfZ3JpZF9tYXAKICAgICAgICAke2NhdGtpbl9FWFBPUlRFRF9UQVJHRVRTfQogICAgICAgICkK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdyaWRfbWFwOjpHcmlkTWFwQ3ZDb252ZXJ0ZXIgY29udmVydGVyOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">c2V0KGNhdGtpbl9kZXBzCiAgICBncmlkX21hcF9jb3JlCiAgICBncmlkX21hcF9yb3MKICAgIGdyaWRfbWFwX21zZ3MKICAgIHJvc2NwcAogICAgcm9zbGliCiAgICBjdl9icmlkZ2UpCmZpbmRfcGFja2FnZShncmlkX21hcF9jdiBSRVFVSVJFRCkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGdyaWRfbWFwX2N2Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8qKgogICAgICogUmVhZCBpbWFnZSBmcm9tIGEgZ2l2ZW4gcGF0aAogICAgICogQHBhcmFtIGRpciBUaGUgb2Jzb2x1dGUgcGF0aCBvZiB0aGUgaW1hZ2UgZmlsZQogICAgICogQHBhcmFtIGltYWdlIFRoZSBpbWFnZSBkYXRhCiAgICAgKiBAcmV0dXJuIFRydWUgaWYgc3VjY2VlZCAsIGZhbHNlIG90aGVyd2lzZQogICAgICovCiAgICBib29sIHJlYWRJbWFnZShjb25zdCBzdGQ6OnN0cmluZyBkaXIsIGN2OjpNYXQgKmltYWdlKTsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG9wZW5jdjIvb3BlbmN2LmhwcD4K</text>
+        <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG9wZW5jdjIvaW1ncHJvYy9pbWdwcm9jLmhwcD4K</text>
+        <text encoding="base64">ZmluZF9wYWNrYWdlKGdyaWRfbWFwX2N2IFJFUVVJUkVEKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
