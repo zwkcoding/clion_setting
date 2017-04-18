@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492538537143">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492540977762">
+        <mark key="[" line="61" column="27" />
+        <mark key="]" line="61" column="24" />
+        <mark key="^" line="61" column="24" />
+        <mark key="." line="61" column="24" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/circle_node.hpp" timestamp="1492435978459">
         <mark key="[" line="86" column="25" />
@@ -15,11 +15,11 @@
         <mark key="^" line="86" column="28" />
         <mark key="." line="86" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/main.cpp" timestamp="1492533313559">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="46" column="17" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/main.cpp" timestamp="1492543327719">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="7" />
+        <mark key="^" line="49" column="7" />
+        <mark key="." line="49" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492460253528">
         <mark key="[" line="184" column="0" />
@@ -104,11 +104,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
+      <register name="&quot;" type="4">
+        <text>grid_map_msgs::GridMap message;
+    grid_map::GridMapRosConverter::toMessage(igm.maps, message);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PHVuc2lnbmVkIGNoYXIsIDE+</text>
       </register>
       <register name="/" type="4">
         <text>Space</text>
@@ -116,32 +117,46 @@
       <register name="0" type="4">
         <text>${grid_map_cv_INCLUDE_DIRS}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
+      <register name="1" type="4">
+        <text>grid_map_msgs::GridMap message;
+    grid_map::GridMapRosConverter::toMessage(igm.maps, message);</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bWVzc2FnZSgiY2F0a2luIGRlcHMgaW5jbHVkZToiICR7Y2F0a2luX0lOQ0xVREVfRElSU30pCg==</text>
+      <register name="2" type="4">
+        <text>grid_map_msgs::GridMap message;
+        grid_map::GridMapRosConverter::toMessage(igm.maps, message);</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWVzc2FnZSgiZ3JpZF9tYXBfY3YgaW5jbHVkZToiICR7Z3JpZF9tYXBfY3ZfSU5DTFVERV9ESVJTfSkK</text>
+      <register name="3" type="4">
+        <text>grid_map_cv
+        grid_map_core
+        grid_map_ros
+        grid_map_msgs
+        roscpp
+        roslib
+        cv_bridge</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>grid_map_core
+    grid_map_ros
+    grid_map_msgs
+    grid_map_cv
+    roscpp
+    roslib
+    cv_bridge</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdyaWRfbWFwOjpHcmlkTWFwQ3ZDb252ZXJ0ZXIgY29udmVydGVyOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">c2V0KGNhdGtpbl9kZXBzCiAgICBncmlkX21hcF9jb3JlCiAgICBncmlkX21hcF9yb3MKICAgIGdyaWRfbWFwX21zZ3MKICAgIHJvc2NwcAogICAgcm9zbGliCiAgICBjdl9icmlkZ2UpCmZpbmRfcGFja2FnZShncmlkX21hcF9jdiBSRVFVSVJFRCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyaWRfbWFwX2N2Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bWVzc2FnZSgiY2F0a2luIGRlcHMgaW5jbHVkZToiICR7Y2F0a2luX0lOQ0xVREVfRElSU30pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bWVzc2FnZSgiZ3JpZF9tYXBfY3YgaW5jbHVkZToiICR7Z3JpZF9tYXBfY3ZfSU5DTFVERV9ESVJTfSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKGdyaWRfbWFwX2N2IFJFUVVJUkVEKQo=</text>
+        <text encoding="base64">ICAgIGdyaWRfbWFwOjpHcmlkTWFwQ3ZDb252ZXJ0ZXIgY29udmVydGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
