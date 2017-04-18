@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492546895267">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492550257530">
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/circle_node.hpp" timestamp="1492435978459">
         <mark key="[" line="86" column="25" />
@@ -15,11 +15,11 @@
         <mark key="^" line="86" column="28" />
         <mark key="." line="86" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/main.cpp" timestamp="1492547934535">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="20" />
-        <mark key="^" line="44" column="20" />
-        <mark key="." line="44" column="20" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/main.cpp" timestamp="1492551830130">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492460253528">
         <mark key="[" line="184" column="0" />
@@ -27,17 +27,18 @@
         <mark key="^" line="186" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492548038133">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492552135391">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="40" column="6" />
-        <mark key="]" line="40" column="16" />
-        <mark key="^" line="40" column="16" />
-        <mark key="." line="40" column="16" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+        <mark key="." line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492543949308">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492551532900">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492460233170">
         <mark key="'" line="962" column="0" />
@@ -70,12 +71,12 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492545416459">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492552155636">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="67" />
-        <mark key="]" line="39" column="62" />
-        <mark key="^" line="39" column="62" />
-        <mark key="." line="39" column="62" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="32" column="46" />
+        <mark key="^" line="32" column="46" />
+        <mark key="." line="32" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -104,11 +105,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b2JzLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1hcHMuc2V0QmFzaWNMYXllcnMoYmFzaWNfbGF5ZXJzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2JzLCA=</text>
+        <text>const double alpha_threshold = 0.5</text>
       </register>
       <register name="/" type="4">
         <text>Space</text>
@@ -117,45 +118,31 @@
         <text>${grid_map_cv_INCLUDE_DIRS}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcHMuc2V0QmFzaWNMYXllcnMoYmFzaWNfbGF5ZXJzKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBiYXNpY19sYXllcnN7dGhpcy0+b2JzfTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>grid_map_msgs::GridMap message;
-    grid_map::GridMapRosConverter::toMessage(igm.maps, message);</text>
-      </register>
-      <register name="4" type="4">
-        <text>grid_map_msgs::GridMap message;
-        grid_map::GridMapRosConverter::toMessage(igm.maps, message);</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>grid_map_cv
-        grid_map_core
-        grid_map_ros
-        grid_map_msgs
-        roscpp
-        roslib
-        cv_bridge</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSByYWdkb2xsIG9uIDEzLzA0LzE3LgovLwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>grid_map_core
-    grid_map_ros
-    grid_map_msgs
-    grid_map_cv
-    roscpp
-    roslib
-    cv_bridge</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWVzc2FnZSgiY2F0a2luIGRlcHMgaW5jbHVkZToiICR7Y2F0a2luX0lOQ0xVREVfRElSU30pCg==</text>
+        <text encoding="base64">ICAgIGdyaWRfbWFwOjpHcmlkTWFwQ3ZDb252ZXJ0ZXI6OmFkZExheWVyRnJvbUltYWdlPHVuc2lnbmVkIGNoYXIsIDE+KGltYWdlLCBpZ20ub2JzLCBpZ20ubWFwcywgMSwgMCwgMC41KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWVzc2FnZSgiZ3JpZF9tYXBfY3YgaW5jbHVkZToiICR7Z3JpZF9tYXBfY3ZfSU5DTFVERV9ESVJTfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nICZsYXllciwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
