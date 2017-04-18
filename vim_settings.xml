@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492536358369">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492536984221">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="62" column="8" />
         <mark key="^" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/circle_node.hpp" timestamp="1492435978459">
@@ -104,17 +104,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdyaWRfbWFwX2N2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Space</text>
       </register>
-      <register name="0" type="4">
-        <text>igm.maps</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAke09wZW5DVl9MSUJSQVJJRVN9KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAke2dyaWRfbWFwX2N2X0lOQ0xVREVfRElSU30K</text>
