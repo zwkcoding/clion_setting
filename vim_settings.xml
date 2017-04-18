@@ -27,12 +27,12 @@
         <mark key="^" line="186" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492552135391">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492554911304">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="3" />
-        <mark key="^" line="46" column="3" />
-        <mark key="." line="46" column="3" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="3" />
+        <mark key="." line="55" column="3" />
+        <mark key="^" line="55" column="3" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492551532900">
         <mark key="[" line="26" column="29" />
@@ -71,12 +71,12 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492552155636">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492553542610">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="46" />
-        <mark key="^" line="32" column="46" />
-        <mark key="." line="32" column="46" />
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="59" column="33" />
+        <mark key="^" line="59" column="33" />
+        <mark key="." line="59" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -106,7 +106,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcHMuc2V0QmFzaWNMYXllcnMoYmFzaWNfbGF5ZXJzKTsK</text>
+        <text encoding="base64">ICAgIGN2OjpNYXQK</text>
       </register>
       <register name="-" type="4">
         <text>const double alpha_threshold = 0.5</text>
@@ -118,31 +118,31 @@
         <text>${grid_map_cv_INCLUDE_DIRS}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcHMuc2V0QmFzaWNMYXllcnMoYmFzaWNfbGF5ZXJzKTsK</text>
+        <text encoding="base64">ICAgIGN2OjpNYXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBiYXNpY19sYXllcnN7dGhpcy0+b2JzfTsK</text>
+        <text encoding="base64">ICAgIEdyaWRNYXBDdkNvbnZlcnRlcjo6dG9JbWFnZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcHMuc2V0QmFzaWNMYXllcnMoYmFzaWNfbGF5ZXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBiYXNpY19sYXllcnN7dGhpcy0+b2JzfTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSByYWdkb2xsIG9uIDEzLzA0LzE3LgovLwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSByYWdkb2xsIG9uIDEzLzA0LzE3LgovLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdyaWRfbWFwOjpHcmlkTWFwQ3ZDb252ZXJ0ZXI6OmFkZExheWVyRnJvbUltYWdlPHVuc2lnbmVkIGNoYXIsIDE+KGltYWdlLCBpZ20ub2JzLCBpZ20ubWFwcywgMSwgMCwgMC41KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nICZsYXllciwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
