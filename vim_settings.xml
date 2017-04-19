@@ -45,12 +45,12 @@
         <mark key="^" line="186" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492569642804">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492570514208">
         <mark key="'" line="17" column="36" />
-        <mark key="[" line="55" column="82" />
-        <mark key="]" line="55" column="40" />
-        <mark key="." line="55" column="40" />
-        <mark key="^" line="55" column="40" />
+        <mark key="[" line="61" column="38" />
+        <mark key="]" line="61" column="38" />
+        <mark key="." line="61" column="38" />
+        <mark key="^" line="61" column="38" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492569684824">
         <mark key="[" line="54" column="4" />
@@ -114,17 +114,17 @@
       <jump line="17" column="36" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVpCg==</text>
+      <register name="&quot;" type="4">
+        <text>auto end = std::chrono::steady_clock::now();</text>
       </register>
       <register name="-" type="4">
-        <text>binary</text>
+        <text>std::</text>
       </register>
       <register name="/" type="4">
         <text>Space</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86OmR1cmF0aW9uPGRvdWJsZT4gPiAoZW5kIC0gc3RhcnQpLmNvdW50KCk7</text>
+        <text>auto end = std::chrono::steady_clock::now();</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVpCg==</text>
