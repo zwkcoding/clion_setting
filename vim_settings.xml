@@ -30,11 +30,11 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492550257530">
-        <mark key="[" line="65" column="1" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492625702091">
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="74" column="23" />
+        <mark key="^" line="60" column="8" />
+        <mark key="." line="74" column="8" />
       </file>
       <file name="/fragment.mm" timestamp="1492621431059">
         <mark key="[" line="0" column="0" />
@@ -52,11 +52,12 @@
         <mark key="." line="80" column="20" />
         <mark key="^" line="80" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" timestamp="1492625287776">
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="24" />
-        <mark key="^" line="47" column="24" />
-        <mark key="." line="47" column="24" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" timestamp="1492625537778">
+        <mark key="'" line="25" column="12" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="14" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="25" column="14" />
       </file>
       <file name="/LLDB" timestamp="1492621582394">
         <mark key="[" line="0" column="0" />
@@ -103,21 +104,20 @@
       <jump line="17" column="36" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
       <jump line="24" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
+      <jump line="25" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># it's not good to add all the package name here. Because some of the packges are not</text>
+        <text>internal_grid_map</text>
       </register>
       <register name="-" type="4">
-        <text># it's not good to add all the package name here. Because some of the packges are not</text>
+        <text>internal_grid_map</text>
       </register>
       <register name="/" type="4">
-        <text>Space</text>
+        <text encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>EXPECT_FLOAT_EQ(sqrt(2.0), igm.getObstacleDistance(Index(2, 0)));
-    EXPECT_FLOAT_EQ(0, igm.getObstacleDistance(Index(2, 1)));
-    EXPECT_FLOAT_EQ(1, igm.getObstacleDistance(Index(2, 2)));</text>
+        <text>${PROJECT_NAME}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgSXQgZG9lc24ndCBleGlzdCEK</text>
@@ -151,10 +151,10 @@
       </register>
     </registers>
     <search>
-      <last-search>Space</last-search>
+      <last-search encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</last-search>
       <last-offset />
-      <last-pattern>Space</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -165,6 +165,7 @@
         <entry>spaceExplore</entry>
         <entry>space</entry>
         <entry>Space</entry>
+        <entry encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
