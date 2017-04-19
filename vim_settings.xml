@@ -24,7 +24,8 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492637703610">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492638874754">
+        <mark key="'" line="68" column="25" />
         <mark key="[" line="49" column="27" />
         <mark key="]" line="49" column="24" />
         <mark key="." line="49" column="24" />
@@ -45,13 +46,15 @@
       <file name="/fragment.mm" timestamp="1492621431059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492637297052">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492638451184">
+        <mark key="'" line="66" column="23" />
         <mark key="[" line="66" column="23" />
         <mark key="]" line="66" column="23" />
         <mark key="." line="66" column="23" />
         <mark key="^" line="66" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/tests/holonomic_test.cpp" timestamp="1492628938056">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/tests/holonomic_test.cpp" timestamp="1492638524299">
+        <mark key="'" line="186" column="0" />
         <mark key="[" line="172" column="13" />
         <mark key="]" line="172" column="16" />
         <mark key="^" line="172" column="16" />
@@ -79,8 +82,8 @@
       <file name="/LLDB" timestamp="1492621582394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492637663016">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492638477910">
+        <mark key="'" line="21" column="54" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -130,6 +133,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
       <jump line="25" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" />
       <jump line="7" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
+      <jump line="66" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" />
+      <jump line="21" column="54" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
+      <jump line="186" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/tests/holonomic_test.cpp" />
+      <jump line="68" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -139,7 +146,7 @@
         <text>holonomic</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</text>
+        <text>Holonomic</text>
       </register>
       <register name="0" type="4">
         <text>space_explore</text>
@@ -176,9 +183,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</last-search>
+      <last-search>Holonomic</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</last-pattern>
+      <last-pattern>Holonomic</last-pattern>
+      <last-replace>SpaceExplore</last-replace>
+      <last-substitute>Holonomic</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -191,9 +200,11 @@
         <entry>space</entry>
         <entry>Space</entry>
         <entry encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</entry>
+        <entry>Holonomic</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>%s/Holonomic/SpaceExplore/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
