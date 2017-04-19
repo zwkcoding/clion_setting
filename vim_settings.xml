@@ -3,11 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1492621209790">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/circle_node.hpp" timestamp="1492435978459">
         <mark key="[" line="86" column="25" />
         <mark key="]" line="86" column="28" />
         <mark key="^" line="86" column="28" />
         <mark key="." line="86" column="28" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/main.cpp" timestamp="1492622109811">
+        <mark key="[" line="50" column="77" />
+        <mark key="]" line="51" column="64" />
+        <mark key="^" line="51" column="64" />
+        <mark key="." line="51" column="64" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/package.xml" timestamp="1492443937988">
         <mark key="[" line="17" column="27" />
@@ -33,17 +42,27 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="/fragment.mm" timestamp="1492621431059">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492460253528">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
         <mark key="^" line="186" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492620251103">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="39" column="73" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492623651097">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="48" />
+        <mark key="^" line="48" column="48" />
+        <mark key="." line="48" column="48" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492623874387">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="20" />
+        <mark key="." line="80" column="20" />
+        <mark key="^" line="80" column="20" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492460233170">
         <mark key="'" line="962" column="0" />
@@ -58,18 +77,21 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="/LLDB" timestamp="1492621582394">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492566463338">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="26" />
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492566423931">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492623642340">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="35" />
+        <mark key="^" line="47" column="35" />
+        <mark key="." line="47" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -98,46 +120,52 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" />
       <jump line="89" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
       <jump line="17" column="36" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>EXPECT_FLOAT_EQ(sqrt(2.0), igm.getObstacleDistance(Index(2, 0)));
+    EXPECT_FLOAT_EQ(0, igm.getObstacleDistance(Index(2, 1)));
+    EXPECT_FLOAT_EQ(1, igm.getObstacleDistance(Index(2, 2)));</text>
       </register>
       <register name="-" type="4">
-        <text>*/</text>
+        <text>EXPECT_FLOAT_EQ(sqrt(2), igm.maps.at(igm.dis, Index(1, 0)));</text>
       </register>
       <register name="/" type="4">
         <text>Space</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiY3YgY29udmVydGluZyB0aW1lOiIgPDwgc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86OmR1cmF0aW9uPGRvdWJsZT4gPiAoZW5kIC0gc3RhcnQpLmNvdW50KCkgPDwgc3RkOjplbmRsOwo=</text>
+      <register name="0" type="4">
+        <text>EXPECT_FLOAT_EQ(sqrt(2.0), igm.getObstacleDistance(Index(2, 0)));
+    EXPECT_FLOAT_EQ(0, igm.getObstacleDistance(Index(2, 1)));
+    EXPECT_FLOAT_EQ(1, igm.getObstacleDistance(Index(2, 2)));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVYUEVDVF9GTE9BVF9FUSgwLCBpZ20ubWFwcy5hdChpZ20ub2JzLCBncmlkX21hcDo6SW5kZXgoMywgMikpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVYUEVDVF9GTE9BVF9FUSgwLCBpZ20ubWFwcy5hdChpZ20ub2JzLCBncmlkX21hcDo6SW5kZXgoMSwgMSkpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiZGlzdGFuY2UgdHJhbnNmb3JtIHRpbWU6IiA8PCBzdGQ6OmNocm9ubzo6ZHVyYXRpb25fY2FzdDxzdGQ6OmNocm9ubzo6ZHVyYXRpb248ZG91YmxlPiA+IChlbmQgLSBwdDEpLmNvdW50KCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIC8vaWdtLmFkZE9ic3RhY2xlTGF5ZXJGcm9tSW1hZ2UoaW1hZ2UsIDAuNSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiY2FzdCB0aW1lOiIgPDwgc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86OmR1cmF0aW9uPGRvdWJsZT4gPiAocHQxIC0gc3RhcnQpLmNvdW50KCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIEVYUEVDVF9GTE9BVF9FUSgwLCBpZ20ubWFwcy5hdChpZ20ub2JzLCBncmlkX21hcDo6SW5kZXgoNCwgMykpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAidG90YWwgcnVudGltZToiIDw8IHRvdGFsIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgIEVYUEVDVF9GTE9BVF9FUSgwLCBpZ20ubWFwcy5hdChpZ20ub2JzLCBncmlkX21hcDo6SW5kZXgoMSwgMSkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSB0b3RhbCA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjpkdXJhdGlvbjxkb3VibGU+ID4gKGVuZCAtIHN0YXJ0KS5jb3VudCgpOwo=</text>
+        <text encoding="base64">ICAgIGN2OjpNYXQgaW1nKHJvd3MsIGNvbHMsIENWXzMyRkMxLCAxLjApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZW5kID0gc3RkOjpjaHJvbm86OnN0ZWFkeV9jbG9jazo6bm93KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
