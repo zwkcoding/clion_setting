@@ -45,18 +45,18 @@
         <mark key="^" line="186" column="13" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492555698057">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492563257693">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="5" />
-        <mark key="." line="56" column="5" />
-        <mark key="^" line="56" column="5" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+        <mark key="." line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492561369184">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="35" />
-        <mark key="^" line="29" column="35" />
-        <mark key="." line="29" column="35" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492562331094">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="38" />
+        <mark key="^" line="55" column="38" />
+        <mark key="." line="55" column="38" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492460233170">
         <mark key="'" line="962" column="0" />
@@ -72,12 +72,12 @@
         <mark key="." line="78" column="0" />
       </file>
       <file name="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/eigen.hpp" timestamp="1492560730447" />
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492553542610">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492561780234">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="59" column="33" />
-        <mark key="^" line="59" column="33" />
-        <mark key="." line="59" column="33" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -106,8 +106,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy0+bWFwcywgKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -119,31 +119,31 @@
         <text encoding="base64">Zm9yIChpbnQgcm93ID0gMDsgcm93IDwgaWdtLm1hcHMuZ2V0U2l6ZSgpKDApOyByb3crKykgewogICAgICAgIGZvciAoaW50IGNvbCA9IDA7IGNvbCA8IGlnbS5tYXBzLmdldFNpemUoKSgxKTsgY29sKyspIHsKICAgICAgICAgICAgZmxvYXQgdmFsdWUgPSBpZ20ubWFwcy5hdChpZ20ub2JzLCBncmlkX21hcDo6SW5kZXgocm93LCBjb2wpKTsKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICIoIiA8PCByb3cgPDwgIiwiIDw8IGNvbCA8PCAiKT0iIDw8IHZhbHVlIDw8ICIgICI7CiAgICAgICAgfQogICAgICAgIHN0ZDo6Y291dCA8PCBzdGQ6OmVuZGw7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1hdHJpeDxmbG9hdCwgRHluYW1pYywgRHluYW1pYz4gaW07Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy0+bWFwcywgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN2OjpNYXQK</text>
+        <text encoding="base64">ICAgIC8vR3JpZE1hcEN2Q29udmVydGVyOjphZGRMYXllckZyb21JbWFnZTxmbG9hdCwgMT4oZGlzdGFuY2VfbWFwLCB0aGlzLT5kaXMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEdyaWRNYXBDdkNvbnZlcnRlcjo6dG9JbWFnZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5hcnlfbWFwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcHMuc2V0QmFzaWNMYXllcnMoYmFzaWNfbGF5ZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDVl84VUMxLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBiYXNpY19sYXllcnN7dGhpcy0+b2JzfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLT5vYnMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdyaWRNYXBDdkNvbnZlcnRlcjo6dG9JbWFnZTx1bnNpZ25lZCBjaGFyLCAxPih0aGlzLT5tYXBzLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hdHJpeDxmbG9hdCwgRHluYW1pYywgRHluYW1pYz4gaW07Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSByYWdkb2xsIG9uIDEzLzA0LzE3LgovLwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGN2OjpNYXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdyaWRNYXBDdkNvbnZlcnRlcjo6dG9JbWFnZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
