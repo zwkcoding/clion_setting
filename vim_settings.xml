@@ -92,6 +92,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492653585506">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492649294783">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="0" />
