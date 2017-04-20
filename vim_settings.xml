@@ -31,12 +31,12 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="49" column="24" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492709397184">
-        <mark key="'" line="500" column="39" />
-        <mark key="[" line="231" column="8" />
-        <mark key="]" line="231" column="10" />
-        <mark key="^" line="231" column="10" />
-        <mark key="." line="231" column="10" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492713176925">
+        <mark key="'" line="512" column="39" />
+        <mark key="[" line="445" column="37" />
+        <mark key="]" line="443" column="55" />
+        <mark key="^" line="443" column="55" />
+        <mark key="." line="443" column="55" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -218,8 +218,8 @@
       <jump line="494" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpKS0+Y2lyY2xlLnBvc2l0aW9u</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -228,7 +228,7 @@
         <text>grid</text>
       </register>
       <register name="0" type="4">
-        <text>holonomic</text>
+        <text encoding="base64">Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpKS0+Y2lyY2xlLnBvc2l0aW9u</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
