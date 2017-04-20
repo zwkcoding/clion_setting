@@ -83,11 +83,10 @@
         <mark key="." line="80" column="20" />
         <mark key="^" line="80" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" timestamp="1492637395806">
-        <mark key="[" line="67" column="1" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" timestamp="1492668326039">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/LLDB" timestamp="1492621582394">
         <mark key="[" line="0" column="0" />
@@ -220,7 +219,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNwYWNlX2V4cGxvcmU6OlNwYWNlRXhwbG9yZSBob2xvbm9taWMoZ20pOwo=</text>
+        <text encoding="base64">bWVzc2FnZSgib3MgbmFtZSIgJHtMU0JfUkVMRUFTRV9JRH0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -232,15 +231,13 @@
         <text>holonomic</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">bWVzc2FnZSgib3MgbmFtZSIgJHtMU0JfUkVMRUFTRV9JRH0pCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBPVVRQVVRfU1RSSVBfVFJBSUxJTkdfV0hJVEVTUEFDRQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHNwYWNlX2V4cGxvcmU6OlNwYWNlRXhwbG9yZSBob2xvbm9taWMoZ20pOwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>// contructor of holonomic
-    space_explore::SpaceExplore h(gm);</text>
-      </register>
-      <register name="3" type="4">
-        <text>// contructor of holonomic
-    space_explore::SpaceExplore h(gm);</text>
       </register>
       <register name="4" type="4">
         <text>// contructor of holonomic
@@ -254,14 +251,16 @@
         <text>// contructor of holonomic
     space_explore::SpaceExplore h(gm);</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnRydWN0b3Igb2YgaG9sb25vbWljCg==</text>
+      <register name="7" type="4">
+        <text>// contructor of holonomic
+    space_explore::SpaceExplore h(gm);</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG9wZW5jdjIvY29yZS9tYXQuaHBwPgo=</text>
+      <register name="8" type="4">
+        <text>// contructor of holonomic
+    space_explore::SpaceExplore h(gm);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsX2dyaWRfbWFwOjpJbnRlcm5hbEdyaWRNYXAgaWdtOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnRydWN0b3Igb2YgaG9sb25vbWljCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
