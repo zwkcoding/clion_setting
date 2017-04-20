@@ -24,19 +24,19 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492716371169">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492721703170">
         <mark key="'" line="70" column="25" />
-        <mark key="[" line="70" column="26" />
-        <mark key="]" line="71" column="30" />
-        <mark key="." line="71" column="30" />
-        <mark key="^" line="71" column="30" />
+        <mark key="[" line="68" column="57" />
+        <mark key="]" line="68" column="50" />
+        <mark key="^" line="68" column="50" />
+        <mark key="." line="68" column="50" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492717804114">
-        <mark key="'" line="533" column="0" />
-        <mark key="[" line="723" column="77" />
-        <mark key="]" line="723" column="64" />
-        <mark key="." line="723" column="64" />
-        <mark key="^" line="723" column="64" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492721440355">
+        <mark key="'" line="606" column="21" />
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="29" />
+        <mark key="^" line="29" column="29" />
+        <mark key="." line="29" column="29" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -98,11 +98,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492666318829">
-        <mark key="[" line="184" column="23" />
-        <mark key="]" line="184" column="16" />
-        <mark key="^" line="184" column="16" />
-        <mark key="." line="184" column="16" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492721485134">
+        <mark key="[" line="68" column="3" />
+        <mark key="]" line="69" column="37" />
+        <mark key="^" line="69" column="37" />
+        <mark key="." line="69" column="37" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492649294783">
         <mark key="[" line="23" column="0" />
@@ -119,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="290" column="26" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="778" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="969" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
@@ -217,55 +216,58 @@
       <jump line="465" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="494" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="533" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="729" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="177" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="604" column="21" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsX2dyaWRfbWFwOjpJbnRlcm5hbEdyaWRNYXAgaW50ZXJuYWxfbWFwOwo=</text>
+        <text encoding="base64">ICAgIGN2OjppbXdyaXRlKHNlY29uZF9yZXMsIGhvbG9ub21pYy5kaXNwbGF5Xyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpKzEpLT5jaXJjbGUucG9zaXRpb24=</text>
       </register>
       <register name="/" type="4">
-        <text>grid</text>
+        <text>The circle path</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpKS0+Y2lyY2xlLnBvc2l0aW9u</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsX2dyaWRfbWFwOjpJbnRlcm5hbEdyaWRNYXAgaW50ZXJuYWxfbWFwOwo=</text>
+        <text encoding="base64">ICAgIGN2OjppbXdyaXRlKHNlY29uZF9yZXMsIGhvbG9ub21pYy5kaXNwbGF5Xyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpcmNsZV9wYXRoLmNpcmNsZXMuYXQoaSsxKS0+Y2lyY2xlLnBvc2l0aW9uOwo=</text>
+        <text encoding="base64">ICAgIC8vIHNob3cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+JiBlbmQgPQo=</text>
+        <text encoding="base64">ICAgIHZvaWQgU2hvd0NpcmNsZVBhdGgoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpcmNsZV9wYXRoLmNpcmNsZXMuYXQoaSktPmNpcmNsZS5wb3NpdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBJTkZPIDw8ICJUaGUgY2lyY2xlIHBhdGggc2l6ZSBiZWZvcmUgb3B0aW1pemU6IiA8PCBzaXplOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+JiBzdGFydCA9Cg==</text>
+        <text encoding="base64">ICAgIElORk8gPDwgImRlbHRhIGhlYWRpbmcgY2hhbmdlOiIgPDwgZGVsdGFfaGVhZGluZ19jaGFuZ2U7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT4mIHN0YXJ0ID0KICAgICAgICAgICAgICAgIGNpcmNsZV9wYXRoLmNpcmNsZXMuYXQoaSktPmNpcmNsZS5wb3NpdGlvbjsKICAgICAgICBjb25zdCBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiYgZW5kID0KICAgICAgICAgICAgICAgIGNpcmNsZV9wYXRoLmNpcmNsZXMuYXQoaSsxKS0+Y2lyY2xlLnBvc2l0aW9uOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIElORk8gPDwgIm1heCBoZWFkaW5nIGNoYW5nZToiIDw8IG1heF9oZWFkaW5nX2NoYW5nZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBJTkZPIDw8ICJvcHRpbWl6ZSBwYXRoLCBlbmVyZ3k6IiA8PCBlbmVyZ3kyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBJTkZPIDw8ICJvcHRpbWl6ZSBwYXRoLCBzbW9vdGhuZXNzOiIgPDwgc21vb3RobmVzczI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLT5pbnRlcm5hbF9ncmlkLm1hcHMuZ2V0SW5kZXgobmNwX3BvcywgaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJTkZPIDw8ICJvcHRpbWl6ZSBwYXRoLCBwYXRoIGxlbmd0aDoiIDw8IHN1Y2Nlc2l2ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>grid</last-search>
+      <last-search>The circle path</last-search>
       <last-offset />
-      <last-pattern>grid</last-pattern>
+      <last-pattern>The circle path</last-pattern>
       <last-replace>SpaceExplore</last-replace>
       <last-substitute>Holonomic</last-substitute>
       <last-dir>1</last-dir>
@@ -283,6 +285,9 @@
         <entry>Holonomic</entry>
         <entry>Input</entry>
         <entry>grid</entry>
+        <entry>delta_heading</entry>
+        <entry>size of circle</entry>
+        <entry>The circle path</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
