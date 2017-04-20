@@ -30,12 +30,11 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492724833216">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492731581161">
         <mark key="'" line="44" column="8" />
-        <mark key="[" line="491" column="0" />
-        <mark key="]" line="491" column="0" />
-        <mark key="^" line="480" column="7" />
-        <mark key="." line="491" column="0" />
+        <mark key="]" line="491" column="3" />
+        <mark key="^" line="491" column="3" />
+        <mark key="." line="491" column="3" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -220,11 +219,11 @@
       <jump line="44" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpKzEpLT5jaXJjbGUucG9zaXRpb24=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>size of the circle</text>
