@@ -37,6 +37,7 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
+      <file name="/opt/ros/kinetic/include/cv_bridge/cv_bridge.h" timestamp="1492654322737" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492625702091">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="23" />
