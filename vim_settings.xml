@@ -30,15 +30,15 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492792795373">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492809450117">
         <mark key="'" line="57" column="25" />
-        <mark key="[" line="54" column="29" />
+        <mark key="[" line="57" column="27" />
         <mark key="]" line="54" column="27" />
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="27" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492740804001">
-        <mark key="'" line="714" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492809654318">
+        <mark key="'" line="20" column="6" />
         <mark key="i" line="5" column="9" />
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="22" />
@@ -140,8 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="963" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
-      <jump line="944" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="960" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="10" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
       <jump line="82" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
@@ -240,6 +238,8 @@
       <jump line="114" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" />
       <jump line="80" column="20" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
       <jump line="40" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" />
+      <jump line="944" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="20" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -249,7 +249,7 @@
         <text>space_explore</text>
       </register>
       <register name="/" type="4">
-        <text>internal_grid_map</text>
+        <text>optimize</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW50ZXJuYWxfZ3JpZF9tYXA6OkludGVybmFsR3JpZE1hcCBnbTsKICAgIHVuc2lnbmVkIGludCByb3dzLCBjb2xzOwogICAgcm93cyA9IDUwMDsKICAgIGNvbHMgPSA1MDA7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDEuMDsKICAgIGN2OjpNYXQgaW1nKHJvd3MsIGNvbHMsIDI1NSk7CiAgICBnbS5pbml0aWFsaXplRnJvbUltYWdlKGltZywxLjAsIGdyaWRfbWFwOjpQb3NpdGlvbjo6WmVybygpKTsKICAgIGdtLmFkZE9ic3RhY2xlTGF5ZXJGcm9tSW1hZ2UoaW1nKTsKICAgIGdtLnVwZGF0ZURpc3RhbmNlTGF5ZXIoKTsKICAgIA==</text>
@@ -286,9 +286,9 @@
       </register>
     </registers>
     <search>
-      <last-search>internal_grid_map</last-search>
+      <last-search>optimize</last-search>
       <last-offset />
-      <last-pattern>internal_grid_map</last-pattern>
+      <last-pattern>optimize</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -314,6 +314,7 @@
         <entry>size of the circle</entry>
         <entry>f_goal_</entry>
         <entry>internal_grid_map</entry>
+        <entry>optimize</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
