@@ -110,12 +110,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492717465244">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492735327973">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="60" />
-        <mark key="]" line="49" column="60" />
-        <mark key="^" line="49" column="60" />
-        <mark key="." line="49" column="60" />
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="63" column="10" />
+        <mark key="^" line="63" column="10" />
+        <mark key="." line="63" column="10" />
       </file>
     </filemarks>
     <jumps>
