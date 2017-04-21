@@ -24,18 +24,19 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492724686266">
-        <mark key="'" line="71" column="25" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492734956156">
+        <mark key="'" line="59" column="25" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="57" column="41" />
+        <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492732773411">
-        <mark key="'" line="960" column="0" />
-        <mark key="[" line="499" column="63" />
-        <mark key="]" line="499" column="65" />
-        <mark key="." line="499" column="65" />
-        <mark key="^" line="499" column="65" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492735182254">
+        <mark key="'" line="496" column="29" />
+        <mark key="[" line="589" column="8" />
+        <mark key="]" line="589" column="7" />
+        <mark key="." line="589" column="7" />
+        <mark key="^" line="589" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -97,11 +98,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492732512679">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="66" column="37" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492735107271">
+        <mark key="[" line="187" column="25" />
+        <mark key="]" line="187" column="64" />
+        <mark key="^" line="187" column="64" />
+        <mark key="." line="187" column="64" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492649294783">
         <mark key="[" line="23" column="0" />
@@ -118,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="999" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="1000" column="44" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="199" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="214" column="21" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
@@ -218,13 +218,14 @@
       <jump line="44" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="481" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="960" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="497" column="29" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>grid_map.HasChanged() ||</text>
       </register>
       <register name="-" type="4">
-        <text>grid.GetObstacleDistance(start.position)</text>
+        <text>grid_map.HasChanged() ||</text>
       </register>
       <register name="/" type="4">
         <text>size of the circle</text>
@@ -233,49 +234,31 @@
         <text encoding="base64">Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpKS0+Y2lyY2xlLnBvc2l0aW9u</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFzdGFyb3B0L0dyaWRNYXAvSW50ZXJuYWxHcmlkTWFwLmhwcD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBjbGVhcmFuY2UgPQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBncmlkID0gZ3JpZF9tYXA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYXV0byBESVNQTEFZID0gMTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzdGFyOjpJbnRlcm5hbEdyaWRNYXBSZWYgZ3JpZDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRoZSBjdXJyZW50IGdyaWQgbWFwIHJlZmVyZW5jZSBwb2ludGVyCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>grid_map::Index pose_index;
-    grid_map::Position start_pos(start.x, start.y);
-    internal_grid.maps.getIndex(start_pos, pose_index);
-    cv::Point start_pt(pose_index(1), pose_index(0));
-    cv::circle(*image, start_pt, 10, cv::Scalar(0, 255, 255), -1, 8);
-    //pose_index = grid.PoseToIndex(end);
-    grid_map::Position end_pos(end.x, end.y);
-    internal_grid.maps.getIndex(end_pos, pose_index);
-    cv::Point end_pt(pose_index(1), pose_index(0));
-    cv::circle(*image, end_pt, 10, cv::Scalar(255, 255, 0), -1, 8);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdtLlByb2Nlc3NWb3Jvbm9pRGlhZ3JhbSgpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>grid_map::Index pose_index;
-    grid_map::Position start_pos(start.x, start.y);
-    internal_grid.maps.getIndex(start_pos, pose_index);
-    cv::Point start_pt(pose_index(1), pose_index(0));
-    cv::circle(*image, start_pt, 10, cv::Scalar(0, 255, 255), -1, 8);
-    //pose_index = grid.PoseToIndex(end);
-    grid_map::Position end_pos(end.x, end.y);
-    internal_grid.maps.getIndex(end_pos, pose_index);
-    cv::Point end_pt(pose_index(1), pose_index(0));
-    c</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdtLk9jY3VweUNlbGwoaSwgaik7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGltZ19zcmMuYXQ8dW5zaWduZWQgY2hhcj4oaSwgaikgPCAyNTUpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
