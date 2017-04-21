@@ -37,8 +37,8 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="27" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492813345820">
-        <mark key="'" line="129" column="21" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492817659644">
+        <mark key="'" line="384" column="12" />
         <mark key="i" line="5" column="9" />
         <mark key="[" line="16" column="29" />
         <mark key="]" line="16" column="27" />
@@ -141,8 +141,6 @@
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1492811917160" />
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
-      <jump line="1" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
       <jump line="38" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" />
       <jump line="89" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" />
@@ -241,6 +239,8 @@
       <jump line="225" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="703" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="129" column="21" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="828" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="384" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -250,7 +250,7 @@
         <text>space_explore</text>
       </register>
       <register name="/" type="4">
-        <text>optimize</text>
+        <text>drawCirclePath</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW50ZXJuYWxfZ3JpZF9tYXA6OkludGVybmFsR3JpZE1hcCBnbTsKICAgIHVuc2lnbmVkIGludCByb3dzLCBjb2xzOwogICAgcm93cyA9IDUwMDsKICAgIGNvbHMgPSA1MDA7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDEuMDsKICAgIGN2OjpNYXQgaW1nKHJvd3MsIGNvbHMsIDI1NSk7CiAgICBnbS5pbml0aWFsaXplRnJvbUltYWdlKGltZywxLjAsIGdyaWRfbWFwOjpQb3NpdGlvbjo6WmVybygpKTsKICAgIGdtLmFkZE9ic3RhY2xlTGF5ZXJGcm9tSW1hZ2UoaW1nKTsKICAgIGdtLnVwZGF0ZURpc3RhbmNlTGF5ZXIoKTsKICAgIA==</text>
@@ -287,9 +287,9 @@
       </register>
     </registers>
     <search>
-      <last-search>optimize</last-search>
+      <last-search>drawCirclePath</last-search>
       <last-offset />
-      <last-pattern>optimize</last-pattern>
+      <last-pattern>drawCirclePath</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -316,6 +316,7 @@
         <entry>f_goal_</entry>
         <entry>internal_grid_map</entry>
         <entry>optimize</entry>
+        <entry>drawCirclePath</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
