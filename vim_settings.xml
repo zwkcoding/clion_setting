@@ -31,12 +31,12 @@
         <mark key="^" line="92" column="25" />
         <mark key="." line="92" column="25" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492735182254">
-        <mark key="'" line="496" column="29" />
-        <mark key="[" line="589" column="8" />
-        <mark key="]" line="589" column="7" />
-        <mark key="." line="589" column="7" />
-        <mark key="^" line="589" column="7" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492739183509">
+        <mark key="'" line="714" column="0" />
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -63,12 +63,12 @@
         <mark key="." line="66" column="23" />
         <mark key="^" line="66" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/tests/holonomic_test.cpp" timestamp="1492736838165">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/tests/holonomic_test.cpp" timestamp="1492738316289">
         <mark key="'" line="186" column="0" />
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="39" />
-        <mark key="^" line="33" column="39" />
-        <mark key="." line="33" column="39" />
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="41" />
+        <mark key="." line="34" column="42" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492717842083">
         <mark key="[" line="53" column="24" />
@@ -98,11 +98,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492735107271">
-        <mark key="[" line="187" column="25" />
-        <mark key="]" line="187" column="64" />
-        <mark key="^" line="187" column="64" />
-        <mark key="." line="187" column="64" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492738987223">
+        <mark key="'" line="114" column="23" />
+        <mark key="[" line="240" column="4" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="240" column="3" />
+        <mark key="." line="240" column="4" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492649294783">
         <mark key="[" line="23" column="0" />
@@ -119,10 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1000" column="44" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
-      <jump line="199" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
-      <jump line="214" column="21" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
-      <jump line="581" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="690" column="13" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="5" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
       <jump line="963" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
@@ -219,55 +216,59 @@
       <jump line="481" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="960" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="497" column="29" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="589" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="713" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="243" column="42" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" />
+      <jump line="114" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, internal_map</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, internal_map</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>size of the circle</text>
+        <text>f_goal_</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW50ZXJuYWxfZ3JpZF9tYXA6OkludGVybmFsR3JpZE1hcCBnbTsKICAgIHVuc2lnbmVkIGludCByb3dzLCBjb2xzOwogICAgcm93cyA9IDUwMDsKICAgIGNvbHMgPSA1MDA7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDEuMDsKICAgIGN2OjpNYXQgaW1nKHJvd3MsIGNvbHMsIDI1NSk7CiAgICBnbS5pbml0aWFsaXplRnJvbUltYWdlKGltZywxLjAsIGdyaWRfbWFwOjpQb3NpdGlvbjo6WmVybygpKTsKICAgIGdtLmFkZE9ic3RhY2xlTGF5ZXJGcm9tSW1hZ2UoaW1nKTsKICAgIGdtLnVwZGF0ZURpc3RhbmNlTGF5ZXIoKTsKICAgIA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXN0YXI6OkludGVybmFsR3JpZE1hcCBnbTsKICAgIHVuc2lnbmVkIGludCByb3dzLCBjb2xzOwogICAgcm93cyA9IDUwMDsKICAgIGNvbHMgPSA1MDA7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDEuMDsKICAgIHN0ZDo6dmVjdG9yPGludDhfdD4gZGF0YSA9IGdldE1hcERhdGEoNTAsIDQwLCAwKTsKICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IG9yaWdpbigwLCAwKTsKICAgIGdtLlVwZGF0ZUdyaWRNYXAoY29scywgcm93cywgcmVzb2x1dGlvbiwgb3JpZ2luLCBkYXRhKTsKICAgIGludGVybmFsX2dyaWRfbWFwOjpJbnRlcm5hbEdyaWRNYXAgaW50ZXJuYWxfbWFwOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YXN0YXI6OkludGVybmFsR3JpZE1hcCBnbTsKICAgIHVuc2lnbmVkIGludCByb3dzLCBjb2xzOwogICAgcm93cyA9IDUwMDsKICAgIGNvbHMgPSA1MDA7CiAgICBkb3VibGUgcmVzb2x1dGlvbiA9IDEuMDsKICAgIHN0ZDo6dmVjdG9yPGludDhfdD4gZGF0YSA9IGdldE1hcERhdGEoNTAsIDQwLCAwKTsKICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IG9yaWdpbigwLCAwKTsKICAgIGdtLlVwZGF0ZUdyaWRNYXAoY29scywgcm93cywgcmVzb2x1dGlvbiwgb3JpZ2luLCBkYXRhKTsKICAgIGludGVybmFsX2dyaWRfbWFwOjpJbnRlcm5hbEdyaWRNYXAgaW50ZXJuYWxfbWFwOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsX2dyaWRfbWFwOjpJbnRlcm5hbEdyaWRNYXAgaW50ZXJuYWxfbWFwOwo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheV9jdl8oZGlzcGxheV9mbGFnKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdtLlVwZGF0ZUdyaWRNYXAoY29scywgcm93cywgcmVzb2x1dGlvbiwgb3JpZ2luLCBkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgYnNwbGluZV8obnVsbHB0ciksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IG9yaWdpbigwLCAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludDhfdD4gZGF0YSA9IGdldE1hcERhdGEoNTAsIDQwLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgY3VydmF0dXJlX21heF8oMC4yMiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFzdGFyb3B0L0dyaWRNYXAvSW50ZXJuYWxHcmlkTWFwLmhwcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgb3B0aW1pemVkXyhmYWxzZSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdtLlByb2Nlc3NWb3Jvbm9pRGlhZ3JhbSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>size of the circle</last-search>
+      <last-search>f_goal_</last-search>
       <last-offset />
-      <last-pattern>size of the circle</last-pattern>
+      <last-pattern>f_goal_</last-pattern>
       <last-replace encoding="base64">dGhpcy0+ZGlzcGxheV9jdl8=</last-replace>
       <last-substitute>display_cv_</last-substitute>
       <last-dir>1</last-dir>
@@ -291,6 +292,7 @@
         <entry>DISPLAY</entry>
         <entry>display_cv_</entry>
         <entry>size of the circle</entry>
+        <entry>f_goal_</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
