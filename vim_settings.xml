@@ -30,20 +30,20 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492825231839">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492831411054">
         <mark key="'" line="57" column="25" />
-        <mark key="[" line="57" column="27" />
-        <mark key="]" line="58" column="29" />
-        <mark key="^" line="58" column="29" />
-        <mark key="." line="58" column="29" />
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="58" column="38" />
+        <mark key="^" line="58" column="38" />
+        <mark key="." line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492829200724">
-        <mark key="'" line="398" column="19" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492834024517">
+        <mark key="'" line="544" column="13" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="438" column="35" />
-        <mark key="]" line="439" column="34" />
-        <mark key="." line="439" column="34" />
-        <mark key="^" line="439" column="34" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -141,21 +141,6 @@
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1492811917160" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" />
-      <jump line="25" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" />
-      <jump line="7" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
-      <jump line="66" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" />
-      <jump line="21" column="54" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" />
-      <jump line="186" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/tests/holonomic_test.cpp" />
-      <jump line="68" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" />
-      <jump line="1140" column="13" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="1161" column="33" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="1225" column="16" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="1234" column="14" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="1244" column="15" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="2292" column="32" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="2301" column="34" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="2312" column="13" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="2315" column="15" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="66" column="25" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="72" column="31" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
@@ -204,7 +189,6 @@
       <jump line="404" column="41" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="423" column="49" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="425" column="47" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="439" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="441" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="453" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="456" column="17" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -241,6 +225,22 @@
       <jump line="702" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="384" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="398" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="439" column="34" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="26" column="14" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="153" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="708" column="20" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="139" column="50" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="741" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="21" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="385" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="532" column="78" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="580" column="24" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="593" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="596" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="598" column="56" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="427" column="29" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="600" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="544" column="13" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -250,7 +250,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>draw</text>
+        <text>spaceExplore</text>
       </register>
       <register name="0" type="4">
         <text>cv::circle(*map, pt1, 1, cv::Scalar(0, 0, 255), -1, CV_AA);</text>
@@ -287,9 +287,9 @@
       </register>
     </registers>
     <search>
-      <last-search>draw</last-search>
+      <last-search>spaceExplore</last-search>
       <last-offset />
-      <last-pattern>draw</last-pattern>
+      <last-pattern>spaceExplore</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -297,12 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spaceExplore</entry>
-        <entry>space</entry>
-        <entry>Space</entry>
-        <entry encoding="base64">XDxzcGFjZV9leHBsb3JlXD4=</entry>
-        <entry>Holonomic</entry>
-        <entry>Input</entry>
         <entry>grid</entry>
         <entry>delta_heading</entry>
         <entry>size of circle</entry>
@@ -315,8 +309,14 @@
         <entry>optimize</entry>
         <entry>drawCirclePath</entry>
         <entry>optimizePah</entry>
-        <entry>optimizePath</entry>
         <entry>draw</entry>
+        <entry>getChild</entry>
+        <entry>optimizePath</entry>
+        <entry>drawCircle</entry>
+        <entry>could no find</entry>
+        <entry>could not</entry>
+        <entry>circle path</entry>
+        <entry>spaceExplore</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
