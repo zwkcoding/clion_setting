@@ -37,13 +37,13 @@
         <mark key="^" line="58" column="38" />
         <mark key="." line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492916592614">
-        <mark key="'" line="732" column="32" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492917614917">
+        <mark key="'" line="22" column="6" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+        <mark key="[" line="725" column="19" />
+        <mark key="]" line="725" column="19" />
+        <mark key="." line="725" column="19" />
+        <mark key="^" line="725" column="19" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -138,16 +138,15 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1492912309129">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1492917292950">
         <mark key="'" line="48" column="11" />
-        <mark key="[" line="175" column="0" />
+        <mark key="[" line="177" column="71" />
         <mark key="]" line="177" column="70" />
         <mark key="^" line="177" column="70" />
         <mark key="." line="177" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="46" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="109" column="62" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="134" column="31" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="135" column="0" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
@@ -247,10 +246,11 @@
       <jump line="363" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="870" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="732" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="22" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMiktPmNpcmNsZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMiktPmNpcmNsZQ==</text>
@@ -262,31 +262,31 @@
         <text encoding="base64">ZG91YmxlIHIgPSAyOwogICAgZG91YmxlIG1heF9jdXJ2YXR1cmUgPSAwLjI7CiAgICBkb3VibGUgZGVsdGFfaGVhZGluZyA9IGguZ2V0TWF4SGVhZGluZ0NoYW5nZShyLCBtYXhfY3VydmF0dXJlKTsKCiAgICAvLyBjYWxjdWxhdGUgdGhlIHRoaXJkIHNpZGUgb2YgdGhlIHRyaWFuZ2xlCiAgICBkb3VibGUgYyA9IHNxcnQoNCAqIHIgKiByIC0gcG93KHIsIDQuMCkgKiBtYXhfY3VydmF0dXJlICogbWF4X2N1cnZhdHVyZSk7CiAgICBkb3VibGUgZXhwX2RlbHRhID0gMiAqIHN0ZDo6YWNvcyhjIC8gKDIgKiByKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAicGFyYW1ldGVyOiIgPDwgdCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGVhcmFuY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMSktPmNpcmNsZS5yID0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMSktPmNpcmNsZS5wb3NpdGlvbi55ID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
