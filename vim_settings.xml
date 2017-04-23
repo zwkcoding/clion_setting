@@ -37,13 +37,13 @@
         <mark key="^" line="58" column="38" />
         <mark key="." line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492908677108">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492911880667">
         <mark key="'" line="21" column="23" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="710" column="19" />
-        <mark key="]" line="710" column="19" />
-        <mark key="." line="710" column="19" />
-        <mark key="^" line="710" column="19" />
+        <mark key="[" line="864" column="16" />
+        <mark key="]" line="864" column="15" />
+        <mark key="." line="864" column="15" />
+        <mark key="^" line="864" column="15" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -138,9 +138,15 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1492911183339">
+        <mark key="'" line="48" column="11" />
+        <mark key="[" line="175" column="4" />
+        <mark key="]" line="177" column="70" />
+        <mark key="^" line="177" column="70" />
+        <mark key="." line="177" column="70" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2315" column="15" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="66" column="25" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="72" column="31" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="74" column="7" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
@@ -240,19 +246,22 @@
       <jump line="600" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="544" column="13" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="21" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="48" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>(x3 - x1) * (x1 - x2) + (y3 - y1) * (y1 - y2)</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>(x3 - x1) * (x1 - x2) + (y3 - y1) * (y1 - y2)</text>
       </register>
       <register name="/" type="4">
-        <text>optimizePath</text>
+        <text>getIn</text>
       </register>
       <register name="0" type="4">
-        <text>cv::circle(*map, pt1, 1, cv::Scalar(0, 0, 255), -1, CV_AA);</text>
+        <text>astar::Circle getPerpendicularCircle(const astar::CircleRef first,
+                                         const astar::CircleRef second,
+                                         const astar::CircleRef third);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -286,9 +295,9 @@
       </register>
     </registers>
     <search>
-      <last-search>optimizePath</last-search>
+      <last-search>getIn</last-search>
       <last-offset />
-      <last-pattern>optimizePath</last-pattern>
+      <last-pattern>getIn</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -296,7 +305,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grid</entry>
         <entry>delta_heading</entry>
         <entry>size of circle</entry>
         <entry>The circle path</entry>
@@ -316,6 +324,7 @@
         <entry>circle path</entry>
         <entry>spaceExplore</entry>
         <entry>optimizePath</entry>
+        <entry>getIn</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
