@@ -37,13 +37,13 @@
         <mark key="^" line="58" column="38" />
         <mark key="." line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492915374550">
-        <mark key="'" line="363" column="8" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492916592614">
+        <mark key="'" line="732" column="32" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="870" column="0" />
-        <mark key="]" line="870" column="0" />
-        <mark key="^" line="866" column="25" />
-        <mark key="." line="870" column="0" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -147,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="31" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="91" column="35" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="94" column="46" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="109" column="62" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="134" column="31" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
@@ -247,16 +245,18 @@
       <jump line="663" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="737" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="363" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="870" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="732" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMiktPmNpcmNsZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">dGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMiktPmNpcmNsZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>getPerpen</text>
+        <text>optimizePath</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZG91YmxlIHIgPSAyOwogICAgZG91YmxlIG1heF9jdXJ2YXR1cmUgPSAwLjI7CiAgICBkb3VibGUgZGVsdGFfaGVhZGluZyA9IGguZ2V0TWF4SGVhZGluZ0NoYW5nZShyLCBtYXhfY3VydmF0dXJlKTsKCiAgICAvLyBjYWxjdWxhdGUgdGhlIHRoaXJkIHNpZGUgb2YgdGhlIHRyaWFuZ2xlCiAgICBkb3VibGUgYyA9IHNxcnQoNCAqIHIgKiByIC0gcG93KHIsIDQuMCkgKiBtYXhfY3VydmF0dXJlICogbWF4X2N1cnZhdHVyZSk7CiAgICBkb3VibGUgZXhwX2RlbHRhID0gMiAqIHN0ZDo6YWNvcyhjIC8gKDIgKiByKSk7Cg==</text>
@@ -293,9 +293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getPerpen</last-search>
+      <last-search>optimizePath</last-search>
       <last-offset />
-      <last-pattern>getPerpen</last-pattern>
+      <last-pattern>optimizePath</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -321,8 +321,8 @@
         <entry>spaceExplore</entry>
         <entry>getIn</entry>
         <entry>getPerpendicular</entry>
-        <entry>optimizePath</entry>
         <entry>getPerpen</entry>
+        <entry>optimizePath</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
