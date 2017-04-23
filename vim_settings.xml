@@ -37,13 +37,13 @@
         <mark key="^" line="58" column="38" />
         <mark key="." line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492913995373">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1492915374550">
         <mark key="'" line="363" column="8" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="710" column="19" />
-        <mark key="]" line="710" column="55" />
-        <mark key="^" line="710" column="55" />
-        <mark key="." line="710" column="55" />
+        <mark key="[" line="870" column="0" />
+        <mark key="]" line="870" column="0" />
+        <mark key="^" line="866" column="25" />
+        <mark key="." line="870" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -82,7 +82,7 @@
         <mark key="." line="66" column="23" />
         <mark key="^" line="66" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/tests/holonomic_test.cpp" timestamp="1492913810885">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/tests/holonomic_test.cpp" timestamp="1492915226349">
         <mark key="'" line="187" column="0" />
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="0" />
@@ -253,7 +253,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(x3 - x1) * (x1 - x2) + (y3 - y1) * (y1 - y2)</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>getPerpen</text>
@@ -268,25 +268,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAicGFyYW1ldGVyOiIgPDwgdCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBleHBfZGVsdGEgPSAyICogc3RkOjphY29zKGMgLyAoMiAqIHIpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBjID0gc3FydCg0ICogciAqIHIgLSBwb3cociwgNC4wKSAqIG1heF9jdXJ2YXR1cmUgKiBtYXhfY3VydmF0dXJlKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGN1bGF0ZSB0aGUgdGhpcmQgc2lkZSBvZiB0aGUgdHJpYW5nbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBkZWx0YV9oZWFkaW5nID0gaC5nZXRNYXhIZWFkaW5nQ2hhbmdlKHIsIG1heF9jdXJ2YXR1cmUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
