@@ -138,12 +138,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493231213053">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493250101537">
         <mark key="'" line="48" column="11" />
-        <mark key="[" line="204" column="28" />
-        <mark key="]" line="204" column="57" />
-        <mark key="^" line="204" column="57" />
-        <mark key="." line="204" column="57" />
+        <mark key="[" line="139" column="68" />
+        <mark key="]" line="141" column="32" />
+        <mark key="^" line="141" column="32" />
+        <mark key="." line="141" column="32" />
       </file>
     </filemarks>
     <jumps>
