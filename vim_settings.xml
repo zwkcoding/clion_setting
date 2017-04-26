@@ -37,13 +37,13 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493238754904">
-        <mark key="'" line="927" column="44" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493240395075">
+        <mark key="'" line="354" column="12" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="669" column="70" />
-        <mark key="]" line="669" column="70" />
-        <mark key="^" line="669" column="70" />
-        <mark key="." line="669" column="70" />
+        <mark key="[" line="170" column="3" />
+        <mark key="]" line="170" column="33" />
+        <mark key="^" line="170" column="33" />
+        <mark key="." line="170" column="33" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -147,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="28" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="177" column="5" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="178" column="28" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="179" column="28" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="180" column="28" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
@@ -211,8 +209,6 @@
       <jump line="439" column="34" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="26" column="14" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="153" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="708" column="20" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="139" column="50" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="741" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="385" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="532" column="78" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -239,7 +235,6 @@
       <jump line="674" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="733" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="669" column="70" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="21" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="225" column="46" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="895" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="896" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -247,55 +242,60 @@
       <jump line="924" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="926" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="927" column="44" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="168" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="708" column="21" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="21" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="139" column="50" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="354" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>/2.0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG91YmxlIA==</text>
+        <text>/2.0</text>
       </register>
       <register name="/" type="4">
-        <text>sample</text>
+        <text>getChildren</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZG91YmxlIHIgPSAyOwogICAgZG91YmxlIG1heF9jdXJ2YXR1cmUgPSAwLjI7CiAgICBkb3VibGUgZGVsdGFfaGVhZGluZyA9IGguZ2V0TWF4SGVhZGluZ0NoYW5nZShyLCBtYXhfY3VydmF0dXJlKTsKCiAgICAvLyBjYWxjdWxhdGUgdGhlIHRoaXJkIHNpZGUgb2YgdGhlIHRyaWFuZ2xlCiAgICBkb3VibGUgYyA9IHNxcnQoNCAqIHIgKiByIC0gcG93KHIsIDQuMCkgKiBtYXhfY3VydmF0dXJlICogbWF4X2N1cnZhdHVyZSk7CiAgICBkb3VibGUgZXhwX2RlbHRhID0gMiAqIHN0ZDo6YWNvcyhjIC8gKDIgKiByKSk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIG1heF9oZWFkaW5nX2NoYW5nZSA9IE1fUEk7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ZG91YmxlIGVuZXJneSA9IHRoaXMtPmdldENpcmNsZVBhdGhFbmVyZ3koKTsKICAgICAgICBmb3IgKHN0ZDo6c2l6ZV90IGkgPSAwOyBpIDwgc2l6ZSAtIDI7IGkrKykgewogICAgICAgICAgICBhc3Rhcjo6Q2lyY2xlUmVmIHBhcmVudCA9IHRoaXMtPmNpcmNsZV9wYXRoLmNpcmNsZXMuYXQoaS0xKS0+Y2lyY2xlOwogICAgICAgICAgICBhc3Rhcjo6Q2lyY2xlUmVmIGZpcnN0ID0gdGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpKS0+Y2lyY2xlOwogICAgICAgICAgICBhc3Rhcjo6Q2lyY2xlUmVmIHNlY29uZCA9CiAgICAgICAgICAgICAgICAgICAgdGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMSktPmNpcmNsZTsKICAgICAgICAgICAgYXN0YXI6OkNpcmNsZVJlZiB0aGlyZCA9CiAgICAgICAgICAgICAgICAgICAgdGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMiktPmNpcmNsZTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHVwZGF0ZUNpcmNsZUNlbnRlcihwYXJlbnQsIGZpcnN0LCAmc2Vjb25kLCB0aGlyZCk7CiAgICAgICAgfQogICAgICAgIGRvdWJsZSBuZXdfZW5lcmd5ID0gdGhpcy0+Z2V0Q2lyY2xlUGF0aEVuZXJneSgpOwogICAgICAgIGRvdWJsZSBpbXByb3ZlbWVudCA9IGZhYnMobmV3X2VuZXJneSAtIGVuZXJneSkgLyBlbmVyZ3k7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJpbXByb3ZlbWVudDoiIDw8IGltcHJvdmVtZW50IDw8IHN0ZDo6ZW5kbDsKICAgICAgICAKICAgICAgICBpZiAobmV3X2VuZXJneSA8IGVuZXJneSAmJiBpbXByb3ZlbWVudCA8IDAuMDAwMSkgewogICAgICAgIAogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCBzdGVwX2xlbmd0aCA8IGludGVybmFsX2dyaWQubWFwcy5nZXRSZXNvbHV0aW9uKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJzdGVwIGxlbmd0aDoiIDw8IHN0ZXBfbGVuZ3RoIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCBzdGVwX2xlbmd0aCA8IGludGVybmFsX2dyaWQubWFwcy5nZXRSZXNvbHV0aW9uKCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sample</last-search>
+      <last-search>getChildren</last-search>
       <last-offset />
-      <last-pattern>sample</last-pattern>
+      <last-pattern>getChildren</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -303,7 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>size of the circle</entry>
         <entry>f_goal_</entry>
         <entry>internal_grid_map</entry>
         <entry>optimize</entry>
@@ -318,11 +317,12 @@
         <entry>spaceExplore</entry>
         <entry>getIn</entry>
         <entry>getPerpendicular</entry>
-        <entry>optimizePath</entry>
         <entry>getPerpen</entry>
         <entry>expand</entry>
         <entry>sampleChildren</entry>
         <entry>sample</entry>
+        <entry>optimizePath</entry>
+        <entry>getChildren</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
