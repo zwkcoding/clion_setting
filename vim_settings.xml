@@ -37,13 +37,13 @@
         <mark key="^" line="58" column="38" />
         <mark key="." line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493230981252">
-        <mark key="'" line="741" column="38" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493231220299">
+        <mark key="'" line="742" column="38" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="695" column="30" />
-        <mark key="]" line="695" column="29" />
-        <mark key="^" line="695" column="29" />
-        <mark key="." line="695" column="29" />
+        <mark key="[" line="668" column="3" />
+        <mark key="]" line="667" column="37" />
+        <mark key="^" line="667" column="37" />
+        <mark key="." line="667" column="37" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -138,12 +138,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493230749830">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493231213053">
         <mark key="'" line="48" column="11" />
         <mark key="[" line="204" column="28" />
-        <mark key="]" line="204" column="55" />
-        <mark key="^" line="204" column="55" />
-        <mark key="." line="204" column="55" />
+        <mark key="]" line="204" column="57" />
+        <mark key="^" line="204" column="57" />
+        <mark key="." line="204" column="57" />
       </file>
     </filemarks>
     <jumps>
