@@ -37,13 +37,13 @@
         <mark key="^" line="58" column="38" />
         <mark key="." line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493229917962">
-        <mark key="'" line="172" column="4" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493230981252">
+        <mark key="'" line="741" column="38" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="685" column="27" />
-        <mark key="]" line="685" column="26" />
-        <mark key="^" line="685" column="26" />
-        <mark key="." line="685" column="26" />
+        <mark key="[" line="695" column="30" />
+        <mark key="]" line="695" column="29" />
+        <mark key="^" line="695" column="29" />
+        <mark key="." line="695" column="29" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -138,17 +138,15 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493230054507">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493230749830">
         <mark key="'" line="48" column="11" />
-        <mark key="[" line="202" column="31" />
-        <mark key="]" line="202" column="31" />
-        <mark key="^" line="202" column="31" />
-        <mark key="." line="202" column="31" />
+        <mark key="[" line="204" column="28" />
+        <mark key="]" line="204" column="55" />
+        <mark key="^" line="204" column="55" />
+        <mark key="." line="204" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="33" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="142" column="42" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="145" column="18" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="170" column="5" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="171" column="5" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
@@ -247,6 +245,8 @@
       <jump line="757" column="85" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="455" column="27" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="172" column="4" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="674" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="733" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -256,7 +256,7 @@
         <text encoding="base64">dGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMiktPmNpcmNsZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>optimizePath</text>
+        <text>getPerpen</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZG91YmxlIHIgPSAyOwogICAgZG91YmxlIG1heF9jdXJ2YXR1cmUgPSAwLjI7CiAgICBkb3VibGUgZGVsdGFfaGVhZGluZyA9IGguZ2V0TWF4SGVhZGluZ0NoYW5nZShyLCBtYXhfY3VydmF0dXJlKTsKCiAgICAvLyBjYWxjdWxhdGUgdGhlIHRoaXJkIHNpZGUgb2YgdGhlIHRyaWFuZ2xlCiAgICBkb3VibGUgYyA9IHNxcnQoNCAqIHIgKiByIC0gcG93KHIsIDQuMCkgKiBtYXhfY3VydmF0dXJlICogbWF4X2N1cnZhdHVyZSk7CiAgICBkb3VibGUgZXhwX2RlbHRhID0gMiAqIHN0ZDo6YWNvcyhjIC8gKDIgKiByKSk7Cg==</text>
@@ -293,9 +293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>optimizePath</last-search>
+      <last-search>getPerpen</last-search>
       <last-offset />
-      <last-pattern>optimizePath</last-pattern>
+      <last-pattern>getPerpen</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -321,8 +321,8 @@
         <entry>spaceExplore</entry>
         <entry>getIn</entry>
         <entry>getPerpendicular</entry>
-        <entry>getPerpen</entry>
         <entry>optimizePath</entry>
+        <entry>getPerpen</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
