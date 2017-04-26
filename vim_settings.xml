@@ -30,20 +30,20 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1492831411054">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1493235195405">
         <mark key="'" line="57" column="25" />
-        <mark key="[" line="57" column="42" />
-        <mark key="]" line="58" column="38" />
-        <mark key="^" line="58" column="38" />
-        <mark key="." line="58" column="38" />
+        <mark key="[" line="81" column="33" />
+        <mark key="]" line="81" column="9" />
+        <mark key="^" line="81" column="9" />
+        <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493232614031">
-        <mark key="'" line="742" column="38" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493235929225">
+        <mark key="'" line="669" column="70" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="667" column="3" />
-        <mark key="]" line="667" column="3" />
-        <mark key="^" line="667" column="3" />
-        <mark key="." line="667" column="3" />
+        <mark key="[" line="669" column="70" />
+        <mark key="]" line="669" column="70" />
+        <mark key="^" line="669" column="70" />
+        <mark key="." line="669" column="70" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -147,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="18" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="170" column="5" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="171" column="5" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="172" column="5" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
@@ -247,13 +246,14 @@
       <jump line="172" column="4" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="674" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="733" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="669" column="70" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMiktPmNpcmNsZQ==</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>getPerpen</text>
@@ -262,31 +262,31 @@
         <text encoding="base64">ZG91YmxlIHIgPSAyOwogICAgZG91YmxlIG1heF9jdXJ2YXR1cmUgPSAwLjI7CiAgICBkb3VibGUgZGVsdGFfaGVhZGluZyA9IGguZ2V0TWF4SGVhZGluZ0NoYW5nZShyLCBtYXhfY3VydmF0dXJlKTsKCiAgICAvLyBjYWxjdWxhdGUgdGhlIHRoaXJkIHNpZGUgb2YgdGhlIHRyaWFuZ2xlCiAgICBkb3VibGUgYyA9IHNxcnQoNCAqIHIgKiByIC0gcG93KHIsIDQuMCkgKiBtYXhfY3VydmF0dXJlICogbWF4X2N1cnZhdHVyZSk7CiAgICBkb3VibGUgZXhwX2RlbHRhID0gMiAqIHN0ZDo6YWNvcyhjIC8gKDIgKiByKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZG91YmxlIGVuZXJneSA9IHRoaXMtPmdldENpcmNsZVBhdGhFbmVyZ3koKTsKICAgICAgICBmb3IgKHN0ZDo6c2l6ZV90IGkgPSAwOyBpIDwgc2l6ZSAtIDI7IGkrKykgewogICAgICAgICAgICBhc3Rhcjo6Q2lyY2xlUmVmIHBhcmVudCA9IHRoaXMtPmNpcmNsZV9wYXRoLmNpcmNsZXMuYXQoaS0xKS0+Y2lyY2xlOwogICAgICAgICAgICBhc3Rhcjo6Q2lyY2xlUmVmIGZpcnN0ID0gdGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpKS0+Y2lyY2xlOwogICAgICAgICAgICBhc3Rhcjo6Q2lyY2xlUmVmIHNlY29uZCA9CiAgICAgICAgICAgICAgICAgICAgdGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMSktPmNpcmNsZTsKICAgICAgICAgICAgYXN0YXI6OkNpcmNsZVJlZiB0aGlyZCA9CiAgICAgICAgICAgICAgICAgICAgdGhpcy0+Y2lyY2xlX3BhdGguY2lyY2xlcy5hdChpICsgMiktPmNpcmNsZTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHVwZGF0ZUNpcmNsZUNlbnRlcihwYXJlbnQsIGZpcnN0LCAmc2Vjb25kLCB0aGlyZCk7CiAgICAgICAgfQogICAgICAgIGRvdWJsZSBuZXdfZW5lcmd5ID0gdGhpcy0+Z2V0Q2lyY2xlUGF0aEVuZXJneSgpOwogICAgICAgIGRvdWJsZSBpbXByb3ZlbWVudCA9IGZhYnMobmV3X2VuZXJneSAtIGVuZXJneSkgLyBlbmVyZ3k7CiAgICAgICAgc3RkOjpjb3V0IDw8ICJpbXByb3ZlbWVudDoiIDw8IGltcHJvdmVtZW50IDw8IHN0ZDo6ZW5kbDsKICAgICAgICAKICAgICAgICBpZiAobmV3X2VuZXJneSA8IGVuZXJneSAmJiBpbXByb3ZlbWVudCA8IDAuMDAwMSkgewogICAgICAgIAogICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCBzdGVwX2xlbmd0aCA8IGludGVybmFsX2dyaWQubWFwcy5nZXRSZXNvbHV0aW9uKCkpIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJzdGVwIGxlbmd0aDoiIDw8IHN0ZXBfbGVuZ3RoIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlIHN0ZXBfbGVuZ3RoID0gc3FydChkeCpkeCArIGR5KmR5KTsKICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY291bnQrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCBzdGVwX2xlbmd0aCA8IGludGVybmFsX2dyaWQubWFwcy5nZXRSZXNvbHV0aW9uKCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJzdGVwIGxlbmd0aDoiIDw8IHN0ZXBfbGVuZ3RoIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
