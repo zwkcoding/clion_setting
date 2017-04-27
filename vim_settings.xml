@@ -74,7 +74,7 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="46" column="3" />
       </file>
-      <file name="/LLDB" timestamp="1492824483679">
+      <file name="/LLDB" timestamp="1493332815265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492740485658">
@@ -97,7 +97,7 @@
         <mark key="." line="257" column="77" />
         <mark key="^" line="257" column="77" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493331998366">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493333104361">
         <mark key="'" line="83" column="13" />
         <mark key="[" line="102" column="31" />
         <mark key="]" line="103" column="23" />
@@ -117,8 +117,8 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493331919952">
-        <mark key="'" line="5" column="4" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493332755507">
+        <mark key="'" line="486" column="18" />
         <mark key="i" line="5" column="9" />
         <mark key="[" line="624" column="0" />
         <mark key="]" line="624" column="0" />
@@ -187,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="465" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="494" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="533" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="729" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -287,6 +286,7 @@
       <jump line="1142" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="0" column="24" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="5" column="4" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="486" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,7 +296,7 @@
         <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>space</text>
+        <text>getChildren</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgZ2VvbWV0cnlfbXNnczo6UG9zZVN0YW1wZWRDb25zdFB0ciAmZ29hbA==</text>
@@ -333,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>space</last-search>
+      <last-search>getChildren</last-search>
       <last-offset />
-      <last-pattern>space</last-pattern>
+      <last-pattern>getChildren</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drawCircle</entry>
         <entry>could no find</entry>
         <entry>could not</entry>
         <entry>circle path</entry>
@@ -353,7 +352,6 @@
         <entry>expand</entry>
         <entry>sampleChildren</entry>
         <entry>sample</entry>
-        <entry>getChildren</entry>
         <entry>optimizePath</entry>
         <entry>update</entry>
         <entry>UpdateHu</entry>
@@ -363,6 +361,8 @@
         <entry>spaceExplore</entry>
         <entry>explore</entry>
         <entry>space</entry>
+        <entry>getNode</entry>
+        <entry>getChildren</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
