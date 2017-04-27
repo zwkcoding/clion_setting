@@ -117,13 +117,13 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493332755507">
-        <mark key="'" line="486" column="18" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493336183473">
+        <mark key="'" line="320" column="18" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="624" column="0" />
-        <mark key="]" line="624" column="0" />
-        <mark key="^" line="1036" column="17" />
-        <mark key="." line="624" column="0" />
+        <mark key="[" line="500" column="49" />
+        <mark key="]" line="500" column="62" />
+        <mark key="^" line="500" column="62" />
+        <mark key="." line="500" column="62" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -187,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="533" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="729" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="177" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="604" column="21" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -259,7 +257,6 @@
       <jump line="354" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="170" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="691" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="21" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="90" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="98" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="103" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -287,6 +284,9 @@
       <jump line="0" column="24" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="5" column="4" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="486" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="171" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="21" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="320" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,7 +296,7 @@
         <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>getChildren</text>
+        <text>space</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgZ2VvbWV0cnlfbXNnczo6UG9zZVN0YW1wZWRDb25zdFB0ciAmZ29hbA==</text>
@@ -333,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getChildren</last-search>
+      <last-search>space</last-search>
       <last-offset />
-      <last-pattern>getChildren</last-pattern>
+      <last-pattern>space</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -357,12 +357,12 @@
         <entry>UpdateHu</entry>
         <entry>path_</entry>
         <entry>optimizePathImproved</entry>
-        <entry>Update</entry>
-        <entry>spaceExplore</entry>
         <entry>explore</entry>
-        <entry>space</entry>
         <entry>getNode</entry>
         <entry>getChildren</entry>
+        <entry>Update</entry>
+        <entry>spaceExplore</entry>
+        <entry>space</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
