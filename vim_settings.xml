@@ -30,11 +30,11 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493326324154">
-        <mark key="[" line="13" column="69" />
-        <mark key="]" line="13" column="38" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="13" column="38" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -90,18 +90,19 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493326562384">
-        <mark key="'" line="48" column="11" />
-        <mark key="[" line="257" column="73" />
-        <mark key="]" line="257" column="73" />
-        <mark key="^" line="257" column="73" />
-        <mark key="." line="257" column="73" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493327980988">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="257" column="79" />
+        <mark key="]" line="257" column="77" />
+        <mark key="." line="257" column="77" />
+        <mark key="^" line="257" column="77" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493324263208">
-        <mark key="[" line="60" column="42" />
-        <mark key="]" line="60" column="42" />
-        <mark key="." line="60" column="42" />
-        <mark key="^" line="60" column="42" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493328536879">
+        <mark key="'" line="63" column="7" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="76" column="30" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/package.xml" timestamp="1493326149032">
         <mark key="[" line="19" column="33" />
@@ -116,13 +117,13 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493324053626">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493327415902">
         <mark key="'" line="15" column="6" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="599" column="6" />
-        <mark key="]" line="600" column="29" />
-        <mark key="." line="600" column="29" />
-        <mark key="^" line="600" column="29" />
+        <mark key="[" line="1040" column="11" />
+        <mark key="]" line="1040" column="17" />
+        <mark key="." line="1040" column="17" />
+        <mark key="^" line="1040" column="17" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -165,11 +166,11 @@
         <mark key="." line="21" column="2" />
         <mark key="^" line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/path_converter_ros.h" timestamp="1493326692764">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-        <mark key="^" line="13" column="44" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/path_converter_ros.h" timestamp="1493326980193">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492740146226">
         <mark key="'" line="0" column="0" />
@@ -178,11 +179,14 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/utils.hpp" timestamp="1493327367967">
+        <mark key="[" line="62" column="1" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="63" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="764" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="222" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="223" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="404" column="41" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="423" column="49" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -280,55 +284,58 @@
       <jump line="490" column="44" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="599" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="15" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="63" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" />
+      <jump line="257" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
+      <jump line="124" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVwZGF0ZS4=</text>
+        <text>getInternalMap</text>
       </register>
       <register name="/" type="4">
-        <text>Update</text>
+        <text>path_</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c3RhdGljIGJvb2wgdG9OYXZQYXRoKGNvbnN0IHN0ZDo6dmVjdG9yPGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+PiAmcGF0aCwKICAgICAgICAgICAgICAgICAgICAgICAgICBuYXZfbXNnczo6UGF0aCAmbWVzc2FnZSk7</text>
+        <text>pose.pose.position.x = point_itr.x;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXYWl0IGZvciBuZXh0IGN5Y2xlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwb3NlX21zZy5oZWFkZXIuc3RhbXAudG9TZWMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBST1NfSU5GT19USFJPVFRMRSgxMCwgIlJPUyBwb3NlICh0aW1lc3RhbXAgJWYpIHB1Ymxpc2hlZC4iLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBwdWJsaXNoZXIucHVibGlzaChwb3NlX21zZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBQdWJsaXNoIGEgcG9zZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmX2dvYWxfOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZW1vdmVBbGxDaXJjbGVOb2RlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBGaWxsIHRoZSBwb3NlIG1zZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYnNwbGluZV8obnVsbHB0ciksCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAuLi4uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Update</last-search>
+      <last-search>path_</last-search>
       <last-offset />
-      <last-pattern>Update</last-pattern>
+      <last-pattern>path_</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drawCirclePath</entry>
         <entry>optimizePah</entry>
         <entry>draw</entry>
         <entry>getChild</entry>
@@ -356,6 +362,7 @@
         <entry>update</entry>
         <entry>UpdateHu</entry>
         <entry>Update</entry>
+        <entry>path_</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
