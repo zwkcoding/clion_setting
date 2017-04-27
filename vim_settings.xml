@@ -97,12 +97,12 @@
         <mark key="." line="257" column="77" />
         <mark key="^" line="257" column="77" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493328536879">
-        <mark key="'" line="63" column="7" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="76" column="30" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493331998366">
+        <mark key="'" line="83" column="13" />
+        <mark key="[" line="102" column="31" />
+        <mark key="]" line="103" column="23" />
+        <mark key="^" line="103" column="23" />
+        <mark key="." line="103" column="23" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/package.xml" timestamp="1493326149032">
         <mark key="[" line="19" column="33" />
@@ -117,13 +117,13 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493327415902">
-        <mark key="'" line="15" column="6" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493331919952">
+        <mark key="'" line="5" column="4" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="1040" column="11" />
-        <mark key="]" line="1040" column="17" />
-        <mark key="." line="1040" column="17" />
-        <mark key="^" line="1040" column="17" />
+        <mark key="[" line="624" column="0" />
+        <mark key="]" line="624" column="0" />
+        <mark key="^" line="1036" column="17" />
+        <mark key="." line="624" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -187,14 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="404" column="41" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="423" column="49" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="425" column="47" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="441" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="453" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="456" column="17" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="463" column="26" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="465" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="494" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="533" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -275,7 +267,6 @@
       <jump line="290" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="315" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="323" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="581" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="586" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="603" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="582" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -287,55 +278,64 @@
       <jump line="63" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" />
       <jump line="257" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
       <jump line="124" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
+      <jump line="83" column="13" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" />
+      <jump line="1040" column="17" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="614" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="779" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="581" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="620" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="1142" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="0" column="24" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="5" column="4" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJpbnRlcnBvbGF0aW9uIGJzcGxpbmUgZG9uZS4iIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>getInternalMap</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>path_</text>
+        <text>space</text>
       </register>
       <register name="0" type="4">
-        <text>pose.pose.position.x = point_itr.x;</text>
+        <text encoding="base64">Y29uc3QgZ2VvbWV0cnlfbXNnczo6UG9zZVN0YW1wZWRDb25zdFB0ciAmZ29hbA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJpbnRlcnBvbGF0aW9uIGJzcGxpbmUgZG9uZS4iIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXYWl0IGZvciBuZXh0IGN5Y2xlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSU5GTyA8PCAiVGhlIGxlbmd0aCBvZiB0aGUgcGF0aDoiIDw8IHRoaXMtPmdldExlbmd0aE9mUGF0aCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwb3NlX21zZy5oZWFkZXIuc3RhbXAudG9TZWMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSU5GTyA8PCAic2l6ZSBvZiBjaXJjbGUgcGF0aDoiIDw8IHRoaXMtPmNpcmNsZV9wYXRoLmNpcmNsZXMuc2l6ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBST1NfSU5GT19USFJPVFRMRSgxMCwgIlJPUyBwb3NlICh0aW1lc3RhbXAgJWYpIHB1Ymxpc2hlZC4iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJpbXByb3ZlbWVudDoiIDw8IGltcHJvdmVtZW50IDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwdWJsaXNoZXIucHVibGlzaChwb3NlX21zZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3Rhcjo6UG9zZTJEIGVuZCgtMzAuMCwgMzAuMCwgTV9QSSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQdWJsaXNoIGEgcG9zZS4K</text>
+        <text encoding="base64">ICAgICAgICBhc3Rhcjo6UG9zZTJEIHN0YXJ0KDM1LjAsIDMwLjAsIE1fUEkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGaWxsIHRoZSBwb3NlIG1zZwo=</text>
+        <text encoding="base64">ICAgICAgIC8vCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAuLi4uCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dGhpcy0+Z29hbF8ueCA9IHN0YXRpY19jYXN0PGludD4oZ29hbC0+cG9zZS5wb3NpdGlvbi54IC8gcmVzb2x1dGlvbik7CiAgICB0aGlzLT5nb2FsXy55ID0gc3RhdGljX2Nhc3Q8aW50Pihnb2FsLT5wb3NlLnBvc2l0aW9uLnkgLyByZXNvbHV0aW9uKTsKICAgIGRvdWJsZSB5YXcgPSB0Zjo6Z2V0WWF3KGdvYWwtPnBvc2Uub3JpZW50YXRpb24pOwogICAgdGhpcy0+Z29hbF8ueiA9IHN0YXRpY19jYXN0PGZsb2F0Pih5YXcpOwogICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>path_</last-search>
+      <last-search>space</last-search>
       <last-offset />
-      <last-pattern>path_</last-pattern>
+      <last-pattern>space</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -343,14 +343,10 @@
     </search>
     <history>
       <history-search>
-        <entry>optimizePah</entry>
-        <entry>draw</entry>
-        <entry>getChild</entry>
         <entry>drawCircle</entry>
         <entry>could no find</entry>
         <entry>could not</entry>
         <entry>circle path</entry>
-        <entry>spaceExplore</entry>
         <entry>getIn</entry>
         <entry>getPerpendicular</entry>
         <entry>getPerpen</entry>
@@ -361,8 +357,12 @@
         <entry>optimizePath</entry>
         <entry>update</entry>
         <entry>UpdateHu</entry>
-        <entry>Update</entry>
         <entry>path_</entry>
+        <entry>optimizePathImproved</entry>
+        <entry>Update</entry>
+        <entry>spaceExplore</entry>
+        <entry>explore</entry>
+        <entry>space</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
