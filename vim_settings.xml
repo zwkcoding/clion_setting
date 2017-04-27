@@ -78,18 +78,18 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493251614828">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493321371097">
         <mark key="'" line="48" column="11" />
-        <mark key="[" line="141" column="31" />
-        <mark key="]" line="141" column="30" />
-        <mark key="^" line="141" column="30" />
-        <mark key="." line="141" column="30" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+        <mark key="." line="62" column="3" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493318264665">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="31" column="27" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493320894281">
+        <mark key="[" line="60" column="10" />
+        <mark key="]" line="60" column="7" />
+        <mark key="." line="60" column="7" />
+        <mark key="^" line="60" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/package.xml" timestamp="1493317919254">
         <mark key="[" line="18" column="38" />
@@ -97,20 +97,20 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1493317092385">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1493320137385">
         <mark key="'" line="57" column="25" />
         <mark key="[" line="81" column="33" />
         <mark key="]" line="81" column="9" />
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493255611623">
-        <mark key="'" line="603" column="15" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493321397866">
+        <mark key="'" line="958" column="22" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="668" column="60" />
-        <mark key="]" line="668" column="60" />
-        <mark key="." line="668" column="60" />
-        <mark key="^" line="668" column="60" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="958" column="22" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -162,8 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="5" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
-      <jump line="210" column="25" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="219" column="48" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="229" column="6" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
       <jump line="241" column="40" filename="/opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp" />
@@ -262,219 +260,57 @@
       <jump line="581" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="586" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="603" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="582" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="959" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByb3M6OlRpbWUgdGltZSA9IHJvczo6VGltZTo6bm93KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRlbGV0ZSBic3BsaW5lXzsg</text>
       </register>
       <register name="-" type="4">
-        <text>(heading2 - heading1)</text>
+        <text encoding="base64">IGRlbGV0ZSBic3BsaW5lXzsg</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>UpdateHu</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZG91YmxlIHIgPSAyOwogICAgZG91YmxlIG1heF9jdXJ2YXR1cmUgPSAwLjI7CiAgICBkb3VibGUgZGVsdGFfaGVhZGluZyA9IGguZ2V0TWF4SGVhZGluZ0NoYW5nZShyLCBtYXhfY3VydmF0dXJlKTsKCiAgICAvLyBjYWxjdWxhdGUgdGhlIHRoaXJkIHNpZGUgb2YgdGhlIHRyaWFuZ2xlCiAgICBkb3VibGUgYyA9IHNxcnQoNCAqIHIgKiByIC0gcG93KHIsIDQuMCkgKiBtYXhfY3VydmF0dXJlICogbWF4X2N1cnZhdHVyZSk7CiAgICBkb3VibGUgZXhwX2RlbHRhID0gMiAqIHN0ZDo6YWNvcyhjIC8gKDIgKiByKSk7Cg==</text>
+        <text>bspline</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb3M6OlRpbWUgdGltZSA9IHJvczo6VGltZTo6bm93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYnNwbGluZV8obnVsbHB0ciksCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHRzOjpCU3BsaW5lICpic3BsaW5lXzsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>## Declare a C++ library
-# add_library(${PROJECT_NAME}
-#   src/${PROJECT_NAME}/roscpp.cpp
-# )
-
-## Add cmake target dependencies of the library
-## as an example, code may need to be generated before libraries
-## either from message generation or dynamic reconfigure
-# add_dependencies(${PROJECT_NAME} ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-
-## Declare a C++ executable
-## With catkin_make all packages are built within a single CMake context
-## The recommended prefix ensures that target names across packages don't collide
-# add_executable(${PROJECT_NAME}_node src/roscpp_node.cpp)
-
-## Rename C++ executable without prefix
-## The above recommended prefix causes long target names, the following renames the
-## target back to the shorter version for ease of user use
-## e.g. &quot;rosrun someones_pkg node&quot; instead of &quot;rosrun someones_pkg someones_pkg_node&quot;
-# set_target_properties(${PROJECT_NAME}_node PROPERTIES OUTPUT_NAME node PREFIX &quot;&quot;)
-
-## Add cmake target dependencies of the executable
-## same as for the library above
-# add_dependencies(${PROJECT_NAME}_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-
-## Specify libraries to link a library or executable target against
-# target_link_libraries(${PROJECT_NAME}_node
-#   ${catkin_LIBRARIES}
-# )
-
-#############
-## Install ##
-#############
-
-# all install targets should use catkin DESTINATION variables
-# See http://ros.org/doc/api/catkin/html/adv_user_guide/variables.html
-
-## Mark executable scripts (Python etc.) for installation
-## in contrast to setup.py, you can choose the destination
-# install(PROGRAMS
-#   scripts/my_python_script
-#   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-# )
-
-## Mark executables and/or libraries for installation
-# install(TARGETS ${PROJECT_NAME} ${PROJECT_NAME}_node
-#   ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
-#   LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
-#   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-# )
-
-## Mark cpp header files for installation
-# install(DIRECTORY include/${PROJECT_NAME}/
-#   DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}
-#   FILES_MATCHING PATTERN &quot;*.h&quot;
-#   PATTERN &quot;.svn&quot; EXCLUDE
-# )
-
-## Mark other files for installation (e.g. launch and bag files, etc.)
-# install(FILES
-#   # myfile1
-#   # myfile2
-#   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
-# )
-
-#############
-## Testing ##
-#############
-
-## Add gtest based cpp test target and link libraries
-# catkin_add_gtest(${PROJECT_NAME}-test test/test_roscpp.cpp)
-# if(TARGET ${PROJECT_NAME}-test)
-#   target_link_libraries(${PROJECT_NAME}-test ${PROJECT_NAME})
-# endif()
-
-## Add folders to be run by python nosetests
-# catkin_add_nosetests(test)</text>
-      </register>
-      <register name="4" type="4">
-        <text>## System dependencies are found with CMake's conventions
-# find_package(Boost REQUIRED COMPONENTS system)
-
-
-## Uncomment this if the package has a setup.py. This macro ensures
-## modules and global scripts declared therein get installed
-## See http://ros.org/doc/api/catkin/html/user_guide/setup_dot_py.html
-# catkin_python_setup()
-
-################################################
-## Declare ROS messages, services and actions ##
-################################################
-
-## To declare and build messages, services or actions from within this
-## package, follow these steps:
-## * Let MSG_DEP_SET be the set of packages whose message types you use in
-##   your messages/services/actions (e.g. std_msgs, actionlib_msgs, ...).
-## * In the file package.xml:
-##   * add a build_depend tag for &quot;message_generation&quot;
-##   * add a build_depend and a run_depend tag for each package in MSG_DEP_SET
-##   * If MSG_DEP_SET isn't empty the following dependency has been pulled in
-##     but can be declared for certainty nonetheless:
-##     * add a run_depend tag for &quot;message_runtime&quot;
-## * In this file (CMakeLists.txt):
-##   * add &quot;message_generation&quot; and every package in MSG_DEP_SET to
-##     find_package(catkin REQUIRED COMPONENTS ...)
-##   * add &quot;message_runtime&quot; and every package in MSG_DEP_SET to
-##     catkin_package(CATKIN_DEPENDS ...)
-##   * uncomment the add_*_files sections below as needed
-##     and list every .msg/.srv/.action file to be processed
-##   * uncomment the generate_messages entry below
-##   * add every package in MSG_DEP_SET to generate_messages(DEPENDENCIES ...)
-
-## Generate messages in the 'msg' folder
-# add_message_files(
-#   FILES
-#   Message1.msg
-#   Message2.msg
-# )
-
-## Generate services in the 'srv' folder
-# add_service_files(
-#   FILES
-#   Service1.srv
-#   Service2.srv
-# )
-
-## Generate actions in the 'action' folder
-# add_action_files(
-#   FILES
-#   Action1.action
-#   Action2.action
-# )
-
-## Generate added messages and services with any dependencies listed here
-# generate_messages(
-#   DEPENDENCIES
-#   std_msgs  # Or other packages containing msgs
-# )
-
-################################################
-## Declare ROS dynamic reconfigure parameters ##
-################################################
-
-## To declare and build dynamic reconfigure parameters within this
-## package, follow these steps:
-## * In the file package.xml:
-##   * add a build_depend and a run_depend tag for &quot;dynamic_reconfigure&quot;
-## * In this file (CMakeLists.txt):
-##   * add &quot;dynamic_reconfigure&quot; to
-##     find_package(catkin REQUIRED COMPONENTS ...)
-##   * uncomment the &quot;generate_dynamic_reconfigure_options&quot; section below
-##     and list every .cfg file to be processed
-
-## Generate dynamic reconfigure parameters in the 'cfg' folder
-# generate_dynamic_reconfigure_options(
-#   cfg/DynReconf1.cfg
-#   cfg/DynReconf2.cfg
-# )
-
-###################################
-## catkin specific configuration ##
-###################################
-## The catkin_package macro generates cmake config files for your package
-## Declare things to be passed to dependent projects
-## INCLUDE_DIRS: uncomment this if you package contains header files
-## LIBRARIES: libraries you create in this project that dependent projects also need
-## CATKIN_DEPENDS: catkin_packages dependent projects also need
-## DEPENDS: system dependencies of this project that dependent projects also need</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgdGFyZ2V0X2hlYWRpbmcgPSAgKyBoZWFkaW5nMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJhd0RlbnNlUGF0aCgmZGlzcGxheV8sIHRoaXMtPndpbmRvd19uYW1lXyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3Rhcjo6Q2lyY2xlIGxvb3NlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihkaXNwbGF5X2N2Xykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpdGVyYXRpdmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>UpdateHu</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>UpdateHu</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -482,7 +318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>internal_grid_map</entry>
         <entry>optimize</entry>
         <entry>drawCirclePath</entry>
         <entry>optimizePah</entry>
@@ -502,6 +337,7 @@
         <entry>getChildren</entry>
         <entry>optimizePath</entry>
         <entry>update</entry>
+        <entry>UpdateHu</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
