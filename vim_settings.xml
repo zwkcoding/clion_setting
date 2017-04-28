@@ -90,7 +90,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493342841016">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493344373685">
         <mark key="'" line="125" column="0" />
         <mark key="[" line="123" column="4" />
         <mark key="]" line="123" column="26" />
@@ -117,13 +117,13 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493343848482">
-        <mark key="'" line="790" column="19" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1493345540559">
+        <mark key="'" line="417" column="42" />
         <mark key="i" line="5" column="9" />
-        <mark key="[" line="389" column="11" />
-        <mark key="]" line="389" column="11" />
-        <mark key="^" line="389" column="11" />
-        <mark key="." line="389" column="11" />
+        <mark key="[" line="674" column="27" />
+        <mark key="]" line="676" column="39" />
+        <mark key="^" line="676" column="39" />
+        <mark key="." line="676" column="39" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -187,11 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="34" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="26" column="14" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="153" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="741" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="385" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="532" column="78" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="580" column="24" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="593" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -287,56 +282,64 @@
       <jump line="513" column="66" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="386" column="84" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="786" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="525" column="17" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="399" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="543" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="612" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="417" column="42" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bmV3IENpcmNsZU5vZGUocDEsIHAxLnIsIDAsIGYsIHN0YXJ0X25vZGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>p2.position.x = c_start</text>
+        <text encoding="base64">cHQxLnkgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>processNode</text>
+        <text>Update</text>
       </register>
       <register name="0" type="4">
-        <text>p1.position.x = c_start.position.x * (1 - 1/3) + c_goal.position.x * 1 / 3;
-        p1.position.y = c_start.position.y * (1 - 1/3) + c_goal.position.y * 1 / 3;</text>
+        <text>CircleNodePtr pt1_node = new CircleNode(pt1,
+                                   lower_boundary_,
+                                   0,
+                                   0,
+                                   circle_path.circles.at(0));</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">bmV3IENpcmNsZU5vZGUocDEsIHAxLnIsIDAsIGYsIHN0YXJ0X25vZGUpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">aW50ZXJwb2xhdGVCc3BsaW5lKCk7CiAgICAgICAgICAgICAgICBpZiAoZGlzcGxheV9jdl8pIHsKICAgICAgICAgICAgICAgICAgICBkcmF3RGVuc2VQYXRoKCZkaXNwbGF5XywgdGhpcy0+d2luZG93X25hbWVfKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aW50IGRlbnNlID0gMTAwOwogICAgICAgICAgICB3aGlsZSghdGhpcy0+b3B0aW1pemVkXykgewogICAgICAgICAgICAgICAgb3B0aW1pemVQYXRoSW1wcm92ZWQoKTsKICAgICAgICAgICAgICAgIGlmIChkaXNwbGF5X2N2XykgewogICAgICAgICAgICAgICAgICAgIGlmIChkZW5zZSA8IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgZGVuc2UgPSAwOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBjdjo6U2NhbGFyIGNvbCA9IGN2OjpTY2FsYXIoZGVuc2UsIGRlbnNlLCBkZW5zZSk7CiAgICAgICAgICAgICAgICAgICAgZHJhd0NpcmNsZUNlbnRlclBhdGgoJmRpc3BsYXlfLCBjb2wpOwogICAgICAgICAgICAgICAgICAgIGRlbnNlID0gZGVuc2UgLSAxMDsKICAgICAgICAgICAgICAgICAgICBjdjo6aW1zaG93KHdpbmRvd19uYW1lXywgZGlzcGxheV8pOwogICAgICAgICAgICAgICAgICAgIGN2V2FpdEtleSgtMSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW50ZXJwb2xhdGVCc3BsaW5lKCk7CiAgICAgICAgICAgIGlmIChkaXNwbGF5X2N2XykgewogICAgICAgICAgICAgICAgZHJhd0RlbnNlUGF0aCgmZGlzcGxheV8sIHRoaXMtPndpbmRvd19uYW1lXyk7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInN0YXJ0IGFuZCBnb2FsIG92ZXJsYXBwZWQuIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNpcmNsZV9wYXRoLmNpcmNsZXMuYXQoaSktPmNpcmNsZS5wb3NpdGlvbi54KTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJpbnRlcnBvbGF0aW9uIGJzcGxpbmUgZG9uZS4iIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU5GTyA8PCAiVGhlIGxlbmd0aCBvZiB0aGUgcGF0aDoiIDw8IHRoaXMtPmdldExlbmd0aE9mUGF0aCgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU5GTyA8PCAic2l6ZSBvZiBjaXJjbGUgcGF0aDoiIDw8IHRoaXMtPmNpcmNsZV9wYXRoLmNpcmNsZXMuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSU5GTyA8PCAiVGhlIGxlbmd0aCBvZiB0aGUgcGF0aDoiIDw8IHRoaXMtPmdldExlbmd0aE9mUGF0aCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>processNode</last-search>
+      <last-search>Update</last-search>
       <last-offset />
-      <last-pattern>processNode</last-pattern>
+      <last-pattern>Update</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -357,13 +360,13 @@
         <entry>spaceExplor</entry>
         <entry>spaceExplore</entry>
         <entry>Overlap</entry>
-        <entry>processNOde</entry>
         <entry>Rebuild</entry>
         <entry>spaceExpl</entry>
-        <entry>Update</entry>
-        <entry>space</entry>
         <entry>optimizePath</entry>
+        <entry>processNOde</entry>
+        <entry>space</entry>
         <entry>processNode</entry>
+        <entry>Update</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
