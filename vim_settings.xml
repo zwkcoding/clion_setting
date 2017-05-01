@@ -24,10 +24,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493677138794">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493679425804">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="55" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solver.h" timestamp="1493666111724">
         <mark key="[" line="9" column="18" />
@@ -186,11 +187,11 @@
         <mark key="." line="65" column="9" />
         <mark key="^" line="65" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493675159777">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="32" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493679316239">
+        <mark key="[" line="14" column="55" />
+        <mark key="]" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+        <mark key="^" line="14" column="55" />
       </file>
       <file name="/fragment.mm" timestamp="1492621431059">
         <mark key="[" line="0" column="0" />
@@ -357,7 +358,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LnBhcmFtZXRlcl9ibG9ja19zaXplcygpLmJhY2soKSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICog</text>
@@ -369,32 +370,31 @@
         <text>quadratic_cost_function_test</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LnBhcmFtZXRlcl9ibG9ja19zaXplcygpLmJhY2soKSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIGludCBwYXJhbV9zaXplID0gY29zdC0+cGFyYW1ldGVyX2Jsb2NrX3NpemVzKCkuZnJvbnQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qIQo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LT5wYXJhbWV0ZXJfYmxvY2tfc2l6ZXMoKS5zaXplKCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LnBhcmFtZXRlcl9ibG9ja19zaXplcygpLmJhY2soKSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qIQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8qIQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/// The final state of the vehicle in the ego frame.
-    State final_state_;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qIQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
