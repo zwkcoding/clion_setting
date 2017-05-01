@@ -24,11 +24,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493679425804">
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="28" column="55" />
-        <mark key="." line="28" column="55" />
-        <mark key="^" line="28" column="55" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493680971918">
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solver.h" timestamp="1493666111724">
         <mark key="[" line="9" column="18" />
@@ -42,10 +42,11 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/utils.h" timestamp="1493666083040">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/utils.h" timestamp="1493680699996">
+        <mark key="[" line="54" column="10" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
+        <mark key="^" line="59" column="11" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -66,7 +67,13 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493678485317">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/nlp_solver_test.cpp" timestamp="1493680909569">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493680196218">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -187,11 +194,11 @@
         <mark key="." line="65" column="9" />
         <mark key="^" line="65" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493679316239">
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="14" column="55" />
-        <mark key="." line="14" column="55" />
-        <mark key="^" line="14" column="55" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493679820219">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="14" />
       </file>
       <file name="/fragment.mm" timestamp="1492621431059">
         <mark key="[" line="0" column="0" />
@@ -222,17 +229,23 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493678349599">
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="69" column="15" />
-        <mark key="." line="69" column="15" />
-        <mark key="^" line="69" column="15" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493680302993">
+        <mark key="[" line="74" column="50" />
+        <mark key="]" line="74" column="36" />
+        <mark key="." line="74" column="36" />
+        <mark key="^" line="74" column="36" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1493669882340">
         <mark key="[" line="50" column="32" />
         <mark key="]" line="50" column="30" />
         <mark key="^" line="50" column="30" />
         <mark key="." line="50" column="30" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/opt_solver_test.cpp" timestamp="1493680224738">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/path_converter_ros.h" timestamp="1493326980193">
         <mark key="[" line="7" column="26" />
@@ -357,11 +370,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+      <register name="&quot;" type="4">
+        <text>0.5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICog</text>
+        <text>0.5</text>
       </register>
       <register name="/" type="4">
         <text>circle point number</text>
@@ -370,28 +383,28 @@
         <text>quadratic_cost_function_test</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBwYXJhbV9zaXplID0gY29zdC0+cGFyYW1ldGVyX2Jsb2NrX3NpemVzKCkuZnJvbnQoKTsK</text>
+        <text encoding="base64">ICAgIHByb2JsZW0uQWRkUmVzaWR1YWxCbG9jayhjb3N0LCBOVUxMLCBwYXJhbSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LT5wYXJhbWV0ZXJfYmxvY2tfc2l6ZXMoKS5zaXplKCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSB1cHBlcl9ib3VuZHNbM10gPSB7IDEsIDEsIDEwMH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LnBhcmFtZXRlcl9ibG9ja19zaXplcygpLmJhY2soKSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBsb3dlcl9ib3VuZHNbM10gPSB7LTEsIC0xLCAwfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qIQo=</text>
+        <text encoding="base64">ICAgIGludCBwYXJhbV9zaXplID0gY29zdC0+cGFyYW1ldGVyX2Jsb2NrX3NpemVzKCkuZnJvbnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LT5wYXJhbWV0ZXJfYmxvY2tfc2l6ZXMoKS5zaXplKCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qIQo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LnBhcmFtZXRlcl9ibG9ja19zaXplcygpLmJhY2soKSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
