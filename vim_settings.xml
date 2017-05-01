@@ -24,11 +24,10 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493675222366">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="4" column="10" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493677138794">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solver.h" timestamp="1493666111724">
         <mark key="[" line="9" column="18" />
@@ -66,6 +65,11 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493678485317">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492638451184">
         <mark key="'" line="66" column="23" />
         <mark key="[" line="66" column="23" />
@@ -102,12 +106,12 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" timestamp="1493672185760">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" timestamp="1493677947223">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="55" column="7" />
+        <mark key="^" line="55" column="7" />
+        <mark key="." line="55" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492740092746">
         <mark key="[" line="24" column="10" />
@@ -217,11 +221,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493672199173">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="19" />
-        <mark key="^" line="54" column="19" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493678349599">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="69" column="15" />
+        <mark key="." line="69" column="15" />
+        <mark key="^" line="69" column="15" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1493669882340">
         <mark key="[" line="50" column="32" />
@@ -352,49 +356,45 @@
       <jump line="6" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NLPSolver::NLPSolver(bool debug)
-        : debug_(debug){
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LnBhcmFtZXRlcl9ibG9ja19zaXplcygpLmJhY2soKSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hmpl::</text>
+        <text encoding="base64">ICog</text>
       </register>
       <register name="/" type="4">
         <text>circle point number</text>
       </register>
       <register name="0" type="4">
-        <text>SE2::</text>
+        <text>quadratic_cost_function_test</text>
       </register>
-      <register name="1" type="4">
-        <text>NLPSolver::NLPSolver(bool debug)
-        : debug_(debug){
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LnBhcmFtZXRlcl9ibG9ja19zaXplcygpLmJhY2soKSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE5MUFNvbHZlcigpCg==</text>
+        <text encoding="base64">ICAgIC8qIQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qIQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>NLPSolver::NLPSolver() {
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qIQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ym9vbCBOTFBTb2x2ZXI6OmluaXRDZXJlcygpIHsKICAgIC8qU3RhdGUgc3RhcnQsIGVuZDsKICAgIHN0YXJ0LnggPSAwOwogICAgc3RhcnQueSA9IDA7CiAgICBzdGFydC56ID0gMDsKICAgIHN0YXJ0LmsgPSAwOwogICAgc3RhcnQucyA9IDA7CiAgICBlbmQueCA9IDEwOwogICAgZW5kLnkgPSAyOwogICAgZW5kLnogPSAwOwogICAgZW5kLmsgPSAwOwogICAgZW5kLnMgPSAwOwogICAgdGhpcy0+cE51bWJlcl8gPSAzOyAgLy8gIG51bWJlciBvZiBwYXJhbWV0ZXJzCiAgICAKICAgIHRoaXMtPmxlbmd0aF9sb3dlcl8gPQogICAgICAgICAgICBzcXJ0KHBvdyhlbmQueSAtIHN0YXJ0LnksIDIuMCkgKyBwb3coZW5kLnggLSBzdGFydC54LCAyLjApKTsKICAgIAogICAgLy8gIG51bWJlciBvZiB0aGUgcGFyYW1ldGVycwogICAgLy8gIHRoaXMtPm9wdGlvbnNfLm1pbmltaXplcl9wcm9ncmVzc190b19zdGRvdXQgPSB0cnVlOwogICAgdGhpcy0+b3B0aW9uc18ubGluZWFyX3NvbHZlcl90eXBlID0gY2VyZXM6OkRFTlNFX1FSOwogICAgLy8gICB5b3UgY2FuIG5vdCBhc3NpZ24gYm91bmRhcmllcyB0byB0aGUgc29sdmVyIHdpdGggbGluZSBzZWFyY2ggYWxnb3JpdGhtCiAgICAvLyAgIHRoaXMtPm9wdGlvbnNfLm1pbmltaXplcl90eXBlID0gY2VyZXM6OkxJTkVfU0VBUkNIOyovCiAgICByZXR1cm4gZmFsc2U7Cn0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2wgaW5pdENlcmVzKCk7Cg==</text>
+      <register name="9" type="4">
+        <text>/// The final state of the vehicle in the ego frame.
+    State final_state_;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
