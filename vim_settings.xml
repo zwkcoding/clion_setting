@@ -21,17 +21,137 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493685300560">
-        <mark key="[" line="31" column="47" />
-        <mark key="]" line="31" column="47" />
-        <mark key="." line="31" column="47" />
-        <mark key="^" line="31" column="47" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solver.h" timestamp="1493666111724">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="18" />
         <mark key="^" line="10" column="7" />
         <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" timestamp="1493757596327">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/package.xml" timestamp="1493693165372">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/utils.hpp" timestamp="1492740353482">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/nlp_solver_test.cpp" timestamp="1493686784439">
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="37" column="56" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="37" column="56" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493680196218">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492820198419">
+        <mark key="[" line="46" column="6" />
+        <mark key="]" line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492740092746">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493344373685">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="123" column="4" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
+        <mark key="^" line="123" column="26" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/package.xml" timestamp="1493326149032">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1493339650974">
+        <mark key="'" line="57" column="25" />
+        <mark key="[" line="81" column="33" />
+        <mark key="]" line="81" column="9" />
+        <mark key="^" line="81" column="9" />
+        <mark key="." line="81" column="9" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1493669458643">
+        <mark key="'" line="2303" column="0" />
+        <mark key="[" line="2303" column="1" />
+        <mark key="]" line="2303" column="20" />
+        <mark key="." line="2303" column="20" />
+        <mark key="^" line="2303" column="20" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" timestamp="1493756889699">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="96" column="2" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" timestamp="1493326137488">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492638477910">
+        <mark key="'" line="21" column="54" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1493669882340">
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="30" />
+        <mark key="^" line="50" column="30" />
+        <mark key="." line="50" column="30" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/opt_solver_test.cpp" timestamp="1493680224738">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/path_converter_ros.h" timestamp="1493326980193">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/utils.hpp" timestamp="1493327367967">
+        <mark key="[" line="62" column="1" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="11" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" timestamp="1493757525770">
+        <mark key="'" line="74" column="3" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493685300560">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+        <mark key="^" line="31" column="47" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -59,24 +179,12 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" timestamp="1493692519546">
-        <mark key="'" line="173" column="18" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/package.xml" timestamp="1493693165372">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/utils.hpp" timestamp="1492740353482">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" timestamp="1493758068427">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" timestamp="1493682031538">
         <mark key="'" line="16" column="15" />
@@ -85,22 +193,11 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/nlp_solver_test.cpp" timestamp="1493686784439">
-        <mark key="[" line="34" column="2" />
-        <mark key="]" line="37" column="56" />
-        <mark key="^" line="37" column="56" />
-        <mark key="." line="37" column="56" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/launch/single_path_demo.launch" timestamp="1493746846753">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="87" />
         <mark key="^" line="3" column="87" />
         <mark key="." line="3" column="87" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493680196218">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492638451184">
         <mark key="'" line="66" column="23" />
@@ -122,12 +219,6 @@
         <mark key="^" line="8" column="69" />
         <mark key="." line="8" column="69" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492820198419">
-        <mark key="[" line="46" column="6" />
-        <mark key="]" line="46" column="3" />
-        <mark key="^" line="46" column="3" />
-        <mark key="." line="46" column="3" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492740485658">
         <mark key="'" line="40" column="11" />
         <mark key="[" line="18" column="10" />
@@ -142,12 +233,6 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492740092746">
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" timestamp="1493669397212">
         <mark key="'" line="26" column="4" />
         <mark key="[" line="85" column="0" />
@@ -155,39 +240,12 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1493344373685">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="123" column="26" />
-        <mark key="." line="123" column="26" />
-        <mark key="^" line="123" column="26" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493412618821">
         <mark key="'" line="86" column="13" />
         <mark key="[" line="92" column="21" />
         <mark key="]" line="92" column="38" />
         <mark key="^" line="92" column="38" />
         <mark key="." line="92" column="38" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/package.xml" timestamp="1493326149032">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1493339650974">
-        <mark key="'" line="57" column="25" />
-        <mark key="[" line="81" column="33" />
-        <mark key="]" line="81" column="9" />
-        <mark key="^" line="81" column="9" />
-        <mark key="." line="81" column="9" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1493669458643">
-        <mark key="'" line="2303" column="0" />
-        <mark key="[" line="2303" column="1" />
-        <mark key="]" line="2303" column="20" />
-        <mark key="." line="2303" column="20" />
-        <mark key="^" line="2303" column="20" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -201,18 +259,17 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/constants.h" timestamp="1493757766391">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quatratic_cost_function.h" timestamp="1493665595814">
         <mark key="[" line="65" column="9" />
         <mark key="]" line="65" column="9" />
         <mark key="." line="65" column="9" />
         <mark key="^" line="65" column="9" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" timestamp="1493756889699">
-        <mark key="'" line="5" column="15" />
-        <mark key="[" line="96" column="2" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
@@ -239,42 +296,18 @@
         <mark key="." line="80" column="23" />
         <mark key="^" line="80" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" timestamp="1493326137488">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic.cpp" timestamp="1492638477910">
-        <mark key="'" line="21" column="54" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="10" column="5" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493694809482">
         <mark key="[" line="77" column="2" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="77" column="2" />
         <mark key="^" line="77" column="1" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1493669882340">
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="30" />
-        <mark key="^" line="50" column="30" />
-        <mark key="." line="50" column="30" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/opt_solver_test.cpp" timestamp="1493680224738">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/path_converter_ros.h" timestamp="1493326980193">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1493757743705">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="75" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492740146226">
         <mark key="'" line="0" column="0" />
@@ -283,29 +316,15 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/utils.hpp" timestamp="1493327367967">
-        <mark key="[" line="62" column="1" />
-        <mark key="]" line="62" column="11" />
-        <mark key="." line="62" column="11" />
-        <mark key="^" line="62" column="11" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/opt_base.h" timestamp="1493692134796">
-        <mark key="'" line="81" column="1" />
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="34" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/opt_base.h" timestamp="1493757479478">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="80" column="3" />
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="46" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="895" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="896" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="897" column="44" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="924" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="926" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="927" column="44" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="168" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="708" column="21" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="139" column="50" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="354" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -398,27 +417,51 @@
       <jump line="6" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/utils.h" />
       <jump line="6" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" />
       <jump line="5" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" />
+      <jump line="19" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/opt_base.h" />
+      <jump line="74" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" />
+      <jump line="30" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
+      <jump line="15" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" />
+      <jump line="77" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2RlZmluZSBJTkYgMUUyMAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>holonomic.getDensePath()</text>
+        <text>opt_</text>
       </register>
       <register name="/" type="4">
         <text>INF</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiNpbmNsdWRlIDxFaWdlbi9Db3JlPgojaW5jbHVkZSA8RWlnZW4vRGVuc2U+CiNpbmNsdWRlIDxFaWdlbi9FaWdlbj4KI2luY2x1ZGUgPHZlY3Rvcj4KCgojZGVmaW5lIElORiAxRTIwCgovKiEKICogQGJyaWVmIENvZWZmaWNpZW50cyBwYXJhbWV0ZXJzCiAqCiAqIFxmJCBca2FwcGEocykgPSBhICsgYipzICsgYypzXjIgKyBkKnNeMyAsIHMgXGluIFswLHNmXVxmJAogKi8Kc3RydWN0IFBhcmFtX2NvZWZmaWNpZW50IHsKICBkb3VibGUgYTsKICBkb3VibGUgYjsKICBkb3VibGUgYzsKICBkb3VibGUgZDsKICBkb3VibGUgc2Y7Cn07CgovKiEKICogQGJyaWVmIGtub3QgcGFyYW1ldGVycwogKiBccCBwMCBpbml0aWFsIGN1cnZhdHVyZQogKiBccCBwMSBjdXJ2YXR1cmUgYXQgMS8zIG9mIFxwIHNmCiAqIFxwIHAyIGN1cnZhdHVyZSBhdCAyLzMgb2YgXHAgc2YKICogXHAgcDMgY3VydmF0dXJlIGF0IFxwIHNmCiAqLwpzdHJ1Y3QgUGFyYW1fa25vdCB7CiAgZG91YmxlIHAwOyAgLy8gaW5pdGlhbCBjdXJ2YXR1cmUKICBkb3VibGUgcDE7ICAvLyBjdXJ2YXR1cmUgaW4gMS8zCiAgZG91YmxlIHAyOyAgLy8gY3VydmF0dXJlIGluIDIvMwogIGRvdWJsZSBwMzsgIC8vIGN1cnZhdHVyZSBpbiBzZgogIGRvdWJsZSBzZjsgIC8vIHNmIC0+IHA0Cn07CgovKiEKICogQGJyaWVmIFZlaGljbGUgc3RhdGUgc3RydWN0CiAqIFxwIHggeCBwb3NpdGlvbgogKiBccCB5IHkgcG9zaXRpb24KICogXHAgeiBoZWFkaW5nIG9mIHRoZSBjYXIKICogXHAgayBjdXJ2YXR1cmUgYXQgdGhpcyBzdGF0ZQogKiBccCB2IHNwZWVkIGF0IHRoaXMgc3RhdGUKICogXHAgcyBhcmMgbGVuZ3RoIGF0IHRoaXMgc3RhdGUKICogdG9kbzogY3JlYXRlIGEgY2xhc3MgZm9yIHN0YXRlCiAqLwpzdHJ1Y3QgU3RhdGUgewogIGRvdWJsZSB4OwogIGRvdWJsZSB5OwogIGRvdWJsZSB6OwogIGRvdWJsZSBrOwogIGRvdWJsZSBzOwogIGRvdWJsZSB2Owp9OwoKc3RydWN0IFBhdGhXaXRoQ29zdCB7CiAgUGFyYW1fa25vdCBwYXJhbTsgICAgICAgICAvLyBrbm90IHBhcmFtZXRlcgogIGRvdWJsZSBjb3N0OyAgICAgICAgICAgICAgLy8gZmluYWwgY29zdCBjb25zaWRlciBldmVyeXRoaW5nLgogIGRvdWJsZSBnb2FsX2Nvc3Q7ICAgICAgICAgLy8KICBkb3VibGUgYmVuZGluZ19jb3N0OyAgICAgIC8vIG1lYXN1cmVtZW50IG9mIGJlbmRpbmcgZW5lcmd5IG9mIHRoZSBwYXRoCiAgYm9vbCBmZWFzaWJsZTsgICAgICAgICAgICAvLyBkZXRlcm1pbmVkIGJ5IG1heGltdW0gY3VydmF0dXJlCiAgYm9vbCBjb2xsaXNpb25fZnJlZTsgICAgICAvLyBjb2xsaXNpb24gY2hlY2tpbmcKICBzdGQ6OnZlY3RvcjxTdGF0ZT4gcGF0aDsgIC8vIHBhdGggdmVjdG9yIGZvciBjb2xsaXNpb24gY2hlY2tpbmcgYnkgcmVzb2x1dGlvbgp9OwovKiEKICogQGJyaWVmIFNwZWNpYWwgRXVjbGlkZWFuIGdyb3VwCiAqLwpzdHJ1Y3QgU0UyIHsKICBkb3VibGUgeDsKICBkb3VibGUgeTsKICBkb3VibGUgdGhldGE7Cn07CgovKiEKICogQGJyaWVmIHNpbXBsZSAyZCBwb2ludCBkYXRhCiAqLwpzdHJ1Y3QgUG9pbnQgewogIGRvdWJsZSB4OwogIGRvdWJsZSB5Owp9OwoKCnN0cnVjdCBDZW50ZXIgewogIGRvdWJsZSB4OyAgLy8gIHRoZSB4IGNvb3JkaW5hdGVzIG9mIHRoZSBjZW50ZXIgb2YgdGhlIGNpcmNsZQogIGRvdWJsZSB5OyAgLy8gIHRoZSB5IGNvb3JkaW5hdGVzIG9mIHRoZSBjZW50ZXIgb2YgdGhlIGNpcmNsZQogIGRvdWJsZSByOyAgLy8gIHJhZGl1cyBvZiB0aGUgY2lyY2xlCn07CgovKiEKICogQGJyaWVmIENhciBnZW9tZXRyeQogKi8Kc3RydWN0IENhckdlb21ldHJ5IHsKICBkb3VibGUgd2hlZWxiYXNlOwogIGRvdWJsZSB0cmFjazsKICBkb3VibGUgZm9vdHByaW50X3ZlcnRleFs4XTsgIC8vIGluIGJhc2UgbGluayBmcmFtZSAsIHN0YXJ0IGZyb20gcmVhciB2ZXJ0ZXgKICBzdGQ6OnZlY3RvcjxDZW50ZXI+IGNlbnRlcl9wb2ludHM7ICAvLyAgYWxzbyBpbiBiYXNlIGxpbmssIGNpcmNsZSBjZW50ZXIKICAvLyBwb2ludHMKICAvLyBmb3IgY29sbGlzaW9uIGNoZWNrZXIuCiAgZG91YmxlIHJhZGl1c1s0XTsgICAvLyAgYWxzbwp9OwoKCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIm9wdF9zb2x2ZXIvb3B0X2Jhc2UuaCIKI2luY2x1ZGUgPHZlY3Rvcj4KCm5hbWVzcGFjZSBobXBsIHsKUGFyYW1fY29lZmZpY2llbnQga25vdFRvQ29lZmZpY2llbnQoUGFyYW1fa25vdCBwYXJhbSkgewogICAgUGFyYW1fY29lZmZpY2llbnQgcHY7CiAgICBkb3VibGUgcyA9IHBhcmFtLnNmOwogICAgcHYuc2YgPSBwYXJhbS5zZjsKICAgIHB2LmEgPSBwYXJhbS5wMDsKCiAgICBwdi5iID0KICAgICAgICAoMTggKiBwYXJhbS5wMSArIDIgKiBwYXJhbS5wMyAtIDExICogcGFyYW0ucDAgLSA5ICogcGFyYW0ucDIpIC8gKDIgKiBzKTsKICAgIHB2LmMgPSAoMTggKiBwYXJhbS5wMCAtIDQ1ICogcGFyYW0ucDEgKyAzNiAqIHBhcmFtLnAyIC0gOSAqIHBhcmFtLnAzKSAvCiAgICAgICAgICAgKDIgKiBwb3cocywgMikpOwogICAgcHYuZCA9ICgyNyAqIHBhcmFtLnAxIC0gMjcgKiBwYXJhbS5wMiArIDkgKiBwYXJhbS5wMyAtIDkgKiBwYXJhbS5wMCkgLwogICAgICAgICAgICgyICogcG93KHMsIDMpKTsKICAgIHJldHVybiBwdjsKfQoKZG91YmxlIGZUaGV0YShQYXJhbV9jb2VmZmljaWVudCBwYXJhbSwgZG91YmxlIHMpIHsKICAgIGRvdWJsZSBzMiA9IHBvdyhzLCAyKTsKICAgIGRvdWJsZSBzMyA9IHMyICogczsKICAgIGRvdWJsZSBzNCA9IHMzICogczsKICAgIGRvdWJsZSBmID0KICAgICAgICBwYXJhbS5hICogcyArIHBhcmFtLmIgKiBzMiAvIDIgKyBwYXJhbS5jICogczMgLyAzICsgcGFyYW0uZCAqIHM0IC8gNDsKICAgIHJldHVybiBmOwp9Cgpkb3VibGUgZkthcHBhKFBhcmFtX2NvZWZmaWNpZW50IHBhcmFtLCBkb3VibGUgcykgewogICAgZG91YmxlIGYgPSBwYXJhbS5hICsgcGFyYW0uYiAqIHMgKyBwYXJhbS5jICogcyAqIHMgKyBwYXJhbS5kICogcyAqIHMgKiBzOwogICAgcmV0dXJuIGY7Cn0KCi8vIHRyYXBlem9pZCBydWxlIHRvIGNhbGN1bGF0ZSB0aGUgZnJlc25lbCBpbnRlcmdyYWwKc3RkOjp2ZWN0b3I8U3RhdGU+IHNhbXBsZUN1YmljU3BpcmFsKFN0YXRlIHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGFyYW1fY29lZmZpY2llbnQgcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbnVtKSB7CiAgICBTdGF0ZSBwb3NlOwogICAgc3RhcnQucyA9IDA7CiAgICBzdGFydC52ID0gMDsKCiAgICBzdGQ6OnZlY3RvcjxTdGF0ZT4gcGF0aDsKICAgIHBhdGguY2xlYXIoKTsKICAgIHBhdGgucHVzaF9iYWNrKHN0YXJ0KTsKICAgIGRvdWJsZSBkZWx0YXggPSAwOwogICAgZG91YmxlIGRlbHRheSA9IDA7CiAgICBkb3VibGUgZGVsdGF4MSA9IDA7CiAgICBkb3VibGUgZGVsdGF5MSA9IDA7CiAgICBkb3VibGUgdGhldGEgPSAwOwogICAgZG91YmxlIHRoZXRhMSA9IDA7CiAgICBkb3VibGUgcyA9IDA7CiAgICBmb3IgKGludCBpID0gMTsgaSA8PSBudW07IGkrKykgewogICAgICAgIHMgPSBpICogcGFyYW0uc2YgLyBudW07CiAgICAgICAgdGhldGEgPSBmVGhldGEocGFyYW0sIHMpOwoKICAgICAgICBpZiAoaSA9PSAxKSB7CiAgICAgICAgICAgIGRlbHRheCA9IChjb3ModGhldGEpICsgY29zKDApKSAvICgyICogaSk7CiAgICAgICAgICAgIGRlbHRheSA9IChzaW4odGhldGEpICsgc2luKDApKSAvICgyICogaSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZGVsdGF4ID0KICAgICAgICAgICAgICAgIChjb3ModGhldGEpICsgY29zKHRoZXRhMSkpIC8gKDIgKiBpKSArIGRlbHRheDEgKiAoaSAtIDEpIC8gaTsKICAgICAgICAgICAgZGVsdGF5ID0KICAgICAgICAgICAgICAgIChzaW4odGhldGEpICsgc2luKHRoZXRhMSkpIC8gKDIgKiBpKSArIGRlbHRheTEgKiAoaSAtIDEpIC8gaTsKICAgICAgICB9CiAgICAgICAgcG9zZS54ID0gZGVsdGF4ICogczsKICAgICAgICBwb3NlLnkgPSBkZWx0YXkgKiBzOwogICAgICAgIHBvc2UueiA9IHRoZXRhOwogICAgICAgIHBvc2UuayA9IGZLYXBwYShwYXJhbSwgcyk7CiAgICAgICAgcG9zZS5zID0gczsKICAgICAgICBwb3NlLnYgPSAwLjA7CiAgICAgICAgcGF0aC5wdXNoX2JhY2socG9zZSk7CiAgICAgICAgZGVsdGF4MSA9IGRlbHRheDsKICAgICAgICBkZWx0YXkxID0gZGVsdGF5OwogICAgICAgIHRoZXRhMSA9IHRoZXRhOwogICAgfQogICAgcmV0dXJuIHBhdGg7Cn0KCnN0ZDo6dmVjdG9yPFN0YXRlPiBzYW1wbGVDdWJpY1NwaXJhbEJ5TGVuZ3RoKFN0YXRlIHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGFyYW1fY29lZmZpY2llbnQgcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb3VibGUgc3RlcExlbmd0aCkgewogICAgU3RhdGUgcG9zZTsKICAgIHN0YXJ0LnMgPSAwOwogICAgc3RhcnQudiA9IDA7CiAgICAvLyBudW1iZXIgb2Ygc2VnbWVudHMKICAgIGludCBudW0gPSBzdGF0aWNfY2FzdDxpbnQ+KGZsb29yKHBhcmFtLnNmL3N0ZXBMZW5ndGgpKTsKCiAgICBzdGQ6OnZlY3RvcjxTdGF0ZT4gcGF0aDsKICAgIHBhdGguY2xlYXIoKTsKICAgIHBhdGgucHVzaF9iYWNrKHN0YXJ0KTsKICAgIGRvdWJsZSBkZWx0YXggPSAwOwogICAgZG91YmxlIGRlbHRheSA9IDA7CiAgICBkb3VibGUgZGVsdGF4MSA9IDA7CiAgICBkb3VibGUgZGVsdGF5MSA9IDA7CiAgICBkb3VibGUgdGhldGEgPSAwOwogICAgZG91YmxlIHRoZXRhMSA9IDA7CiAgICBkb3VibGUgcyA9IDA7CiAgICBmb3IgKGludCBpID0gMTsgaSA8PSBudW07IGkrKykgewogICAgICAgIHMgPSBpICogcGFyYW0uc2YgLyBudW07CiAgICAgICAgLy8gZ2V0IHRoZSBjb3JyZXNwb25kaW5nIGhlYWRpbmcgYW5nbGUgYWNjb3JkaW5nIHRvIGFyYy1sZW5ndGggYWxvbmcKICAgICAgICAvLyB0aGUgcGF0aCBhbmQgdGhlIHBhcmFtZXRlcnMgb2YgdGhlIHNwaXJhbAogICAgICAgIHRoZXRhID0gZlRoZXRhKHBhcmFtLCBzKTsKCiAgICAgICAgaWYgKGkgPT0gMSkgewogICAgICAgICAgICBkZWx0YXggPSAoY29zKHRoZXRhKSArIGNvcygwKSkgLyAoMiAqIGkpOwogICAgICAgICAgICBkZWx0YXkgPSAoc2luKHRoZXRhKSArIHNpbigwKSkgLyAoMiAqIGkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGRlbHRheCA9CiAgICAgICAgICAgICAgICAoY29zKHRoZXRhKSArIGNvcyh0aGV0YTEpKSAvICgyICogaSkgKyBkZWx0YXgxICogKGkgLSAxKSAvIGk7CiAgICAgICAgICAgIGRlbHRheSA9CiAgICAgICAgICAgICAgICAoc2luKHRoZXRhKSArIHNpbih0aGV0YTEpKSAvICgyICogaSkgKyBkZWx0YXkxICogKGkgLSAxKSAvIGk7CiAgICAgICAgfQogICAgICAgIHBvc2UueCA9IGRlbHRheCAqIHM7CiAgICAgICAgcG9zZS55ID0gZGVsdGF5ICogczsKICAgICAgICBwb3NlLnogPSB0aGV0YTsKICAgICAgICBwb3NlLmsgPSBmS2FwcGEocGFyYW0sIHMpOwogICAgICAgIHBvc2UucyA9IHM7CiAgICAgICAgcG9zZS52ID0gMC4wOwogICAgICAgIHBhdGgucHVzaF9iYWNrKHBvc2UpOwogICAgICAgIGRlbHRheDEgPSBkZWx0YXg7CiAgICAgICAgZGVsdGF5MSA9IGRlbHRheTsKICAgICAgICB0aGV0YTEgPSB0aGV0YTsKICAgIH0KICAgIHJldHVybiBwYXRoOwp9CmRvdWJsZSBnZXRDdXJ2YXR1cmUoY29uc3QgUG9pbnQmIGZpcnN0X3BvaW50LAogICAgICAgICAgICAgICAgICAgIGNvbnN0IFBvaW50JiBzZWNvbmRfcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgUG9pbnQmIHRoaXJkX3BvaW50KSB7CiAgICAvLyBjYWN1bGF0ZSB0aGUgcmFkaXVzIG9mIHRoZSBjaXJjbGUgZmlyc3QKICAgIGRvdWJsZSBhLCBiLCBjOyAgLy8gdGhyZWUgc2lkZXMKICAgIGRvdWJsZSBkZWx0YV94LCBkZWx0YV95OwogICAgZG91YmxlIHM7ICAvLyBzZW1pcGVyaW1ldGVyCiAgICBkb3VibGUgSzsKCiAgICAvLyBzaWRlIG9uZQogICAgZGVsdGFfeCA9IHNlY29uZF9wb2ludC54IC0gZmlyc3RfcG9pbnQueDsKICAgIGRlbHRhX3kgPSBzZWNvbmRfcG9pbnQueSAtIGZpcnN0X3BvaW50Lnk7CiAgICBhID0gc3FydChwb3coZGVsdGFfeCwgMi4wKSArIHBvdyhkZWx0YV95LCAyLjApKTsKCiAgICAvLyBzaWRlIHR3bwogICAgZGVsdGFfeCA9IHRoaXJkX3BvaW50LnggLSBzZWNvbmRfcG9pbnQueDsKICAgIGRlbHRhX3kgPSB0aGlyZF9wb2ludC55IC0gc2Vjb25kX3BvaW50Lnk7CiAgICBiID0gc3FydChwb3coZGVsdGFfeCwgMi4wKSArIHBvdyhkZWx0YV95LCAyLjApKTsKCiAgICAvLyBzaWRlIHRocmVlCiAgICBkZWx0YV94ID0gZmlyc3RfcG9pbnQueCAtIHRoaXJkX3BvaW50Lng7CiAgICBkZWx0YV95ID0gZmlyc3RfcG9pbnQueSAtIHRoaXJkX3BvaW50Lnk7CiAgICBjID0gc3FydChwb3coZGVsdGFfeCwgMi4wKSArIHBvdyhkZWx0YV95LCAyLjApKTsKCiAgICBpZiAoYTwgQ0xPU0VfVE9fWkVSTyB8fCBiIDwgQ0xPU0VfVE9fWkVSTyB8fCBjIDwgQ0xPU0VfVE9fWkVSTykgewogICAgICAgIHJldHVybiAwOwogICAgfQoKICAgIC8vIHNlbWlwZXJpbWV0ZXIKICAgIHMgPSAoYSArIGIgKyBjKSAvIDIuMDsKICAgIEsgPSBzcXJ0KGZhYnMocyAqIChzIC0gYSkgKiAocyAtIGIpICogKHMgLSBjKSkpOwogICAgZG91YmxlIGN1cnZhdHVyZSA9IDQgKiBLIC8gKGEgKiBiICogYyk7CiAgICAKICAgIC8vIGRldGVybWluZSB0aGUgc2lnbiwgdXNpbmcgY3Jvc3MgcHJvZHVjdAogICAgZG91YmxlIHJvdGF0ZV9kaXJlY3Rpb24gPSAoc2Vjb25kX3BvaW50LnggLSBmaXJzdF9wb2ludC54KSAqCiAgICAgICAgICAgICh0aGlyZF9wb2ludC55IC0gc2Vjb25kX3BvaW50LnkpIC0KICAgICAgICAgICAgKHNlY29uZF9wb2ludC55IC0gZmlyc3RfcG9pbnQueSkgKgogICAgICAgICAgICAgICAgICAgICh0aGlyZF9wb2ludC54IC0gc2Vjb25kX3BvaW50LngpOwogICAgCiAgICBpZiAocm90YXRlX2RpcmVjdGlvbiA8IDApIHsKICAgICAgICAvL2Nsb2Nrd2lzZQogICAgICAgIGN1cnZhdHVyZSA9IC0gY3VydmF0dXJlOwogICAgfQogICAgcmV0dXJuIGN1cnZhdHVyZTsKfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2RlZmluZSBJTkYgMUUyMAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>const int SAMPLE_NUM = 500;
+const double CLOSE_TO_ZERO = 1e-06;</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">I2luY2x1ZGUgPHJvcy9yb3MuaD4KCmludCBtYWluKGludCBhcmdjLCBjaGFyICoqYXJndikgewogICAgLy8gSW5pdGlhbGl6ZSB0aGUgbm9kZSwgcHVibGlzaGVycyBhbmQgc3Vic2NyaWJlcnMuCiAgICByb3M6OmluaXQoYXJnYywgYXJndiwgIm9wdF91dGlsc19ub2RlIik7CiAgICByb3M6Ok5vZGVIYW5kbGUgbmgoIn4iKTsKICAgIC8vIENyZWF0ZSBwdWJsaXNoZXJzIGFuZCBzdWJzY3JpYmVycwogICAgLy8gcm9zOjpQdWJsaXNoZXIgcHVibGlzaGVyID0gbmguYWR2ZXJ0aXNlPGdlb21ldHJ5X21zZ3M6OlBvc2VTdGFtcGVkPigicG9zZV9wdWJsaXNoZXIiLCAxLCB0cnVlKTsKCiAgICAvLyBQdWJsaXNoZXIgaW4gYSBsb29wLgogICAgcm9zOjpSYXRlIHJhdGUoMTAuMCk7CiAgICB3aGlsZSAobmgub2soKSkgewogICAgICAgIC8vIEFkZCBkYXRhIHRvIGdyaWQgbWFwLgogICAgICAgIHJvczo6VGltZSB0aW1lID0gcm9zOjpUaW1lOjpub3coKTsKCgkvLyBEbyBzb21ldGhpbmcgCgkvLyAuLi4uCgkvLyBGaWxsIHRoZSBwb3NlIG1zZwoJICAgICAgICAKICAgICAgICAvLyBQdWJsaXNoIGEgcG9zZS4KICAgICAgICAvLyBwdWJsaXNoZXIucHVibGlzaChwb3NlX21zZyk7CiAgICAgICAgLy8gUk9TX0lORk9fVEhST1RUTEUoMTAsICJST1MgcG9zZSAodGltZXN0YW1wICVmKSBwdWJsaXNoZWQuIiwgcG9zZV9tc2cuaGVhZGVyLnN0YW1wLnRvU2VjKCkpOwoKCQogICAgICAgIC8vIFdhaXQgZm9yIG5leHQgY3ljbGUuCglyb3M6OnNwaW5PbmNlKCk7CiAgICAgICAgcmF0ZS5zbGVlcCgpOwogICAgfQoKICAgIHJldHVybiAwOwp9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2RlZmluZSBJTkYgMUUyMAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>## Add cmake target dependencies of the library
 ## as an example, code may need to be generated before libraries
 ## either from message generation or dynamic reconfigure
@@ -492,118 +535,13 @@
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>###########
 ## Build ##
 ###########
 
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations</text>
-      </register>
-      <register name="5" type="4">
-        <text>## System dependencies are found with CMake's conventions
-# find_package(Boost REQUIRED COMPONENTS system)
-
-
-## Uncomment this if the package has a setup.py. This macro ensures
-## modules and global scripts declared therein get installed
-## See http://ros.org/doc/api/catkin/html/user_guide/setup_dot_py.html
-# catkin_python_setup()
-
-################################################
-## Declare ROS messages, services and actions ##
-################################################
-
-## To declare and build messages, services or actions from within this
-## package, follow these steps:
-## * Let MSG_DEP_SET be the set of packages whose message types you use in
-##   your messages/services/actions (e.g. std_msgs, actionlib_msgs, ...).
-## * In the file package.xml:
-##   * add a build_depend tag for &quot;message_generation&quot;
-##   * add a build_depend and a run_depend tag for each package in MSG_DEP_SET
-##   * If MSG_DEP_SET isn't empty the following dependency has been pulled in
-##     but can be declared for certainty nonetheless:
-##     * add a run_depend tag for &quot;message_runtime&quot;
-## * In this file (CMakeLists.txt):
-##   * add &quot;message_generation&quot; and every package in MSG_DEP_SET to
-##     find_package(catkin REQUIRED COMPONENTS ...)
-##   * add &quot;message_runtime&quot; and every package in MSG_DEP_SET to
-##     catkin_package(CATKIN_DEPENDS ...)
-##   * uncomment the add_*_files sections below as needed
-##     and list every .msg/.srv/.action file to be processed
-##   * uncomment the generate_messages entry below
-##   * add every package in MSG_DEP_SET to generate_messages(DEPENDENCIES ...)
-
-## Generate messages in the 'msg' folder
-# add_message_files(
-#   FILES
-#   Message1.msg
-#   Message2.msg
-# )
-
-## Generate services in the 'srv' folder
-# add_service_files(
-#   FILES
-#   Service1.srv
-#   Service2.srv
-# )
-
-## Generate actions in the 'action' folder
-# add_action_files(
-#   FILES
-#   Action1.action
-#   Action2.action
-# )
-
-## Generate added messages and services with any dependencies listed here
-# generate_messages(
-#   DEPENDENCIES
-#   std_msgs  # Or other packages containing msgs
-# )
-
-################################################
-## Declare ROS dynamic reconfigure parameters ##
-################################################
-
-## To declare and build dynamic reconfigure parameters within this
-## package, follow these steps:
-## * In the file package.xml:
-##   * add a build_depend and a run_depend tag for &quot;dynamic_reconfigure&quot;
-## * In this file (CMakeLists.txt):
-##   * add &quot;dynamic_reconfigure&quot; to
-##     find_package(catkin REQUIRED COMPONENTS ...)
-##   * uncomment the &quot;generate_dynamic_reconfigure_options&quot; section below
-##     and list every .cfg file to be processed
-
-## Generate dynamic reconfigure parameters in the 'cfg' folder
-# generate_dynamic_reconfigure_options(
-#   cfg/DynReconf1.cfg
-#   cfg/DynReconf2.cfg
-# )
-
-###################################
-## catkin specific configuration ##
-###################################
-## The catkin_package macro generates cmake config files for your package
-## Declare things to be passed to dependent projects
-## INCLUDE_DIRS: uncomment this if you package contains header files
-## LIBRARIES: libraries you create in this project that dependent projects also need
-## CATKIN_DEPENDS: catkin_packages dependent projects also need
-## DEPENDS: system dependencies of this project that dependent projects also need</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBpcyB1c2VkLCBhbHNvIGZpbmQgb3RoZXIgY2F0a2luIHBhY2thZ2VzCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>## Find catkin macros and libraries
-## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
-#</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInJ1bnRpbWU6IiA8PCBlbGFwc2VkX3NlY29uZGVzIDw8ICIgc2Vjb25kLiIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
