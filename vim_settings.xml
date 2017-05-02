@@ -27,12 +27,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" timestamp="1493757596327">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" timestamp="1493764402026">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/package.xml" timestamp="1493762882836">
         <mark key="[" line="17" column="29" />
@@ -51,11 +51,6 @@
         <mark key="]" line="37" column="56" />
         <mark key="^" line="37" column="56" />
         <mark key="." line="37" column="56" />
-      </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493680196218">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492820198419">
         <mark key="[" line="46" column="6" />
@@ -82,10 +77,12 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/utils.h" timestamp="1493761362014">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/utils.h" timestamp="1493764712272">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1493339650974">
         <mark key="'" line="57" column="25" />
@@ -94,12 +91,12 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1493669458643">
-        <mark key="'" line="2303" column="0" />
-        <mark key="[" line="2303" column="1" />
-        <mark key="]" line="2303" column="20" />
-        <mark key="." line="2303" column="20" />
-        <mark key="^" line="2303" column="20" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1493764272876">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" timestamp="1493756889699">
         <mark key="'" line="5" column="15" />
@@ -121,11 +118,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1493669882340">
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="30" />
-        <mark key="^" line="50" column="30" />
-        <mark key="." line="50" column="30" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1493764173247">
+        <mark key="'" line="451" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/opt_solver_test.cpp" timestamp="1493680224738">
         <mark key="[" line="5" column="44" />
@@ -171,12 +169,12 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1493754830190">
-        <mark key="'" line="4" column="31" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="56" column="25" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1493764854166">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -191,12 +189,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" timestamp="1493682031538">
-        <mark key="'" line="16" column="15" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" timestamp="1493764546167">
+        <mark key="'" line="15" column="15" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/launch/single_path_demo.launch" timestamp="1493746846753">
         <mark key="[" line="3" column="72" />
@@ -231,19 +229,19 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" timestamp="1493677947223">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="55" column="7" />
-        <mark key="]" line="55" column="7" />
-        <mark key="^" line="55" column="7" />
-        <mark key="." line="55" column="7" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" timestamp="1493764565274">
+        <mark key="'" line="57" column="7" />
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" timestamp="1493669397212">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" timestamp="1493764214694">
         <mark key="'" line="26" column="4" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="29" column="11" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493412618821">
         <mark key="'" line="86" column="13" />
@@ -258,11 +256,12 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/si_bending_energy.h" timestamp="1493668948836">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/si_bending_energy.h" timestamp="1493764192787">
+        <mark key="'" line="62" column="19" />
+        <mark key="[" line="60" column="2" />
+        <mark key="]" line="62" column="19" />
+        <mark key="." line="62" column="19" />
+        <mark key="^" line="62" column="19" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/constants.h" timestamp="1493760085735">
         <mark key="[" line="8" column="0" />
@@ -301,11 +300,12 @@
         <mark key="." line="80" column="23" />
         <mark key="^" line="80" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493762914030">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493764434629">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1493757743705">
         <mark key="'" line="75" column="0" />
@@ -321,24 +321,15 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/opt_base.h" timestamp="1493757479478">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/opt_base.h" timestamp="1493764322800">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="80" column="3" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="691" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="90" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="98" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="103" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="290" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="315" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="323" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="586" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="603" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="582" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="959" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -430,13 +421,22 @@
       <jump line="11" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
       <jump line="177" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
       <jump line="4" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
+      <jump line="9" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/si_bending_energy.h" />
+      <jump line="12" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" />
+      <jump line="451" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" />
+      <jump line="62" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/si_bending_energy.h" />
+      <jump line="45" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" />
+      <jump line="55" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
+      <jump line="17" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" />
+      <jump line="59" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/utils.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>hmpl::</text>
       </register>
       <register name="/" type="4">
         <text>INF</text>
@@ -448,29 +448,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+        <text encoding="base64">I2luY2x1ZGUgIm9wdF9zb2x2ZXIvbmxwX3NvbHZlci5oIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>#include &quot;opt_solver/se2_constraints.h&quot;
+#include &quot;opt_solver/si_bending_energy.h&quot;</text>
       </register>
       <register name="4" type="4">
+        <text>/*!
+ * @brief Special Euclidean group
+ */
+struct SE2 {
+  double x;
+  double y;
+  double theta;
+};</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>#include &quot;opt_utils/base.h&quot;
 #include &quot;opt_utils/constants.h&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9wdF91dGlscy9iYXNlLmgiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPD4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPEVpZ2VuL0VpZ2VuPgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPEVpZ2VuL0RlbnNlPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPEVpZ2VuL0NvcmU+Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIm9wdF91dGlscy9iYXNlLmgiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
