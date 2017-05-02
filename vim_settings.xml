@@ -45,12 +45,12 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1493748141320">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1493750352172">
         <mark key="'" line="4" column="31" />
-        <mark key="[" line="55" column="64" />
-        <mark key="]" line="55" column="62" />
-        <mark key="^" line="55" column="62" />
-        <mark key="." line="55" column="62" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="56" column="25" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -387,7 +387,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0gTGF1bmNoIFJWaXogd2l0aCB0aGUgZGVtbyBjb25maWd1cmF0aW9uIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInJ1bnRpbWU6IiA8PCBlbGFwc2VkX3NlY29uZGVzIDw8ICIgc2Vjb25kLiIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="-" type="4">
         <text>holonomic.getDensePath()</text>
@@ -399,31 +399,31 @@
         <text encoding="base64">JHtjYXRraW5fTElCUkFSSUVTfQogICR7Q0VSRVNfTElCUkFSSUVTfQogICR7UFJPSkVDVF9OQU1FfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gTGF1bmNoIFJWaXogd2l0aCB0aGUgZGVtbyBjb25maWd1cmF0aW9uIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInJ1bnRpbWU6IiA8PCBlbGFwc2VkX3NlY29uZGVzIDw8ICIgc2Vjb25kLiIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxub2RlIHBrZyA9InRmIiB0eXBlPSJzdGF0aWNfdHJhbnNmb3JtX3B1Ymxpc2hlciIgbmFtZT0ib2RvbUJhc2VMaW5rIiBhcmdzPSIgMCAwIDAgMCAwIDAgL29kb20gL2Jhc2VfbGluayAyMCIvPgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwhLS0gTGF1bmNoIFJWaXogd2l0aCB0aGUgZGVtbyBjb25maWd1cmF0aW9uIC0tPgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxub2RlIHBrZz0ibm9kZWxldCIgdHlwZT0ibm9kZWxldCIgbmFtZT0icGxhbm5pbmdfbWFuYWdlciIgIGFyZ3M9Im1hbmFnZXIiIG91dHB1dD0ic2NyZWVuIi8+Cg==</text>
+        <text encoding="base64">ICAgIDxub2RlIHBrZyA9InRmIiB0eXBlPSJzdGF0aWNfdHJhbnNmb3JtX3B1Ymxpc2hlciIgbmFtZT0ib2RvbUJhc2VMaW5rIiBhcmdzPSIgMCAwIDAgMCAwIDAgL29kb20gL2Jhc2VfbGluayAyMCIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAke2dmbGFnc19MSUJSQVJJRVN9Cg==</text>
+        <text encoding="base64">ICAgIDxub2RlIHBrZz0ibm9kZWxldCIgdHlwZT0ibm9kZWxldCIgbmFtZT0icGxhbm5pbmdfbWFuYWdlciIgIGFyZ3M9Im1hbmFnZXIiIG91dHB1dD0ic2NyZWVuIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAke2dmbGFnc19MSUJSQVJJRVN9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKGdmbGFncyBSRVFVSVJFRCkK</text>
+        <text encoding="base64">ICAke2dmbGFnc19MSUJSQVJJRVN9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAke2dmbGFnc19MSUJSQVJJRVN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
