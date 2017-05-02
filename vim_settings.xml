@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1492621209790">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/circle_node.hpp" timestamp="1492740327158">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="13" />
@@ -53,6 +50,19 @@
         <mark key="]" line="27" column="21" />
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" timestamp="1493692519546">
+        <mark key="'" line="173" column="18" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/package.xml" timestamp="1493693165372">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/utils.hpp" timestamp="1492740353482">
         <mark key="[" line="14" column="10" />
@@ -103,9 +113,6 @@
         <mark key="]" line="46" column="3" />
         <mark key="^" line="46" column="3" />
         <mark key="." line="46" column="3" />
-      </file>
-      <file name="/LLDB" timestamp="1493341501926">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492740485658">
         <mark key="'" line="40" column="11" />
@@ -200,9 +207,6 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="/fragment.mm" timestamp="1492621431059">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/tinyspline.c" timestamp="1492740825876">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="23" />
@@ -229,11 +233,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493680302993">
-        <mark key="[" line="74" column="50" />
-        <mark key="]" line="74" column="36" />
-        <mark key="." line="74" column="36" />
-        <mark key="^" line="74" column="36" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493693143457">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="14" />
+        <mark key="." line="37" column="14" />
+        <mark key="^" line="37" column="14" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1493669882340">
         <mark key="[" line="50" column="32" />
@@ -266,12 +270,15 @@
         <mark key="." line="62" column="11" />
         <mark key="^" line="62" column="11" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/opt_base.h" timestamp="1493692134796">
+        <mark key="'" line="81" column="1" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="870" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="732" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="22" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="750" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="757" column="85" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="172" column="4" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="674" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -368,13 +375,17 @@
       <jump line="65" column="20" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
       <jump line="6" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
       <jump line="39" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/nlp_solver_test.cpp" />
+      <jump line="81" column="1" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/opt_base.h" />
+      <jump line="11" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" />
+      <jump line="180" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" />
+      <jump line="173" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>solver.solve()</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>circle point number</text>
@@ -386,28 +397,34 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBzbG9wZSA9IHRhbih0aGV0YSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGF1dG8gc3RhcnRfdGltZSA9IHN0ZDo6Y2hyb25vOjpzdGVhZHlfY2xvY2s6Om5vdygpOwogICAgZm9yIChpbnQgaiA9IDA7IGogPCAxMDAwOyBqKysgKSB7CiAgICAgICAgc29sdmVyLnNvbHZlKHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICBlbmQsCiAgICAgICAgICAgICAgICAgICAgIHBhcmFtLAogICAgICAgICAgICAgICAgICAgICBsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgIHVwcGVyX2JvdW5kcywKICAgICAgICAgICAgICAgICAgICAgJnNvbHV0aW9uKTsKICAgIH0KICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRvdWJsZSB0aGV0YSA9IGF0YW4yKGRlbHRhX3ksIGRlbHRhX3gpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBlbGFwc2VkX3NlY29uZGVzID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86OmR1cmF0aW9uPGRvdWJsZT4gPiAoZW5kX3RpbWUgLSBzdGFydF90aW1lKS5jb3VudCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZW5kX3RpbWUgPSBzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKChzZWNvbmRfcG9pbnQueSAtIHNsb3BlKnNlY29uZF9wb2ludC54IC0gZCkgPiAwLjApIHsKICAgICAgICBjdXJ2YXR1cmUgPSAtY3VydmF0dXJlOwogICAgfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCJydW50aW1lOiIgPDwgZWxhcHNlZF9zZWNvbmRlcy8xMDAwLjAgPDwgc3RkOjplbmRsOwo=</text>
+      <register name="6" type="4">
+        <text>double d = first_point.y - first_point.x*tan(slope);
+    //                            . the third point
+    //      the second point  * .
+    //       the first point  .
+    // when the second point(star) is above the line(at the left of the line),
+    // the value of (second_point.y - slope*second_point.x - d) is positive.
+    // Otherwise, the value is negative.</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c3RkOjpjb3V0IDw8ICJsb3dlciBib3VuZHM6IiA8PCBsb3dlcl9ib3VuZHNbMF0gPDwgIiwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw8IGxvd2VyX2JvdW5kc1sxXSA8PCAiLCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPDwgbG93ZXJfYm91bmRzWzJdIDw8IHN0ZDo6ZW5kbDsKICAgIHN0ZDo6Y291dCA8PCAidXBwZXIgYm91bmRzOiIgPDwgdXBwZXJfYm91bmRzWzBdIDw8ICIsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8PCB1cHBlcl9ib3VuZHNbMV0gPDwgIiwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw8IHVwcGVyX2JvdW5kc1syXSA8PCBzdGQ6OmVuZGw7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGF1dG8gc3RhcnRfdGltZSA9IHN0ZDo6Y2hyb25vOjpzdGVhZHlfY2xvY2s6Om5vdygpOwogICAgZm9yIChpbnQgaiA9IDA7IGogPCAxMDAwOyBqKysgKSB7CiAgICAgICAgc29sdmVyLnNvbHZlKHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICBlbmQsCiAgICAgICAgICAgICAgICAgICAgIHBhcmFtLAogICAgICAgICAgICAgICAgICAgICBsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgIHVwcGVyX2JvdW5kcywKICAgICAgICAgICAgICAgICAgICAgJnNvbHV0aW9uKTsKICAgIH0KICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
