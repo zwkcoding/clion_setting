@@ -82,6 +82,11 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/utils.h" timestamp="1493761362014">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1493339650974">
         <mark key="'" line="57" column="25" />
         <mark key="[" line="81" column="33" />
@@ -179,12 +184,12 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" timestamp="1493760102028">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" timestamp="1493761625207">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" timestamp="1493682031538">
         <mark key="'" line="16" column="15" />
@@ -325,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="170" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="691" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="90" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -425,6 +429,7 @@
       <jump line="77" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" />
       <jump line="11" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
       <jump line="177" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
+      <jump line="4" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -443,29 +448,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBDQVRLSU5fREVQRU5EUyB0ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBERVBFTkRTIEVpZ2VuCg==</text>
+      <register name="4" type="4">
+        <text>#include &quot;opt_utils/base.h&quot;
+#include &quot;opt_utils/constants.h&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByb3NjcHAK</text>
+        <text encoding="base64">I2luY2x1ZGUgIm9wdF91dGlscy9iYXNlLmgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPD4K</text>
       </register>
-      <register name="7" type="4">
-        <text>const int SAMPLE_NUM = 500;
-const double CLOSE_TO_ZERO = 1e-06;</text>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPEVpZ2VuL0VpZ2VuPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPEVpZ2VuL0RlbnNlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPEVpZ2VuL0NvcmU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
