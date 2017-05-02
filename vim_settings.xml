@@ -105,6 +105,12 @@
         <mark key="." line="97" column="0" />
         <mark key="^" line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/launch/modified_path_demo.launch" timestamp="1493767253203">
+        <mark key="[" line="3" column="86" />
+        <mark key="]" line="3" column="98" />
+        <mark key="^" line="3" column="98" />
+        <mark key="." line="3" column="98" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/CMakeLists.txt" timestamp="1493326137488">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="12" column="15" />
@@ -196,11 +202,11 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/launch/single_path_demo.launch" timestamp="1493746846753">
-        <mark key="[" line="3" column="72" />
-        <mark key="]" line="3" column="87" />
-        <mark key="^" line="3" column="87" />
-        <mark key="." line="3" column="87" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/launch/single_path_demo.launch" timestamp="1493767153048">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/holonomic.hpp" timestamp="1492638451184">
         <mark key="'" line="66" column="23" />
@@ -243,7 +249,7 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493412618821">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493767216464">
         <mark key="'" line="86" column="13" />
         <mark key="[" line="92" column="21" />
         <mark key="]" line="92" column="38" />
@@ -432,8 +438,8 @@
       <jump line="36" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>modified_path_node</text>
       </register>
       <register name="-" type="4">
         <text>hmpl::</text>
@@ -442,7 +448,7 @@
         <text>SE2</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">I2luY2x1ZGUgIm9wdF9zb2x2ZXIvb3B0X2Jhc2UuaCIKI2luY2x1ZGUgPHZlY3Rvcj4KCm5hbWVzcGFjZSBobXBsIHsKUGFyYW1fY29lZmZpY2llbnQga25vdFRvQ29lZmZpY2llbnQoUGFyYW1fa25vdCBwYXJhbSkgewogICAgUGFyYW1fY29lZmZpY2llbnQgcHY7CiAgICBkb3VibGUgcyA9IHBhcmFtLnNmOwogICAgcHYuc2YgPSBwYXJhbS5zZjsKICAgIHB2LmEgPSBwYXJhbS5wMDsKCiAgICBwdi5iID0KICAgICAgICAoMTggKiBwYXJhbS5wMSArIDIgKiBwYXJhbS5wMyAtIDExICogcGFyYW0ucDAgLSA5ICogcGFyYW0ucDIpIC8gKDIgKiBzKTsKICAgIHB2LmMgPSAoMTggKiBwYXJhbS5wMCAtIDQ1ICogcGFyYW0ucDEgKyAzNiAqIHBhcmFtLnAyIC0gOSAqIHBhcmFtLnAzKSAvCiAgICAgICAgICAgKDIgKiBwb3cocywgMikpOwogICAgcHYuZCA9ICgyNyAqIHBhcmFtLnAxIC0gMjcgKiBwYXJhbS5wMiArIDkgKiBwYXJhbS5wMyAtIDkgKiBwYXJhbS5wMCkgLwogICAgICAgICAgICgyICogcG93KHMsIDMpKTsKICAgIHJldHVybiBwdjsKfQoKZG91YmxlIGZUaGV0YShQYXJhbV9jb2VmZmljaWVudCBwYXJhbSwgZG91YmxlIHMpIHsKICAgIGRvdWJsZSBzMiA9IHBvdyhzLCAyKTsKICAgIGRvdWJsZSBzMyA9IHMyICogczsKICAgIGRvdWJsZSBzNCA9IHMzICogczsKICAgIGRvdWJsZSBmID0KICAgICAgICBwYXJhbS5hICogcyArIHBhcmFtLmIgKiBzMiAvIDIgKyBwYXJhbS5jICogczMgLyAzICsgcGFyYW0uZCAqIHM0IC8gNDsKICAgIHJldHVybiBmOwp9Cgpkb3VibGUgZkthcHBhKFBhcmFtX2NvZWZmaWNpZW50IHBhcmFtLCBkb3VibGUgcykgewogICAgZG91YmxlIGYgPSBwYXJhbS5hICsgcGFyYW0uYiAqIHMgKyBwYXJhbS5jICogcyAqIHMgKyBwYXJhbS5kICogcyAqIHMgKiBzOwogICAgcmV0dXJuIGY7Cn0KCi8vIHRyYXBlem9pZCBydWxlIHRvIGNhbGN1bGF0ZSB0aGUgZnJlc25lbCBpbnRlcmdyYWwKc3RkOjp2ZWN0b3I8U3RhdGU+IHNhbXBsZUN1YmljU3BpcmFsKFN0YXRlIHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGFyYW1fY29lZmZpY2llbnQgcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbnVtKSB7CiAgICBTdGF0ZSBwb3NlOwogICAgc3RhcnQucyA9IDA7CiAgICBzdGFydC52ID0gMDsKCiAgICBzdGQ6OnZlY3RvcjxTdGF0ZT4gcGF0aDsKICAgIHBhdGguY2xlYXIoKTsKICAgIHBhdGgucHVzaF9iYWNrKHN0YXJ0KTsKICAgIGRvdWJsZSBkZWx0YXggPSAwOwogICAgZG91YmxlIGRlbHRheSA9IDA7CiAgICBkb3VibGUgZGVsdGF4MSA9IDA7CiAgICBkb3VibGUgZGVsdGF5MSA9IDA7CiAgICBkb3VibGUgdGhldGEgPSAwOwogICAgZG91YmxlIHRoZXRhMSA9IDA7CiAgICBkb3VibGUgcyA9IDA7CiAgICBmb3IgKGludCBpID0gMTsgaSA8PSBudW07IGkrKykgewogICAgICAgIHMgPSBpICogcGFyYW0uc2YgLyBudW07CiAgICAgICAgdGhldGEgPSBmVGhldGEocGFyYW0sIHMpOwoKICAgICAgICBpZiAoaSA9PSAxKSB7CiAgICAgICAgICAgIGRlbHRheCA9IChjb3ModGhldGEpICsgY29zKDApKSAvICgyICogaSk7CiAgICAgICAgICAgIGRlbHRheSA9IChzaW4odGhldGEpICsgc2luKDApKSAvICgyICogaSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZGVsdGF4ID0KICAgICAgICAgICAgICAgIChjb3ModGhldGEpICsgY29zKHRoZXRhMSkpIC8gKDIgKiBpKSArIGRlbHRheDEgKiAoaSAtIDEpIC8gaTsKICAgICAgICAgICAgZGVsdGF5ID0KICAgICAgICAgICAgICAgIChzaW4odGhldGEpICsgc2luKHRoZXRhMSkpIC8gKDIgKiBpKSArIGRlbHRheTEgKiAoaSAtIDEpIC8gaTsKICAgICAgICB9CiAgICAgICAgcG9zZS54ID0gZGVsdGF4ICogczsKICAgICAgICBwb3NlLnkgPSBkZWx0YXkgKiBzOwogICAgICAgIHBvc2UueiA9IHRoZXRhOwogICAgICAgIHBvc2UuayA9IGZLYXBwYShwYXJhbSwgcyk7CiAgICAgICAgcG9zZS5zID0gczsKICAgICAgICBwb3NlLnYgPSAwLjA7CiAgICAgICAgcGF0aC5wdXNoX2JhY2socG9zZSk7CiAgICAgICAgZGVsdGF4MSA9IGRlbHRheDsKICAgICAgICBkZWx0YXkxID0gZGVsdGF5OwogICAgICAgIHRoZXRhMSA9IHRoZXRhOwogICAgfQogICAgcmV0dXJuIHBhdGg7Cn0KCnN0ZDo6dmVjdG9yPFN0YXRlPiBzYW1wbGVDdWJpY1NwaXJhbEJ5TGVuZ3RoKFN0YXRlIHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGFyYW1fY29lZmZpY2llbnQgcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb3VibGUgc3RlcExlbmd0aCkgewogICAgU3RhdGUgcG9zZTsKICAgIHN0YXJ0LnMgPSAwOwogICAgc3RhcnQudiA9IDA7CiAgICAvLyBudW1iZXIgb2Ygc2VnbWVudHMKICAgIGludCBudW0gPSBzdGF0aWNfY2FzdDxpbnQ+KGZsb29yKHBhcmFtLnNmL3N0ZXBMZW5ndGgpKTsKCiAgICBzdGQ6OnZlY3RvcjxTdGF0ZT4gcGF0aDsKICAgIHBhdGguY2xlYXIoKTsKICAgIHBhdGgucHVzaF9iYWNrKHN0YXJ0KTsKICAgIGRvdWJsZSBkZWx0YXggPSAwOwogICAgZG91YmxlIGRlbHRheSA9IDA7CiAgICBkb3VibGUgZGVsdGF4MSA9IDA7CiAgICBkb3VibGUgZGVsdGF5MSA9IDA7CiAgICBkb3VibGUgdGhldGEgPSAwOwogICAgZG91YmxlIHRoZXRhMSA9IDA7CiAgICBkb3VibGUgcyA9IDA7CiAgICBmb3IgKGludCBpID0gMTsgaSA8PSBudW07IGkrKykgewogICAgICAgIHMgPSBpICogcGFyYW0uc2YgLyBudW07CiAgICAgICAgLy8gZ2V0IHRoZSBjb3JyZXNwb25kaW5nIGhlYWRpbmcgYW5nbGUgYWNjb3JkaW5nIHRvIGFyYy1sZW5ndGggYWxvbmcKICAgICAgICAvLyB0aGUgcGF0aCBhbmQgdGhlIHBhcmFtZXRlcnMgb2YgdGhlIHNwaXJhbAogICAgICAgIHRoZXRhID0gZlRoZXRhKHBhcmFtLCBzKTsKCiAgICAgICAgaWYgKGkgPT0gMSkgewogICAgICAgICAgICBkZWx0YXggPSAoY29zKHRoZXRhKSArIGNvcygwKSkgLyAoMiAqIGkpOwogICAgICAgICAgICBkZWx0YXkgPSAoc2luKHRoZXRhKSArIHNpbigwKSkgLyAoMiAqIGkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGRlbHRheCA9CiAgICAgICAgICAgICAgICAoY29zKHRoZXRhKSArIGNvcyh0aGV0YTEpKSAvICgyICogaSkgKyBkZWx0YXgxICogKGkgLSAxKSAvIGk7CiAgICAgICAgICAgIGRlbHRheSA9CiAgICAgICAgICAgICAgICAoc2luKHRoZXRhKSArIHNpbih0aGV0YTEpKSAvICgyICogaSkgKyBkZWx0YXkxICogKGkgLSAxKSAvIGk7CiAgICAgICAgfQogICAgICAgIHBvc2UueCA9IGRlbHRheCAqIHM7CiAgICAgICAgcG9zZS55ID0gZGVsdGF5ICogczsKICAgICAgICBwb3NlLnogPSB0aGV0YTsKICAgICAgICBwb3NlLmsgPSBmS2FwcGEocGFyYW0sIHMpOwogICAgICAgIHBvc2UucyA9IHM7CiAgICAgICAgcG9zZS52ID0gMC4wOwogICAgICAgIHBhdGgucHVzaF9iYWNrKHBvc2UpOwogICAgICAgIGRlbHRheDEgPSBkZWx0YXg7CiAgICAgICAgZGVsdGF5MSA9IGRlbHRheTsKICAgICAgICB0aGV0YTEgPSB0aGV0YTsKICAgIH0KICAgIHJldHVybiBwYXRoOwp9CmRvdWJsZSBnZXRDdXJ2YXR1cmUoY29uc3QgUG9pbnQmIGZpcnN0X3BvaW50LAogICAgICAgICAgICAgICAgICAgIGNvbnN0IFBvaW50JiBzZWNvbmRfcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgUG9pbnQmIHRoaXJkX3BvaW50KSB7CiAgICAvLyBjYWN1bGF0ZSB0aGUgcmFkaXVzIG9mIHRoZSBjaXJjbGUgZmlyc3QKICAgIGRvdWJsZSBhLCBiLCBjOyAgLy8gdGhyZWUgc2lkZXMKICAgIGRvdWJsZSBkZWx0YV94LCBkZWx0YV95OwogICAgZG91YmxlIHM7ICAvLyBzZW1pcGVyaW1ldGVyCiAgICBkb3VibGUgSzsKCiAgICAvLyBzaWRlIG9uZQogICAgZGVsdGFfeCA9IHNlY29uZF9wb2ludC54IC0gZmlyc3RfcG9pbnQueDsKICAgIGRlbHRhX3kgPSBzZWNvbmRfcG9pbnQueSAtIGZpcnN0X3BvaW50Lnk7CiAgICBhID0gc3FydChwb3coZGVsdGFfeCwgMi4wKSArIHBvdyhkZWx0YV95LCAyLjApKTsKCiAgICAvLyBzaWRlIHR3bwogICAgZGVsdGFfeCA9IHRoaXJkX3BvaW50LnggLSBzZWNvbmRfcG9pbnQueDsKICAgIGRlbHRhX3kgPSB0aGlyZF9wb2ludC55IC0gc2Vjb25kX3BvaW50Lnk7CiAgICBiID0gc3FydChwb3coZGVsdGFfeCwgMi4wKSArIHBvdyhkZWx0YV95LCAyLjApKTsKCiAgICAvLyBzaWRlIHRocmVlCiAgICBkZWx0YV94ID0gZmlyc3RfcG9pbnQueCAtIHRoaXJkX3BvaW50Lng7CiAgICBkZWx0YV95ID0gZmlyc3RfcG9pbnQueSAtIHRoaXJkX3BvaW50Lnk7CiAgICBjID0gc3FydChwb3coZGVsdGFfeCwgMi4wKSArIHBvdyhkZWx0YV95LCAyLjApKTsKCiAgICBpZiAoYTwgQ0xPU0VfVE9fWkVSTyB8fCBiIDwgQ0xPU0VfVE9fWkVSTyB8fCBjIDwgQ0xPU0VfVE9fWkVSTykgewogICAgICAgIHJldHVybiAwOwogICAgfQoKICAgIC8vIHNlbWlwZXJpbWV0ZXIKICAgIHMgPSAoYSArIGIgKyBjKSAvIDIuMDsKICAgIEsgPSBzcXJ0KGZhYnMocyAqIChzIC0gYSkgKiAocyAtIGIpICogKHMgLSBjKSkpOwogICAgZG91YmxlIGN1cnZhdHVyZSA9IDQgKiBLIC8gKGEgKiBiICogYyk7CiAgICAKICAgIC8vIGRldGVybWluZSB0aGUgc2lnbiwgdXNpbmcgY3Jvc3MgcHJvZHVjdAogICAgZG91YmxlIHJvdGF0ZV9kaXJlY3Rpb24gPSAoc2Vjb25kX3BvaW50LnggLSBmaXJzdF9wb2ludC54KSAqCiAgICAgICAgICAgICh0aGlyZF9wb2ludC55IC0gc2Vjb25kX3BvaW50LnkpIC0KICAgICAgICAgICAgKHNlY29uZF9wb2ludC55IC0gZmlyc3RfcG9pbnQueSkgKgogICAgICAgICAgICAgICAgICAgICh0aGlyZF9wb2ludC54IC0gc2Vjb25kX3BvaW50LngpOwogICAgCiAgICBpZiAocm90YXRlX2RpcmVjdGlvbiA8IDApIHsKICAgICAgICAvL2Nsb2Nrd2lzZQogICAgICAgIGN1cnZhdHVyZSA9IC0gY3VydmF0dXJlOwogICAgfQogICAgcmV0dXJuIGN1cnZhdHVyZTsKfQ==</text>
+        <text>modified_path_node</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
