@@ -24,11 +24,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493683677116">
-        <mark key="[" line="32" column="49" />
-        <mark key="]" line="33" column="8" />
-        <mark key="." line="33" column="8" />
-        <mark key="^" line="33" column="8" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493685300560">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+        <mark key="^" line="31" column="47" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solver.h" timestamp="1493666111724">
         <mark key="[" line="9" column="18" />
@@ -67,11 +67,11 @@
         <mark key="^" line="23" column="32" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/nlp_solver_test.cpp" timestamp="1493683324930">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="15" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/nlp_solver_test.cpp" timestamp="1493686784439">
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="37" column="56" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="37" column="56" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493680196218">
         <mark key="[" line="21" column="0" />
@@ -194,11 +194,11 @@
         <mark key="." line="65" column="9" />
         <mark key="^" line="65" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493683277375">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493684938232">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
       </file>
       <file name="/fragment.mm" timestamp="1492621431059">
         <mark key="[" line="0" column="0" />
@@ -268,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="870" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="732" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="22" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -368,48 +367,47 @@
       <jump line="16" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" />
       <jump line="65" column="20" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
       <jump line="6" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
+      <jump line="39" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/nlp_solver_test.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>problem.SetParameterLowerBound(param, 0, lower_bounds[0]);
-    problem.SetParameterUpperBound(param, 0, upper_bounds[0]);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBwcm9ibGVtLlNldFBhcmFtZXRlckxvd2VyQm91bmQocGFyYW0sIGk=</text>
+        <text>solver.solve()</text>
       </register>
       <register name="/" type="4">
         <text>circle point number</text>
       </register>
       <register name="0" type="4">
-        <text>problem.SetParameterLowerBound(param, 0, lower_bounds[0]);
-    problem.SetParameterUpperBound(param, 0, upper_bounds[0]);</text>
+        <text encoding="base64">c29sdmVyLnNvbHZlKHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJhbSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXBwZXJfYm91bmRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICZzb2x1dGlvbik=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMzsgaSsrKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IGF1dG8gc3RhcnRfdGltZSA9IHN0ZDo6Y2hyb25vOjpzdGVhZHlfY2xvY2s6Om5vdygpOwogICAgZm9yIChpbnQgaiA9IDA7IGogPCAxMDAwOyBqKysgKSB7CiAgICAgICAgc29sdmVyLnNvbHZlKHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICBlbmQsCiAgICAgICAgICAgICAgICAgICAgIHBhcmFtLAogICAgICAgICAgICAgICAgICAgICBsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgIHVwcGVyX2JvdW5kcywKICAgICAgICAgICAgICAgICAgICAgJnNvbHV0aW9uKTsKICAgIH0KICAgIA==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2JsZW0uQWRkUmVzaWR1YWxCbG9jayhjb3N0LCBOVUxMLCBwYXJhbSk7Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBlbGFwc2VkX3NlY29uZGVzID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86OmR1cmF0aW9uPGRvdWJsZT4gPiAoZW5kX3RpbWUgLSBzdGFydF90aW1lKS5jb3VudCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSB1cHBlcl9ib3VuZHNbM10gPSB7IDEsIDEsIDEwMH07Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gZW5kX3RpbWUgPSBzdGQ6OmNocm9ubzo6c3RlYWR5X2Nsb2NrOjpub3coKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBsb3dlcl9ib3VuZHNbM10gPSB7LTEsIC0xLCAwfTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCJydW50aW1lOiIgPDwgZWxhcHNlZF9zZWNvbmRlcy8xMDAwLjAgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBwYXJhbV9zaXplID0gY29zdC0+cGFyYW1ldGVyX2Jsb2NrX3NpemVzKCkuZnJvbnQoKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">c3RkOjpjb3V0IDw8ICJsb3dlciBib3VuZHM6IiA8PCBsb3dlcl9ib3VuZHNbMF0gPDwgIiwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw8IGxvd2VyX2JvdW5kc1sxXSA8PCAiLCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPDwgbG93ZXJfYm91bmRzWzJdIDw8IHN0ZDo6ZW5kbDsKICAgIHN0ZDo6Y291dCA8PCAidXBwZXIgYm91bmRzOiIgPDwgdXBwZXJfYm91bmRzWzBdIDw8ICIsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8PCB1cHBlcl9ib3VuZHNbMV0gPDwgIiwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw8IHVwcGVyX2JvdW5kc1syXSA8PCBzdGQ6OmVuZGw7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBjb3N0LT5wYXJhbWV0ZXJfYmxvY2tfc2l6ZXMoKS5zaXplKCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
