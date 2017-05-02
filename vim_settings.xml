@@ -39,8 +39,9 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/utils.h" timestamp="1493747138223">
-        <mark key="[" line="106" column="2" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/utils.h" timestamp="1493756833254">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
@@ -206,6 +207,13 @@
         <mark key="." line="65" column="9" />
         <mark key="^" line="65" column="9" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" timestamp="1493756889699">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="96" column="2" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="18" />
@@ -217,6 +225,12 @@
         <mark key="]" line="5" column="23" />
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/CMakeLists.txt" timestamp="1493756983952">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492819734041">
         <mark key="'" line="80" column="20" />
@@ -284,9 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="674" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="733" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="669" column="70" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="225" column="46" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="895" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="896" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -384,55 +395,224 @@
       <jump line="173" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" />
       <jump line="52" column="70" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" />
       <jump line="4" column="31" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" />
+      <jump line="6" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/utils.h" />
+      <jump line="6" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" />
+      <jump line="5" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2RlZmluZSBJTkYgMUUyMAo=</text>
       </register>
       <register name="-" type="4">
         <text>holonomic.getDensePath()</text>
       </register>
       <register name="/" type="4">
-        <text>circle point number</text>
+        <text>INF</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHtjYXRraW5fTElCUkFSSUVTfQogICR7Q0VSRVNfTElCUkFSSUVTfQogICR7UFJPSkVDVF9OQU1FfSkK</text>
+        <text encoding="base64">CiNpbmNsdWRlIDxFaWdlbi9Db3JlPgojaW5jbHVkZSA8RWlnZW4vRGVuc2U+CiNpbmNsdWRlIDxFaWdlbi9FaWdlbj4KI2luY2x1ZGUgPHZlY3Rvcj4KCgojZGVmaW5lIElORiAxRTIwCgovKiEKICogQGJyaWVmIENvZWZmaWNpZW50cyBwYXJhbWV0ZXJzCiAqCiAqIFxmJCBca2FwcGEocykgPSBhICsgYipzICsgYypzXjIgKyBkKnNeMyAsIHMgXGluIFswLHNmXVxmJAogKi8Kc3RydWN0IFBhcmFtX2NvZWZmaWNpZW50IHsKICBkb3VibGUgYTsKICBkb3VibGUgYjsKICBkb3VibGUgYzsKICBkb3VibGUgZDsKICBkb3VibGUgc2Y7Cn07CgovKiEKICogQGJyaWVmIGtub3QgcGFyYW1ldGVycwogKiBccCBwMCBpbml0aWFsIGN1cnZhdHVyZQogKiBccCBwMSBjdXJ2YXR1cmUgYXQgMS8zIG9mIFxwIHNmCiAqIFxwIHAyIGN1cnZhdHVyZSBhdCAyLzMgb2YgXHAgc2YKICogXHAgcDMgY3VydmF0dXJlIGF0IFxwIHNmCiAqLwpzdHJ1Y3QgUGFyYW1fa25vdCB7CiAgZG91YmxlIHAwOyAgLy8gaW5pdGlhbCBjdXJ2YXR1cmUKICBkb3VibGUgcDE7ICAvLyBjdXJ2YXR1cmUgaW4gMS8zCiAgZG91YmxlIHAyOyAgLy8gY3VydmF0dXJlIGluIDIvMwogIGRvdWJsZSBwMzsgIC8vIGN1cnZhdHVyZSBpbiBzZgogIGRvdWJsZSBzZjsgIC8vIHNmIC0+IHA0Cn07CgovKiEKICogQGJyaWVmIFZlaGljbGUgc3RhdGUgc3RydWN0CiAqIFxwIHggeCBwb3NpdGlvbgogKiBccCB5IHkgcG9zaXRpb24KICogXHAgeiBoZWFkaW5nIG9mIHRoZSBjYXIKICogXHAgayBjdXJ2YXR1cmUgYXQgdGhpcyBzdGF0ZQogKiBccCB2IHNwZWVkIGF0IHRoaXMgc3RhdGUKICogXHAgcyBhcmMgbGVuZ3RoIGF0IHRoaXMgc3RhdGUKICogdG9kbzogY3JlYXRlIGEgY2xhc3MgZm9yIHN0YXRlCiAqLwpzdHJ1Y3QgU3RhdGUgewogIGRvdWJsZSB4OwogIGRvdWJsZSB5OwogIGRvdWJsZSB6OwogIGRvdWJsZSBrOwogIGRvdWJsZSBzOwogIGRvdWJsZSB2Owp9OwoKc3RydWN0IFBhdGhXaXRoQ29zdCB7CiAgUGFyYW1fa25vdCBwYXJhbTsgICAgICAgICAvLyBrbm90IHBhcmFtZXRlcgogIGRvdWJsZSBjb3N0OyAgICAgICAgICAgICAgLy8gZmluYWwgY29zdCBjb25zaWRlciBldmVyeXRoaW5nLgogIGRvdWJsZSBnb2FsX2Nvc3Q7ICAgICAgICAgLy8KICBkb3VibGUgYmVuZGluZ19jb3N0OyAgICAgIC8vIG1lYXN1cmVtZW50IG9mIGJlbmRpbmcgZW5lcmd5IG9mIHRoZSBwYXRoCiAgYm9vbCBmZWFzaWJsZTsgICAgICAgICAgICAvLyBkZXRlcm1pbmVkIGJ5IG1heGltdW0gY3VydmF0dXJlCiAgYm9vbCBjb2xsaXNpb25fZnJlZTsgICAgICAvLyBjb2xsaXNpb24gY2hlY2tpbmcKICBzdGQ6OnZlY3RvcjxTdGF0ZT4gcGF0aDsgIC8vIHBhdGggdmVjdG9yIGZvciBjb2xsaXNpb24gY2hlY2tpbmcgYnkgcmVzb2x1dGlvbgp9OwovKiEKICogQGJyaWVmIFNwZWNpYWwgRXVjbGlkZWFuIGdyb3VwCiAqLwpzdHJ1Y3QgU0UyIHsKICBkb3VibGUgeDsKICBkb3VibGUgeTsKICBkb3VibGUgdGhldGE7Cn07CgovKiEKICogQGJyaWVmIHNpbXBsZSAyZCBwb2ludCBkYXRhCiAqLwpzdHJ1Y3QgUG9pbnQgewogIGRvdWJsZSB4OwogIGRvdWJsZSB5Owp9OwoKCnN0cnVjdCBDZW50ZXIgewogIGRvdWJsZSB4OyAgLy8gIHRoZSB4IGNvb3JkaW5hdGVzIG9mIHRoZSBjZW50ZXIgb2YgdGhlIGNpcmNsZQogIGRvdWJsZSB5OyAgLy8gIHRoZSB5IGNvb3JkaW5hdGVzIG9mIHRoZSBjZW50ZXIgb2YgdGhlIGNpcmNsZQogIGRvdWJsZSByOyAgLy8gIHJhZGl1cyBvZiB0aGUgY2lyY2xlCn07CgovKiEKICogQGJyaWVmIENhciBnZW9tZXRyeQogKi8Kc3RydWN0IENhckdlb21ldHJ5IHsKICBkb3VibGUgd2hlZWxiYXNlOwogIGRvdWJsZSB0cmFjazsKICBkb3VibGUgZm9vdHByaW50X3ZlcnRleFs4XTsgIC8vIGluIGJhc2UgbGluayBmcmFtZSAsIHN0YXJ0IGZyb20gcmVhciB2ZXJ0ZXgKICBzdGQ6OnZlY3RvcjxDZW50ZXI+IGNlbnRlcl9wb2ludHM7ICAvLyAgYWxzbyBpbiBiYXNlIGxpbmssIGNpcmNsZSBjZW50ZXIKICAvLyBwb2ludHMKICAvLyBmb3IgY29sbGlzaW9uIGNoZWNrZXIuCiAgZG91YmxlIHJhZGl1c1s0XTsgICAvLyAgYWxzbwp9OwoKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2RlZmluZSBJTkYgMUUyMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInJ1bnRpbWU6IiA8PCBlbGFwc2VkX3NlY29uZGVzIDw8ICIgc2Vjb25kLiIgPDwgc3RkOjplbmRsOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gTGF1bmNoIFJWaXogd2l0aCB0aGUgZGVtbyBjb25maWd1cmF0aW9uIC0tPgo=</text>
+      <register name="3" type="4">
+        <text>## Add cmake target dependencies of the library
+## as an example, code may need to be generated before libraries
+## either from message generation or dynamic reconfigure
+# add_dependencies(${PROJECT_NAME} ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+
+## Declare a C++ executable
+## With catkin_make all packages are built within a single CMake context
+## The recommended prefix ensures that target names across packages don't collide
+# add_executable(${PROJECT_NAME}_node src/roscpp_node.cpp)
+
+## Rename C++ executable without prefix
+## The above recommended prefix causes long target names, the following renames the
+## target back to the shorter version for ease of user use
+## e.g. &quot;rosrun someones_pkg node&quot; instead of &quot;rosrun someones_pkg someones_pkg_node&quot;
+# set_target_properties(${PROJECT_NAME}_node PROPERTIES OUTPUT_NAME node PREFIX &quot;&quot;)
+
+## Add cmake target dependencies of the executable
+## same as for the library above
+# add_dependencies(${PROJECT_NAME}_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+
+## Specify libraries to link a library or executable target against
+# target_link_libraries(${PROJECT_NAME}_node
+#   ${catkin_LIBRARIES}
+# )
+
+#############
+## Install ##
+#############
+
+# all install targets should use catkin DESTINATION variables
+# See http://ros.org/doc/api/catkin/html/adv_user_guide/variables.html
+
+## Mark executable scripts (Python etc.) for installation
+## in contrast to setup.py, you can choose the destination
+# install(PROGRAMS
+#   scripts/my_python_script
+#   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+# )
+
+## Mark executables and/or libraries for installation
+# install(TARGETS ${PROJECT_NAME} ${PROJECT_NAME}_node
+#   ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+#   LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+#   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+# )
+
+## Mark cpp header files for installation
+# install(DIRECTORY include/${PROJECT_NAME}/
+#   DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}
+#   FILES_MATCHING PATTERN &quot;*.h&quot;
+#   PATTERN &quot;.svn&quot; EXCLUDE
+# )
+
+## Mark other files for installation (e.g. launch and bag files, etc.)
+# install(FILES
+#   # myfile1
+#   # myfile2
+#   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+# )
+
+#############
+## Testing ##
+#############
+
+## Add gtest based cpp test target and link libraries
+# catkin_add_gtest(${PROJECT_NAME}-test test/test_roscpp.cpp)
+# if(TARGET ${PROJECT_NAME}-test)
+#   target_link_libraries(${PROJECT_NAME}-test ${PROJECT_NAME})
+# endif()
+
+## Add folders to be run by python nosetests
+# catkin_add_nosetests(test)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxub2RlIHBrZyA9InRmIiB0eXBlPSJzdGF0aWNfdHJhbnNmb3JtX3B1Ymxpc2hlciIgbmFtZT0ib2RvbUJhc2VMaW5rIiBhcmdzPSIgMCAwIDAgMCAwIDAgL29kb20gL2Jhc2VfbGluayAyMCIvPgo=</text>
+      <register name="4" type="4">
+        <text>###########
+## Build ##
+###########
+
+## Specify additional locations of header files
+## Your package locations should be listed before other locations</text>
+      </register>
+      <register name="5" type="4">
+        <text>## System dependencies are found with CMake's conventions
+# find_package(Boost REQUIRED COMPONENTS system)
+
+
+## Uncomment this if the package has a setup.py. This macro ensures
+## modules and global scripts declared therein get installed
+## See http://ros.org/doc/api/catkin/html/user_guide/setup_dot_py.html
+# catkin_python_setup()
+
+################################################
+## Declare ROS messages, services and actions ##
+################################################
+
+## To declare and build messages, services or actions from within this
+## package, follow these steps:
+## * Let MSG_DEP_SET be the set of packages whose message types you use in
+##   your messages/services/actions (e.g. std_msgs, actionlib_msgs, ...).
+## * In the file package.xml:
+##   * add a build_depend tag for &quot;message_generation&quot;
+##   * add a build_depend and a run_depend tag for each package in MSG_DEP_SET
+##   * If MSG_DEP_SET isn't empty the following dependency has been pulled in
+##     but can be declared for certainty nonetheless:
+##     * add a run_depend tag for &quot;message_runtime&quot;
+## * In this file (CMakeLists.txt):
+##   * add &quot;message_generation&quot; and every package in MSG_DEP_SET to
+##     find_package(catkin REQUIRED COMPONENTS ...)
+##   * add &quot;message_runtime&quot; and every package in MSG_DEP_SET to
+##     catkin_package(CATKIN_DEPENDS ...)
+##   * uncomment the add_*_files sections below as needed
+##     and list every .msg/.srv/.action file to be processed
+##   * uncomment the generate_messages entry below
+##   * add every package in MSG_DEP_SET to generate_messages(DEPENDENCIES ...)
+
+## Generate messages in the 'msg' folder
+# add_message_files(
+#   FILES
+#   Message1.msg
+#   Message2.msg
+# )
+
+## Generate services in the 'srv' folder
+# add_service_files(
+#   FILES
+#   Service1.srv
+#   Service2.srv
+# )
+
+## Generate actions in the 'action' folder
+# add_action_files(
+#   FILES
+#   Action1.action
+#   Action2.action
+# )
+
+## Generate added messages and services with any dependencies listed here
+# generate_messages(
+#   DEPENDENCIES
+#   std_msgs  # Or other packages containing msgs
+# )
+
+################################################
+## Declare ROS dynamic reconfigure parameters ##
+################################################
+
+## To declare and build dynamic reconfigure parameters within this
+## package, follow these steps:
+## * In the file package.xml:
+##   * add a build_depend and a run_depend tag for &quot;dynamic_reconfigure&quot;
+## * In this file (CMakeLists.txt):
+##   * add &quot;dynamic_reconfigure&quot; to
+##     find_package(catkin REQUIRED COMPONENTS ...)
+##   * uncomment the &quot;generate_dynamic_reconfigure_options&quot; section below
+##     and list every .cfg file to be processed
+
+## Generate dynamic reconfigure parameters in the 'cfg' folder
+# generate_dynamic_reconfigure_options(
+#   cfg/DynReconf1.cfg
+#   cfg/DynReconf2.cfg
+# )
+
+###################################
+## catkin specific configuration ##
+###################################
+## The catkin_package macro generates cmake config files for your package
+## Declare things to be passed to dependent projects
+## INCLUDE_DIRS: uncomment this if you package contains header files
+## LIBRARIES: libraries you create in this project that dependent projects also need
+## CATKIN_DEPENDS: catkin_packages dependent projects also need
+## DEPENDS: system dependencies of this project that dependent projects also need</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpcyB1c2VkLCBhbHNvIGZpbmQgb3RoZXIgY2F0a2luIHBhY2thZ2VzCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxub2RlIHBrZz0ibm9kZWxldCIgdHlwZT0ibm9kZWxldCIgbmFtZT0icGxhbm5pbmdfbWFuYWdlciIgIGFyZ3M9Im1hbmFnZXIiIG91dHB1dD0ic2NyZWVuIi8+Cg==</text>
+      <register name="7" type="4">
+        <text>## Find catkin macros and libraries
+## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
+#</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAke2dmbGFnc19MSUJSQVJJRVN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInJ1bnRpbWU6IiA8PCBlbGFwc2VkX3NlY29uZGVzIDw8ICIgc2Vjb25kLiIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>circle point number</last-search>
+      <last-search>INF</last-search>
       <last-offset />
-      <last-pattern>circle point number</last-pattern>
+      <last-pattern>INF</last-pattern>
       <last-replace>hmpl</last-replace>
       <last-substitute>internal_grid_map</last-substitute>
       <last-dir>1</last-dir>
@@ -440,7 +620,6 @@
     </search>
     <history>
       <history-search>
-        <entry>explore</entry>
         <entry>getNode</entry>
         <entry>getChildren</entry>
         <entry>drawCircle</entry>
@@ -460,6 +639,7 @@
         <entry>The length before</entry>
         <entry>goal and start overlapped</entry>
         <entry>circle point number</entry>
+        <entry>INF</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
