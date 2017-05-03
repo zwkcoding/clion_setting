@@ -52,6 +52,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493841398627">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/internal_grid_map.cpp" timestamp="1492820198419">
         <mark key="[" line="46" column="6" />
         <mark key="]" line="46" column="3" />
