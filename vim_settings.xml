@@ -480,11 +480,11 @@
       <jump line="458" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_solver.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly8gQ3JlYXRlZCBieSAkTVlfTkFNRSBvbiAke0RBVEV9LgojaWYgKCRPUkdBTklaQVRJT05fTkFNRSAmJiAkT1JHQU5JWkFUSU9OX05BTUUgIT0gIiIpCi8vIENvcHlyaWdodCAoYykgJFlFQVIgJHtPUkdBTklaQVRJT05fTkFNRX0jaWYgKCEkT1JHQU5JWkFUSU9OX05BTUUuZW5kc1dpdGgoIi4iKSkuI2VuZCBBbGwgcmlnaHRzIHJlc2VydmVkLgojZW5k</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Zhan</text>
       </register>
       <register name="/" type="4">
         <text>SE2</text>
@@ -492,32 +492,32 @@
       <register name="0" type="4">
         <text>modified_path_node</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ly8gQ3JlYXRlZCBieSAkTVlfTkFNRSBvbiAke0RBVEV9LgojaWYgKCRPUkdBTklaQVRJT05fTkFNRSAmJiAkT1JHQU5JWkFUSU9OX05BTUUgIT0gIiIpCi8vIENvcHlyaWdodCAoYykgJFlFQVIgJHtPUkdBTklaQVRJT05fTkFNRX0jaWYgKCEkT1JHQU5JWkFUSU9OX05BTUUuZW5kc1dpdGgoIi4iKSkuI2VuZCBBbGwgcmlnaHRzIHJlc2VydmVkLgojZW5k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2RlZmluZSBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2lmbmRlZiBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2RlZmluZSBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2lmbmRlZiBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">I2VuZGlmICAvLyBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zY3BwPC9kZXBlbmQ+Cg==</text>
+        <text encoding="base64">I2VuZGlmICAvLyBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zbGliPC9kZXBlbmQ+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zY3BwPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+bmF2X21zZ3M8L2RlcGVuZD4K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zbGliPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+b3B0X3V0aWxzPC9kZXBlbmQ+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+bmF2X21zZ3M8L2RlcGVuZD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
