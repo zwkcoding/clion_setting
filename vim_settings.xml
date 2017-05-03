@@ -149,6 +149,13 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_solver.cpp" timestamp="1493842921140">
+        <mark key="'" line="458" column="0" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/utils.hpp" timestamp="1493327367967">
         <mark key="[" line="62" column="1" />
         <mark key="]" line="62" column="11" />
@@ -187,6 +194,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" timestamp="1493842637512">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -298,6 +311,12 @@
         <mark key="." line="65" column="9" />
         <mark key="^" line="65" column="9" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.h" timestamp="1493843253797">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="28" column="28" />
+        <mark key="^" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="18" />
@@ -359,9 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="959" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="49" column="31" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="599" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="15" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="63" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" />
       <jump line="257" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
@@ -459,10 +475,13 @@
       <jump line="59" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/utils.h" />
       <jump line="9" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" />
       <jump line="36" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" />
+      <jump line="162" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" />
+      <jump line="16" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" />
+      <jump line="458" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_solver.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zY3BwPC9kZXBlbmQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -474,31 +493,31 @@
         <text>modified_path_node</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zY3BwPC9kZXBlbmQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zbGliPC9kZXBlbmQ+Cg==</text>
+        <text encoding="base64">I2RlZmluZSBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+bmF2X21zZ3M8L2RlcGVuZD4K</text>
+        <text encoding="base64">I2lmbmRlZiBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmQ+b3B0X3V0aWxzPC9kZXBlbmQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcmMvc2lfYmVuZGluZ19lbmVyZ3kuY3BwCg==</text>
+        <text encoding="base64">I2VuZGlmICAvLyBMT0NBTF9QTEFOTkVSX0NUTkxQX0gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzcmMvc2UyX2NvbnN0cmFpbnRzLmNwcAo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zY3BwPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzcmMvcXVhZHJhdGljX2Nvc3RfZnVuY3Rpb24uY3BwCg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zbGliPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAke0VJR0VOM19JTkNMVURFX0RJUlN9Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+bmF2X21zZ3M8L2RlcGVuZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAke0NFUkVTX0lOQ0xVREVfRElSU30K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+b3B0X3V0aWxzPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
