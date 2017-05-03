@@ -34,7 +34,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/package.xml" timestamp="1493762882836">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/package.xml" timestamp="1493839442705">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="18" column="20" />
         <mark key="^" line="18" column="20" />
@@ -228,6 +228,12 @@
         <mark key="^" line="8" column="69" />
         <mark key="." line="8" column="69" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/chomp_motion_planner/package.xml" timestamp="1493839490824">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="4" column="36" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492740485658">
         <mark key="'" line="40" column="11" />
         <mark key="[" line="18" column="10" />
@@ -255,6 +261,11 @@
         <mark key="]" line="92" column="38" />
         <mark key="^" line="92" column="38" />
         <mark key="." line="92" column="38" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/chomp_motion_planner/Makefile" timestamp="1493839254778">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -306,7 +317,13 @@
         <mark key="." line="80" column="23" />
         <mark key="^" line="80" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493837172070">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/chomp_motion_planner/CMakeLists.txt" timestamp="1493839428328">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493839154963">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="78" />
         <mark key="]" line="21" column="68" />
@@ -439,10 +456,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGtnX2NoZWNrX21vZHVsZXMoSVBPUFQgUkVRVUlSRUQgaXBvcHQ+PTMuMTIuNCkK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zY3BwPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hmpl::</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>SE2</text>
@@ -451,39 +468,31 @@
         <text>modified_path_node</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGtnX2NoZWNrX21vZHVsZXMoSVBPUFQgUkVRVUlSRUQgaXBvcHQ+PTMuMTIuNCkK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zY3BwPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKFBrZ0NvbmZpZyBSRVFVSVJFRCkK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+cm9zbGliPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1EVVNFX0NFUkVTKQo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+bmF2X21zZ3M8L2RlcGVuZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmQ+b3B0X3V0aWxzPC9kZXBlbmQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9wdF9zb2x2ZXIvbmxwX3NvbHZlci5oIgo=</text>
+        <text encoding="base64">ICBzcmMvc2lfYmVuZGluZ19lbmVyZ3kuY3BwCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>#include &quot;opt_solver/se2_constraints.h&quot;
-#include &quot;opt_solver/si_bending_energy.h&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzcmMvc2UyX2NvbnN0cmFpbnRzLmNwcAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/*!
- * @brief Special Euclidean group
- */
-struct SE2 {
-  double x;
-  double y;
-  double theta;
-};</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzcmMvcXVhZHJhdGljX2Nvc3RfZnVuY3Rpb24uY3BwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAke0VJR0VOM19JTkNMVURFX0RJUlN9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+        <text encoding="base64">ICAke0NFUkVTX0lOQ0xVREVfRElSU30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
