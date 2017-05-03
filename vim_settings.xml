@@ -306,12 +306,12 @@
         <mark key="." line="80" column="23" />
         <mark key="^" line="80" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493764434629">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493835600093">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="19" />
-        <mark key="^" line="59" column="19" />
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1493757743705">
         <mark key="'" line="75" column="0" />
@@ -438,8 +438,8 @@
       <jump line="36" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>modified_path_node</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1EVVNFX0NFUkVTKQo=</text>
       </register>
       <register name="-" type="4">
         <text>hmpl::</text>
@@ -451,16 +451,19 @@
         <text>modified_path_node</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1EVVNFX0NFUkVTKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">I2luY2x1ZGUgIm9wdF9zb2x2ZXIvbmxwX3NvbHZlci5oIgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>#include &quot;opt_solver/se2_constraints.h&quot;
 #include &quot;opt_solver/si_bending_energy.h&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/*!
  * @brief Special Euclidean group
  */
@@ -470,21 +473,18 @@ struct SE2 {
   double theta;
 };</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>#include &quot;opt_utils/base.h&quot;
 #include &quot;opt_utils/constants.h&quot;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9wdF91dGlscy9iYXNlLmgiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
