@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <includes_templates>
+      <template name="C File Header.h" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="CxxHeader.h" reformat="true" live-template-enabled="true" />
+    </includes_templates>
+  </component>
+</application>
