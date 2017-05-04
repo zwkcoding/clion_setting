@@ -332,11 +332,6 @@
         <mark key="^" line="383" column="56" />
         <mark key="." line="374" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/chomp_motion_planner/Makefile" timestamp="1493839254778">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="21" column="20" />
