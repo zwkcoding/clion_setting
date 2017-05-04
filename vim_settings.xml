@@ -193,12 +193,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1493935222629">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1493936348919">
         <mark key="'" line="45" column="15" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
         <mark key="^" line="48" column="34" />
-        <mark key="." line="63" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1493931793310">
         <mark key="'" line="109" column="0" />
@@ -325,12 +325,12 @@
         <mark key="^" line="92" column="38" />
         <mark key="." line="92" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1493935249566">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1493936390972">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="408" column="0" />
-        <mark key="]" line="408" column="0" />
-        <mark key="^" line="403" column="56" />
-        <mark key="." line="408" column="0" />
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="0" />
+        <mark key="^" line="383" column="56" />
+        <mark key="." line="374" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/chomp_motion_planner/Makefile" timestamp="1493839254778">
         <mark key="[" line="0" column="0" />
@@ -532,7 +532,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhbGN1bGF0ZV9wYXRoKHNvbHV0aW9uXyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>elapsed_secondes</text>
@@ -545,9 +545,48 @@
                           &quot;Problem solved.&quot;);</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNhbGN1bGF0ZV9wYXRoKHNvbHV0aW9uXyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
+        <text>/*!
+ * Calculate the path point of the final solution.
+ * @param param
+ */
+void CTNLP::calculate_path(Param_knot param) {
+    // prepare the initial state, always start from original point
+    State init_state;
+    init_state.x = 0;
+    init_state.y = 0;
+    init_state.z = 0;
+    init_state.k = param.p0;
+    
+    // turn knots to coeffecient
+    Param_coefficient pp = knotToCoefficient(param);
+    
+    // generate path state, this vector can be used to calculate gradient
+    // information
+    path_vector_ = sampleCubicSpiral(init_state, pp, SAMPLE_NUM);
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPFN0YXRlPiBnZXRfcGF0aCh2b2lkKSB7IHJldHVybiBwYXRoX3ZlY3Rvcl87IH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZvaWQgY2FsY3VsYXRlX3BhdGgoUGFyYW1fa25vdCBwYXJhbSk7ICAvLyBjYWxjdWxhdGUgdGhlIHBhdGggdmVjdG9yIGF0IGV2ZXJ5IGl0ZXJhdGlvbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFBhcmFtX2tub3QgZ2V0X3NvbHV0aW9uKHZvaWQpIHsgcmV0dXJuIHNvbHV0aW9uXzsgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZvaWQgY2FsY3VsYXRlX3BhdGgoUGFyYW1fa25vdCBwYXJhbSk7ICAvLyBjYWxjdWxhdGUgdGhlIHBhdGggdmVjdG9yIGF0IGV2ZXJ5IGl0ZXJhdGlvbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>/*!
  * Reinitilize the problem for ipopt
  * @param start [in] start state of the vehicles
@@ -571,33 +610,6 @@ bool CTNLP::reInitializeProblem(State start, State end, Param_knot initialGuess,
     length_u_ = lengthUpper;
     return true;
 }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>bool reInitializeProblem(State start, State end, Param_knot initialGuess,
-                             double k_l, double k_u, double length_l,
-                             double length_u);</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKiBkZWZhdWx0IGNvbnN0cnVjdG9yICovCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIENUTkxQKCk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyohCiAqIENvbnN0cnVjdG9yIHdpdGhvdXQgaW5wdXRzCiAqIEByZXR1cm4KICovCkNUTkxQOjpDVE5MUCgpIHsKICAgIHN0YXJ0U3RhdGVfLnggPSAwOwogICAgc3RhcnRTdGF0ZV8ueSA9IDA7CiAgICBzdGFydFN0YXRlXy56ID0gMDsKICAgIHN0YXJ0U3RhdGVfLmsgPSAwOwogICAgc3RhcnRTdGF0ZV8ucyA9IDA7CiAgICBzdGFydFN0YXRlXy52ID0gMDsKICAgIAogICAgZW5kU3RhdGVfLnggPSAxLjA7CiAgICBlbmRTdGF0ZV8ueSA9IDAuMDsKICAgIGVuZFN0YXRlXy56ID0gMC4wOwogICAgZW5kU3RhdGVfLmsgPSAwLjA7CiAgICBlbmRTdGF0ZV8ucyA9IDAuMDsKICAgIGVuZFN0YXRlXy52ID0gMC4wOwogICAgCiAgICBpbml0aWFsX2d1ZXNzXy5wMCA9IDAuMDsKICAgIGluaXRpYWxfZ3Vlc3NfLnAxID0gMC4wOwogICAgaW5pdGlhbF9ndWVzc18ucDIgPSAwLjA7CiAgICBpbml0aWFsX2d1ZXNzXy5wMyA9IDAuMDsKICAgIGluaXRpYWxfZ3Vlc3NfLnNmID0gMS4wOwogICAgCiAgICBrX2xfID0gLTEuMDsKICAgIGtfdV8gPSAxLjA7CiAgICBsZW5ndGhfbF8gPSAwLjA7CiAgICBsZW5ndGhfdV8gPSA1MC4wOwp9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (last_initial_guess[2] != 0) {
-            param[0] = last_initial_guess[0];
-            param[1] = last_initial_guess[1];
-            param[2] = last_initial_guess[2];
-        }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
