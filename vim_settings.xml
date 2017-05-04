@@ -193,7 +193,7 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1493926694059">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1493929431538">
         <mark key="'" line="45" column="15" />
         <mark key="[" line="50" column="60" />
         <mark key="]" line="50" column="60" />
@@ -325,12 +325,12 @@
         <mark key="^" line="92" column="38" />
         <mark key="." line="92" column="38" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1493928145952">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1493929955756">
         <mark key="'" line="461" column="0" />
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="58" column="74" />
-        <mark key="^" line="58" column="74" />
-        <mark key="." line="58" column="74" />
+        <mark key="[" line="433" column="20" />
+        <mark key="]" line="433" column="56" />
+        <mark key="^" line="433" column="56" />
+        <mark key="." line="433" column="56" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/chomp_motion_planner/Makefile" timestamp="1493839254778">
         <mark key="[" line="0" column="0" />
