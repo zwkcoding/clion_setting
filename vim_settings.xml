@@ -52,6 +52,11 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
+      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/package.xml" timestamp="1493998880118">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/utils.hpp" timestamp="1492740353482">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="13" />
@@ -82,6 +87,11 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="22" column="20" />
       </file>
+      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/config/config.yaml" timestamp="1493999981114">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492740092746">
         <mark key="[" line="24" column="10" />
         <mark key="]" line="25" column="0" />
@@ -94,6 +104,13 @@
         <mark key="]" line="123" column="26" />
         <mark key="." line="123" column="26" />
         <mark key="^" line="123" column="26" />
+      </file>
+      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" timestamp="1493999507662">
+        <mark key="'" line="192" column="39" />
+        <mark key="[" line="303" column="16" />
+        <mark key="]" line="303" column="18" />
+        <mark key="." line="303" column="18" />
+        <mark key="^" line="303" column="18" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.hpp" timestamp="1493938223863">
         <mark key="[" line="62" column="42" />
@@ -192,11 +209,11 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/include/local_planner/local_planner_nodelet.hpp" timestamp="1493998521291">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="1" />
-        <mark key="^" line="32" column="1" />
-        <mark key="." line="32" column="1" />
+      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/include/local_planner/local_planner_nodelet.hpp" timestamp="1493999304057">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/utils.hpp" timestamp="1493327367967">
         <mark key="[" line="62" column="1" />
@@ -329,8 +346,10 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/CMakeLists.txt" timestamp="1493998666578">
-        <mark key="[" line="72" column="18" />
+      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/CMakeLists.txt" timestamp="1493999802525">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" timestamp="1493766039512">
         <mark key="'" line="26" column="4" />
@@ -352,6 +371,12 @@
         <mark key="]" line="374" column="0" />
         <mark key="^" line="383" column="56" />
         <mark key="." line="374" column="0" />
+      </file>
+      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/README.md" timestamp="1493999396127">
+        <mark key="[" line="71" column="76" />
+        <mark key="]" line="71" column="84" />
+        <mark key="." line="71" column="84" />
+        <mark key="^" line="71" column="84" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
@@ -445,11 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="626" column="20" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="387" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="401" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="500" column="63" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="350" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="489" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="380" column="62" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -545,73 +565,60 @@
       <jump line="12" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
       <jump line="155" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
+      <jump line="38" column="17" filename="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/include/local_planner/local_planner_nodelet.hpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/include/local_planner/local_planner_nodelet.hpp" />
+      <jump line="57" column="0" filename="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/include/local_planner/local_planner_nodelet.hpp" />
+      <jump line="196" column="5" filename="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" />
+      <jump line="192" column="39" filename="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2V0KFNOT1BUX0xJQlJBUklFUyAke1NOT1BUX0xJQlJBUll9KQpzZXQoU05PUFRfSU5DTFVERV9ESVJTICR7U05PUFRfSU5DTFVERV9ESVJ9KQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMgMS4gcHM6IGFubV9tc2dzL1ZlaGljbGVTdGF0ZSBtc2cgd2l0aCBwcyBzdGVlcmluZyByZXBvcnQgbXNnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/usr/local/lib</text>
+        <text>polysync</text>
       </register>
       <register name="/" type="4">
-        <text>SE2</text>
+        <text>polysync</text>
       </register>
       <register name="0" type="4">
         <text>SNOPT_LIBRARY</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">c2V0KFNOT1BUX0xJQlJBUklFUyAke1NOT1BUX0xJQlJBUll9KQpzZXQoU05PUFRfSU5DTFVERV9ESVJTICR7U05PUFRfSU5DTFVERV9ESVJ9KQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyMgMS4gcHM6IGFubV9tc2dzL1ZlaGljbGVTdGF0ZSBtc2cgd2l0aCBwcyBzdGVlcmluZyByZXBvcnQgbXNnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0xJQikK</text>
+        <text encoding="base64">ICAgICAgICBwb2x5c3luY19yb3NfYnJpZGdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmluZF9saWJyYXJ5KFNOT1BUX0xJQlJBUlkgTkFNRVMgIGxpYnNub3B0N19jcHAgbGlic25vcHQ3Cg==</text>
+        <text encoding="base64">IChbcG9seXN5bmNfcm9zX2JyaWRnZS9wc19wbGF0Zm9ybV9zdGVlcmluZ19yZXBvcnRfbXNnXSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhbGN1bGF0ZV9wYXRoKHNvbHV0aW9uXyk7Cg==</text>
+        <text encoding="base64">ICogYHBvbHlzeW5jL3BzX3BsYXRmb3JtX3N0ZWVyaW5nX3JlcG9ydF9tc2dgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRoZSBzdGVlcmluZyByZXBvcnQgbWVzc2FnZSBzdWJzY2liZXIK</text>
       </register>
-      <register name="6" type="4">
-        <text>/*!
- * Calculate the path point of the final solution.
- * @param param
- */
-void CTNLP::calculate_path(Param_knot param) {
-    // prepare the initial state, always start from original point
-    State init_state;
-    init_state.x = 0;
-    init_state.y = 0;
-    init_state.z = 0;
-    init_state.k = param.p0;
-    
-    // turn knots to coeffecient
-    Param_coefficient pp = knotToCoefficient(param);
-    
-    // generate path state, this vector can be used to calculate gradient
-    // information
-    path_vector_ = sampleCubicSpiral(init_state, pp, SAMPLE_NUM);
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIFRoZSBtb3Rpb24gc3RhdGUgc3luY2hyb25pemVyLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPFN0YXRlPiBnZXRfcGF0aCh2b2lkKSB7IHJldHVybiBwYXRoX3ZlY3Rvcl87IH0K</text>
+        <text encoding="base64">ICAgIHN0ZWVyaW5nX3N1Yl90eXBlICpzdGVlcmluZ19hbmdsZV9zdWJfOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2FsY3VsYXRlX3BhdGgoUGFyYW1fa25vdCBwYXJhbSk7ICAvLyBjYWxjdWxhdGUgdGhlIHBhdGggdmVjdG9yIGF0IGV2ZXJ5IGl0ZXJhdGlvbgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">dm9pZCBMb2NhbFBsYW5uZXJOb2RlbGV0Ojptb3Rpb25TdGF0ZVN5bmNDYigKICAgIGNvbnN0IGFubV9tc2dzOjpWZWhpY2xlU3RhdGVDb25zdFB0ciAmc3RhdGUsCiAgICBjb25zdCBwb2x5c3luY19yb3NfYnJpZGdlOjpwc19wbGF0Zm9ybV9zdGVlcmluZ19yZXBvcnRfbXNnQ29uc3RQdHIgJnN0ZWVyKSB7CiAgICBTdGF0ZSBwb3NlX25vdzsKICAgIHBvc2Vfbm93LnggPSBzdGF0ZS0+cG9zaXRpb24ueDsKICAgIHBvc2Vfbm93LnkgPSBzdGF0ZS0+cG9zaXRpb24ueTsKICAgIHBvc2Vfbm93LnogPSBzdGF0ZS0+b3JpZW50YXRpb24uejsKICAgIGRvdWJsZSBzdGVlcmluZyA9IHN0ZWVyLT5zdGVlcmluZ193aGVlbF9hbmdsZSAvIDE2LjA7CiAgICB0aGlzLT5vcHQuc2V0V2hlZWxBbmdsZShzdGVlcmluZyk7CiAgICBkb3VibGUgY3VydmF0dXJlID0gc3RkOjp0YW4oc3RlZXJpbmcpIC8gdGhpcy0+b3B0LmdldENhcigpLndoZWVsYmFzZTsKICAgIHBvc2Vfbm93LmsgPSBjdXJ2YXR1cmU7ICAvLyB1c2UgdGhpcyB2YXJpYWJsZSB0byBwYXNzIGN1cnZhdHVyZQogICAgcG9zZV9ub3cucyA9IDA7CiAgICBpZiAoc3RhdGUtPnZlbG9jaXR5LmxpbmVhci54IDwgMC4wMDMpIHsKICAgICAgICBwb3NlX25vdy52ID0gMDsKICAgIH0gZWxzZSB7CiAgICAgICAgcG9zZV9ub3cudiA9IHN0YXRlLT52ZWxvY2l0eS5saW5lYXIueDsKICAgIH0KICAgIHRoaXMtPm9wdC5zZXRQb3NlKHBvc2Vfbm93KTsgIC8vICBwb3NlIHRvIG9wdCBsb2NhbCBwbGFubmVyCn0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFBhcmFtX2tub3QgZ2V0X3NvbHV0aW9uKHZvaWQpIHsgcmV0dXJuIHNvbHV0aW9uXzsgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZWxzZSBpZiAodGhpcy0+c3RhdGVfc3Vic2NyaWJlcl90eXBlXyA9PSAicHMiKSB7CiAgICAgICAgTk9ERUxFVF9JTkZPKCJwb2x5c3luY19yb3NfYnJpZGdlIHN1YnNjcmliZXIgaXMgcnVubmluZy4iKTsKICAgICAgICB0aGlzLT52ZWhpY2xlX3N0YXRlX3N1Yl8gPQogICAgICAgICAgICBuZXcgdmVoaWNsZVN0YXRlX3N1Yl90eXBlKHRoaXMtPm5oXywgIi92ZWhpY2xlX3N0YXRlIiwgMTApOwogICAgICAgIHRoaXMtPnN0ZWVyaW5nX2FuZ2xlX3N1Yl8gPQogICAgICAgICAgICBuZXcgc3RlZXJpbmdfc3ViX3R5cGUodGhpcy0+bmhfLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi9wb2x5c3luYy9wc19wbGF0Zm9ybV9zdGVlcmluZ19yZXBvcnRfbXNnIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEwKTsKICAgICAgICB0aGlzLT5wc19zdGF0ZV9zeW5jXyA9CiAgICAgICAgICAgIG5ldyBtZXNzYWdlX2ZpbHRlcnM6OlN5bmNocm9uaXplcjxQU1N0YXRlU3luY1BvbGljeT4oCiAgICAgICAgICAgICAgICBQU1N0YXRlU3luY1BvbGljeSgxMCksICoodGhpcy0+dmVoaWNsZV9zdGF0ZV9zdWJfKSwKICAgICAgICAgICAgICAgICoodGhpcy0+c3RlZXJpbmdfYW5nbGVfc3ViXykpLAogICAgICAgIHRoaXMtPnBzX3N0YXRlX3N5bmNfLT5yZWdpc3RlckNhbGxiYWNrKAogICAgICAgICAgICBib29zdDo6YmluZCgmTG9jYWxQbGFubmVyTm9kZWxldDo6bW90aW9uU3RhdGVTeW5jQ2IsIHRoaXMsIF8xLCBfMikpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SE2</last-search>
+      <last-search>polysync</last-search>
       <last-offset />
-      <last-pattern>SE2</last-pattern>
+      <last-pattern>polysync</last-pattern>
       <last-replace>SE2Constraints</last-replace>
       <last-substitute>SE2</last-substitute>
       <last-dir>1</last-dir>
@@ -619,8 +626,6 @@ void CTNLP::calculate_path(Param_knot param) {
     </search>
     <history>
       <history-search>
-        <entry>getChildren</entry>
-        <entry>drawCircle</entry>
         <entry>reBuild</entry>
         <entry>spaceExplor</entry>
         <entry>spaceExplore</entry>
@@ -639,6 +644,8 @@ void CTNLP::calculate_path(Param_knot param) {
         <entry>circle point number</entry>
         <entry>INF</entry>
         <entry>SE2</entry>
+        <entry>motionState</entry>
+        <entry>polysync</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
