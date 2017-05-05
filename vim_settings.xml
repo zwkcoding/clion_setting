@@ -192,6 +192,12 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/include/local_planner/local_planner_nodelet.hpp" timestamp="1493998521291">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="1" />
+        <mark key="^" line="32" column="1" />
+        <mark key="." line="32" column="1" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/utils.hpp" timestamp="1493327367967">
         <mark key="[" line="62" column="1" />
         <mark key="]" line="62" column="11" />
