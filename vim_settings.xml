@@ -33,6 +33,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="22" column="4" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1493946216519">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" timestamp="1493764402026">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="17" />
