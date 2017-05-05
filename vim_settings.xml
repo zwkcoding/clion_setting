@@ -114,6 +114,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindSNOPT.cmake" timestamp="1493944304373">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/holonomic_demo.cpp" timestamp="1493339650974">
         <mark key="'" line="57" column="25" />
         <mark key="[" line="81" column="33" />
@@ -394,12 +400,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493924394121">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1493942510446">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="20" />
-        <mark key="]" line="88" column="18" />
-        <mark key="." line="88" column="18" />
-        <mark key="^" line="88" column="18" />
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1493757743705">
         <mark key="'" line="75" column="0" />
@@ -527,24 +533,33 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ym9vbCBpcG9wdFNvbHZlKGNvbnN0IFN0YXRlICZzdGFydCwKICAgICAgICAgICAgICAgICAgICBjb25zdCBTdGF0ZSAmZW5kLAogICAgICAgICAgICAgICAgICAgIGRvdWJsZSAqcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICpsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICp1cHBlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgUGFyYW1fa25vdCAqc29sdXRpb24pOw==</text>
+        <text encoding="base64">c2V0KFNOT1BUX0xJQlJBUklFUyAke1NOT1BUX0xJQlJBUll9KQpzZXQoU05PUFRfSU5DTFVERV9ESVJTICR7U05PUFRfSU5DTFVERV9ESVJ9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>elapsed_secondes</text>
+        <text>/usr/local/lib</text>
       </register>
       <register name="/" type="4">
         <text>SE2</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Ym9vbCBpcG9wdFNvbHZlKGNvbnN0IFN0YXRlICZzdGFydCwKICAgICAgICAgICAgICAgICAgICBjb25zdCBTdGF0ZSAmZW5kLAogICAgICAgICAgICAgICAgICAgIGRvdWJsZSAqcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICpsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICp1cHBlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgUGFyYW1fa25vdCAqc29sdXRpb24pOw==</text>
+        <text>SNOPT_LIBRARY</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhbGN1bGF0ZV9wYXRoKHNvbHV0aW9uXyk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">c2V0KFNOT1BUX0xJQlJBUklFUyAke1NOT1BUX0xJQlJBUll9KQpzZXQoU05PUFRfSU5DTFVERV9ESVJTICR7U05PUFRfSU5DTFVERV9ESVJ9KQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">c2V0KFNOT1BUX0xJQikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZmluZF9saWJyYXJ5KFNOT1BUX0xJQlJBUlkgTkFNRVMgIGxpYnNub3B0N19jcHAgbGlic25vcHQ3Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNhbGN1bGF0ZV9wYXRoKHNvbHV0aW9uXyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>/*!
  * Calculate the path point of the final solution.
  * @param param
@@ -565,45 +580,14 @@ void CTNLP::calculate_path(Param_knot param) {
     path_vector_ = sampleCubicSpiral(init_state, pp, SAMPLE_NUM);
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPFN0YXRlPiBnZXRfcGF0aCh2b2lkKSB7IHJldHVybiBwYXRoX3ZlY3Rvcl87IH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2FsY3VsYXRlX3BhdGgoUGFyYW1fa25vdCBwYXJhbSk7ICAvLyBjYWxjdWxhdGUgdGhlIHBhdGggdmVjdG9yIGF0IGV2ZXJ5IGl0ZXJhdGlvbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFBhcmFtX2tub3QgZ2V0X3NvbHV0aW9uKHZvaWQpIHsgcmV0dXJuIHNvbHV0aW9uXzsgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2FsY3VsYXRlX3BhdGgoUGFyYW1fa25vdCBwYXJhbSk7ICAvLyBjYWxjdWxhdGUgdGhlIHBhdGggdmVjdG9yIGF0IGV2ZXJ5IGl0ZXJhdGlvbgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgY2FsY3VsYXRlX3BhdGgoUGFyYW1fa25vdCBwYXJhbSk7ICAvLyBjYWxjdWxhdGUgdGhlIHBhdGggdmVjdG9yIGF0IGV2ZXJ5IGl0ZXJhdGlvbgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/*!
- * Reinitilize the problem for ipopt
- * @param start [in] start state of the vehicles
- * @param end [in] end state of the vehicles
- * @param initialGuess [in] initial guess for parameters
- * @param kLower [in] lower boundary for the curvature
- * @param kUpper [in] upper boundary for the curvature
- * @param lengthLower [in] lower boundary for the arc-length of the curve
- * @param lengthUpper [in] upper boundary for the arc-length of the curve
- * @return succeed
- */
-bool CTNLP::reInitializeProblem(State start, State end, Param_knot initialGuess,
-                                double kLower, double kUpper,
-                                double lengthLower, double lengthUpper) {
-    startState_ = start;
-    endState_ = end;
-    initial_guess_ = initialGuess;
-    k_l_ = kLower;
-    k_u_ = kUpper;
-    length_l_ = lengthLower;
-    length_u_ = lengthUpper;
-    return true;
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFBhcmFtX2tub3QgZ2V0X3NvbHV0aW9uKHZvaWQpIHsgcmV0dXJuIHNvbHV0aW9uXzsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
