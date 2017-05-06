@@ -39,11 +39,12 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1494039077482">
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="47" column="38" />
-        <mark key="." line="47" column="38" />
-        <mark key="^" line="47" column="38" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1494039823093">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="36" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" timestamp="1493764402026">
         <mark key="'" line="8" column="0" />
@@ -247,12 +248,12 @@
         <mark key="^" line="48" column="34" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494008372914">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494040754261">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="170" column="4" />
-        <mark key="]" line="170" column="6" />
-        <mark key="^" line="170" column="6" />
-        <mark key="." line="170" column="6" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="153" column="33" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -482,7 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="221" column="44" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="342" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="355" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -582,13 +582,14 @@
       <jump line="5" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
       <jump line="374" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
+      <jump line="14" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>F[2] = hmpl::SE2Constraints::fyf(knot);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(x[0] - 2)*(x[0] - 2) + x[1]*x[1]</text>
+        <text>hmpl::</text>
       </register>
       <register name="/" type="4">
         <text>polysync</text>
@@ -597,31 +598,32 @@
         <text>F[2] = hmpl::SE2Constraints::fyf(knot);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGWzNdID0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0lOQ0xVREVfRElSUyAke1NOT1BUX0lOQ0xVREVfRElSfSkK</text>
+      <register name="2" type="4">
+        <text>xlow[0]   =  lower_bounds[0];  xlow[1]   = lower_bounds[1];
+    xupp[0]   =  upper_bounds[0];  xupp[1]   =  upper_bounds[1];</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0xJQlJBUklFUyAke1NOT1BUX0xJQlJBUll9KQo=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGogPSAwOyBqIDwgbjsgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0RFRklOSVRJT05TICR7UENfU05PUFRfQ0ZMQUdTX09USEVSfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBuZUYgICA9ICA0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0ZPVU5EIDEpCg==</text>
+        <text encoding="base64">ICAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bWFya19hc19hZHZhbmNlZChTTk9QVF9JTkNMVURFX0RJUiBTTk9QVF9MSUJSQVJZKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ly89PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgIC8vIENvbXB1dGVzIHRoZSBub25saW5lYXIgb2JqZWN0aXZlIGFuZCBjb25zdHJhaW50IHRlcm1zIGZvciB0aGUgdG95CiAgICAvLyBwcm9ibGVtIGZlYXR1cmVkIGluIHRoZSBTbm9wdEEgdXNlcnMgZ3VpZGUuCiAgICAvLyBuZUYgPSAzLCBuID0gMi4KICAgIC8vCiAgICAvLyAgIE1pbmltaXplICAgICB4KDIpCiAgICAvLwogICAgLy8gICBzdWJqZWN0IHRvICAgeCgxKSoqMiAgICAgICsgNCB4KDIpKioyICA8PSA0LAogICAgLy8gICAgICAgICAgICAgICAoeCgxKSAtIDIpKioyICsgICB4KDIpKioyICA8PSA1LAogICAgLy8gICAgICAgICAgICAgICAgeCgxKSA+PSAwLgogICAgLy8KICAgIC8vIFRoZSB0cmlwbGVzIChnKGspLGlHZnVuKGspLGpHdmFyKGspKSwgayA9IDE6bmVHLCBkZWZpbmUKICAgIC8vIHRoZSBzcGFyc2l0eSBwYXR0ZXJuIGFuZCB2YWx1ZXMgb2YgdGhlIG5vbmxpbmVhciBlbGVtZW50cwogICAgLy8gb2YgdGhlIEphY29iaWFuLgogICAgLy89</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmZpbmRfcGF0aChTTk9QVF9JTkNMVURFX0RJUiBzbm9wdC9zbm9wdC5oCiAgSElOVFMgJHtQQ19TTk9QVF9JTkNMVURFRElSfSAke1BDX1NOT1BUX0lOQ0xVREVfRElSU30gL3Vzci9sb2NhbC9pbmNsdWRlL3Nub3B0CiAgUEFUSFMgIi91c3IvbG9jYWwvaW5jbHVkZSIpCgpmaW5kX2xpYnJhcnkoU05PUFRfTElCUkFSWSBOQU1FUyBzbm9wdDdfY3BwCiAgSElOVFMgJHtQQ19TTk9QVF9MSUJESVJ9ICR7UENfU05PUFRfTElCUkFSWV9ESVJTfSAvdXNyL2xvY2FsL2xpYgogIFBBVEhTICIvdXNyL2xvY2FsL2xpYiIpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC8vIGlHZnVuWzBdID0gMQogICAgICAgIC8vIGpHdmFyWzBdID0gMA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
