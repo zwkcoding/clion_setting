@@ -234,6 +234,9 @@
         <mark key="." line="62" column="11" />
         <mark key="^" line="62" column="11" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindNLOPT.cmake" timestamp="1494092013542">
+        <mark key="'" line="27" column="7" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" timestamp="1493757525770">
         <mark key="'" line="74" column="3" />
         <mark key="[" line="9" column="10" />
@@ -333,11 +336,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solver_type.hpp" timestamp="1493938139471">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="17" column="13" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solver_type.hpp" timestamp="1494092169751">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/holonomic/space_explore.hpp" timestamp="1492740485658">
         <mark key="'" line="40" column="11" />
@@ -353,7 +356,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindIPOPT.cmake" timestamp="1494007496353">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindIPOPT.cmake" timestamp="1494091992597">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="37" />
         <mark key="." line="14" column="41" />
@@ -453,12 +456,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1494007448851">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1494092137820">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
+        <mark key="[" line="111" column="2" />
+        <mark key="]" line="114" column="20" />
+        <mark key="." line="111" column="2" />
+        <mark key="^" line="102" column="18" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1493757743705">
         <mark key="'" line="75" column="0" />
@@ -483,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="44" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="342" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="355" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="502" column="37" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -583,20 +585,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
       <jump line="374" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
       <jump line="14" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" />
+      <jump line="27" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindNLOPT.cmake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>${CERES_LIBRARIES}</text>
       </register>
       <register name="-" type="4">
-        <text>ToyProb</text>
+        <text>${CERES_LIBRARIES}</text>
       </register>
       <register name="/" type="4">
-        <text>polysync</text>
+        <text>IPOPT</text>
       </register>
       <register name="0" type="4">
-        <text>iGfun[8] = 3;
-    jGvar[8] = 0;</text>
+        <text>${CERES_LIBRARIES}
+  ${IPOPT_LIBRARIES}
+  ${SNOPT_LIBRARIES}
+  ${NLOPT_LIBRARIES}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -630,17 +635,16 @@
       </register>
     </registers>
     <search>
-      <last-search>polysync</last-search>
+      <last-search>IPOPT</last-search>
       <last-offset />
-      <last-pattern>polysync</last-pattern>
-      <last-replace>SE2Constraints</last-replace>
-      <last-substitute>SE2</last-substitute>
+      <last-pattern>IPOPT</last-pattern>
+      <last-replace>NLOPT</last-replace>
+      <last-substitute>IPOPT</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reBuild</entry>
         <entry>spaceExplor</entry>
         <entry>spaceExplore</entry>
         <entry>Overlap</entry>
@@ -660,6 +664,7 @@
         <entry>SE2</entry>
         <entry>motionState</entry>
         <entry>polysync</entry>
+        <entry>IPOPT</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -668,6 +673,7 @@
         <entry encoding="base64">JXMvZGlzcGxheV9jdl8vdGhpcy0+ZGlzcGxheV9jdl8vZw==</entry>
         <entry>%s/internal_grid_map/hmpl/g</entry>
         <entry>%s/SE2/SE2Constraints/g</entry>
+        <entry>%s/IPOPT/NLOPT/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
