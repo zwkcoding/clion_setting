@@ -249,12 +249,12 @@
         <mark key="^" line="48" column="34" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494104315682">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494105599969">
         <mark key="'" line="7" column="38" />
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
+        <mark key="[" line="277" column="48" />
+        <mark key="]" line="277" column="48" />
+        <mark key="." line="277" column="48" />
+        <mark key="^" line="277" column="48" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -372,11 +372,11 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlopt_problem.hpp" timestamp="1494103960295">
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="31" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlopt_problem.hpp" timestamp="1494105475704">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493767216464">
         <mark key="'" line="86" column="13" />
@@ -392,10 +392,11 @@
         <mark key="^" line="383" column="56" />
         <mark key="." line="374" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlopt_problem.cpp" timestamp="1494103995735">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="20" />
-        <mark key="." line="57" column="20" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlopt_problem.cpp" timestamp="1494105546522">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
         <mark key="^" line="57" column="20" />
       </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/README.md" timestamp="1493999396127">
@@ -496,7 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="502" column="37" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="518" column="79" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="274" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="490" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -596,67 +596,67 @@
       <jump line="27" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindNLOPT.cmake" />
       <jump line="266" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
       <jump line="6" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
+      <jump line="28" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlopt_problem.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9wdC5hZGRfZXF1YWxpdHlfY29uc3RyYWludCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>::</text>
       </register>
       <register name="-" type="4">
-        <text>unsigned n, const double *x, double *grad</text>
+        <text>::</text>
       </register>
       <register name="/" type="4">
-        <text>IPOPT</text>
+        <text>NLProblem</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3Qgc3RkOjp2ZWN0b3I8ZG91YmxlPiAmeCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiAmZ3JhZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdm9pZCAqZGF0YQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9wdC5hZGRfZXF1YWxpdHlfY29uc3RyYWludCgpCg==</text>
+        <text encoding="base64">ICAgIGhtcGw6Ogo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IHB1YmxpYzoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgTkxQcm9ibGVtIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG9wdC5hZGRfZXF1YWxpdHlfY29uc3RyYWludCgpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG9wdC5zZXRfbWluX29iamVjdGl2ZSgpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>unsigned n,
                               const double *x,
                               double *grad,
                               void *data</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>unsigned n, const double *x, double *grad,
                      void *Data</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wdC5hZGQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">a25vdC5wMCA9IGQtPmtfaW5pdDsKICAgIGtub3QucDMgPSBkLT5rX2VuZDsKICAgIAogICAga25vdC5wMSA9IHhbMF07CiAgICBrbm90LnAyID0geFsxXTsKICAgIGtub3Quc2YgPSB4WzJdOw==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wdC5zZXQgCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>IPOPT</last-search>
+      <last-search>NLProblem</last-search>
       <last-offset />
-      <last-pattern>IPOPT</last-pattern>
-      <last-replace>NLOPT</last-replace>
-      <last-substitute>IPOPT</last-substitute>
+      <last-pattern>NLProblem</last-pattern>
+      <last-replace />
+      <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spaceExplor</entry>
         <entry>spaceExplore</entry>
         <entry>Overlap</entry>
         <entry>Rebuild</entry>
@@ -676,6 +676,7 @@
         <entry>motionState</entry>
         <entry>polysync</entry>
         <entry>IPOPT</entry>
+        <entry>NLProblem</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -686,6 +687,7 @@
         <entry>%s/SE2/SE2Constraints/g</entry>
         <entry>%s/IPOPT/NLOPT/g</entry>
         <entry>e</entry>
+        <entry>%s/NLProblem//g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
