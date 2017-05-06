@@ -222,19 +222,13 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/include/local_planner/local_planner_nodelet.hpp" timestamp="1493999304057">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/utils.hpp" timestamp="1493327367967">
         <mark key="[" line="62" column="1" />
         <mark key="]" line="62" column="11" />
         <mark key="." line="62" column="11" />
         <mark key="^" line="62" column="11" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindNLOPT.cmake" timestamp="1494098248004">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindNLOPT.cmake" timestamp="1494099273345">
         <mark key="'" line="25" column="7" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -378,11 +372,11 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlopt_problem.hpp" timestamp="1494097358665">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="20" column="52" />
-        <mark key="^" line="20" column="52" />
-        <mark key="." line="20" column="52" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlopt_problem.hpp" timestamp="1494100224179">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493767216464">
         <mark key="'" line="86" column="13" />
@@ -397,6 +391,12 @@
         <mark key="]" line="374" column="0" />
         <mark key="^" line="383" column="56" />
         <mark key="." line="374" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlopt_problem.cpp" timestamp="1494100011697">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/README.md" timestamp="1493999396127">
         <mark key="[" line="71" column="76" />
@@ -466,12 +466,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1494098573076">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" timestamp="1494099867281">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="17" />
-        <mark key="^" line="74" column="17" />
-        <mark key="." line="74" column="17" />
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="75" column="22" />
+        <mark key="^" line="75" column="22" />
+        <mark key="." line="75" column="22" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1493757743705">
         <mark key="'" line="75" column="0" />
@@ -607,8 +607,8 @@
       <register name="/" type="4">
         <text>IPOPT</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Ym9vbCBzbm9wdFNvbHZlKGNvbnN0IFN0YXRlICZzdGFydCwKICAgICAgICAgICAgICAgICAgICBjb25zdCBTdGF0ZSAmZW5kLAogICAgICAgICAgICAgICAgICAgIGRvdWJsZSAqcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICpsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICp1cHBlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgUGFyYW1fa25vdCAqc29sdXRpb24pOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIm9wdF9zb2x2ZXIvbmxvcHRfcHJvYmxlbS5ocHAiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -616,26 +616,35 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIklQT1BUIGxpYnM6IiAke0lQT1BUX0xJQlJBUklFU30pCg==</text>
+      <register name="3" type="4">
+        <text>double bendingEnergy(unsigned n, const double *x, double *grad, void *energyData) {
+    Param_knot knot{0, x[0], x[1], 0, x[2]};
+    if (grad) {
+        grad[0] = SIBendingEnergy::dsiedp1(knot);
+        grad[1] = SIBendingEnergy::dsiedp2(knot);
+        grad[2] = SIBendingEnergy::dsiedp4(knot);
+    }
+    return SIBendingEnergy::getSIBendingEnergy(knot);
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgImRlZmluYXRpb246IiAke1NOT1BUX0RFRklOSVRJT05TfSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgInNub3B0IHZhcmlhYmxlczoiICR7U05PUFRfSU5DTFVERV9ESVJTfSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPG9wdF91dGlscy91dGlscy5oPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>double bendingEnergy(unsigned n, const double *x, double *grad,
+                     void *Data);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5scC5zZXRQcmludEZpbGUoIlRveTAub3V0Iik7IC8vIG9oIHdhaXQsIGkgd2FudCBhIHByaW50IGZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5scC5zZXRQcm9iTmFtZSgiVG95MCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
