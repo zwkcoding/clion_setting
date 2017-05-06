@@ -39,11 +39,11 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1494013608520">
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="." line="41" column="14" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1494039077482">
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="38" />
+        <mark key="." line="47" column="38" />
+        <mark key="^" line="47" column="38" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/opt_base.cpp" timestamp="1493764402026">
         <mark key="'" line="8" column="0" />
@@ -162,7 +162,7 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1493766063516">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1494038701339">
         <mark key="'" line="9" column="15" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="15" />
@@ -195,7 +195,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1494013668708">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" timestamp="1494038918859">
         <mark key="'" line="451" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="15" />
@@ -585,43 +585,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>F[2] = hmpl::SE2Constraints::fyf(knot);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>(x[0] - 2)*(x[0] - 2) + x[1]*x[1]</text>
       </register>
       <register name="/" type="4">
         <text>polysync</text>
       </register>
       <register name="0" type="4">
-        <text>nlp</text>
+        <text>F[2] = hmpl::SE2Constraints::fyf(knot);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0lOQ0xVREVfRElSUyAke1NOT1BUX0lOQ0xVREVfRElSfSkK</text>
+        <text encoding="base64">ICAgICAgICBGWzNdID0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0xJQlJBUklFUyAke1NOT1BUX0xJQlJBUll9KQo=</text>
+        <text encoding="base64">c2V0KFNOT1BUX0lOQ0xVREVfRElSUyAke1NOT1BUX0lOQ0xVREVfRElSfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0RFRklOSVRJT05TICR7UENfU05PUFRfQ0ZMQUdTX09USEVSfSkK</text>
+        <text encoding="base64">c2V0KFNOT1BUX0xJQlJBUklFUyAke1NOT1BUX0xJQlJBUll9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0KFNOT1BUX0RFRklOSVRJT05TICR7UENfU05PUFRfQ0ZMQUdTX09USEVSfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0KFNOT1BUX0ZPVU5EIDEpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bWFya19hc19hZHZhbmNlZChTTk9QVF9JTkNMVURFX0RJUiBTTk9QVF9MSUJSQVJZKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmZpbmRfcGF0aChTTk9QVF9JTkNMVURFX0RJUiBzbm9wdC9zbm9wdC5oCiAgSElOVFMgJHtQQ19TTk9QVF9JTkNMVURFRElSfSAke1BDX1NOT1BUX0lOQ0xVREVfRElSU30gL3Vzci9sb2NhbC9pbmNsdWRlL3Nub3B0CiAgUEFUSFMgIi91c3IvbG9jYWwvaW5jbHVkZSIpCgpmaW5kX2xpYnJhcnkoU05PUFRfTElCUkFSWSBOQU1FUyBzbm9wdDdfY3BwCiAgSElOVFMgJHtQQ19TTk9QVF9MSUJESVJ9ICR7UENfU05PUFRfTElCUkFSWV9ESVJTfSAvdXNyL2xvY2FsL2xpYgogIFBBVEhTICIvdXNyL2xvY2FsL2xpYiIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2V0KFNOT1BUX0ZPVU5EIDEpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bWFya19hc19hZHZhbmNlZChTTk9QVF9JTkNMVURFX0RJUiBTTk9QVF9MSUJSQVJZKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CmZpbmRfcGF0aChTTk9QVF9JTkNMVURFX0RJUiBzbm9wdC9zbm9wdC5oCiAgSElOVFMgJHtQQ19TTk9QVF9JTkNMVURFRElSfSAke1BDX1NOT1BUX0lOQ0xVREVfRElSU30gL3Vzci9sb2NhbC9pbmNsdWRlL3Nub3B0CiAgUEFUSFMgIi91c3IvbG9jYWwvaW5jbHVkZSIpCgpmaW5kX2xpYnJhcnkoU05PUFRfTElCUkFSWSBOQU1FUyBzbm9wdDdfY3BwCiAgSElOVFMgJHtQQ19TTk9QVF9MSUJESVJ9ICR7UENfU05PUFRfTElCUkFSWV9ESVJTfSAvdXNyL2xvY2FsL2xpYgogIFBBVEhTICIvdXNyL2xvY2FsL2xpYiIpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgMS4gcHM6IGFubV9tc2dzL1ZlaGljbGVTdGF0ZSBtc2cgd2l0aCBwcyBzdGVlcmluZyByZXBvcnQgbXNnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
