@@ -248,12 +248,12 @@
         <mark key="^" line="48" column="34" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494040754261">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494045029151">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="^" line="153" column="33" />
-        <mark key="." line="156" column="0" />
+        <mark key="[" line="248" column="16" />
+        <mark key="]" line="248" column="14" />
+        <mark key="^" line="248" column="14" />
+        <mark key="." line="248" column="14" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -268,12 +268,12 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1493934606638">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1494045269780">
         <mark key="'" line="3" column="31" />
-        <mark key="[" line="81" column="32" />
-        <mark key="]" line="83" column="37" />
-        <mark key="^" line="83" column="37" />
-        <mark key="." line="83" column="37" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+        <mark key="." line="56" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" timestamp="1493842637512">
         <mark key="[" line="29" column="14" />
@@ -589,41 +589,41 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>hmpl::</text>
+        <text>ToyProb</text>
       </register>
       <register name="/" type="4">
         <text>polysync</text>
       </register>
       <register name="0" type="4">
-        <text>F[2] = hmpl::SE2Constraints::fyf(knot);</text>
+        <text>iGfun[8] = 3;
+    jGvar[8] = 0;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>xlow[0]   =  lower_bounds[0];  xlow[1]   = lower_bounds[1];
-    xupp[0]   =  upper_bounds[0];  xupp[1]   =  upper_bounds[1];</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG5scC5zZXRQcmludEZpbGUoIlRveTAub3V0Iik7IC8vIG9oIHdhaXQsIGkgd2FudCBhIHByaW50IGZpbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGogPSAwOyBqIDwgbjsgKQo=</text>
+        <text encoding="base64">ICAgIG5scC5zZXRQcm9iTmFtZSgiVG95MCIpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gTG9hZCB0aGUgZGF0YSBmb3IgVG95UHJvYiAuLi4KICAgIG5scC5pbml0aWFsaXplKCIiLCAxKTsgICAgICAvLyBubyBwcmludCBmaWxlOyBzdW1tYXJ5IG9uCiAgICBubHAuc2V0UHJpbnRGaWxlKCJUb3kwLm91dCIpOyAvLyBvaCB3YWl0LCBpIHdhbnQgYSBwcmludCBmaWxlCiAgICBubHAuc2V0UHJvYk5hbWUoIlRveTAiKTsKICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCBuZUYgICA9ICA0Owo=</text>
+        <text encoding="base64">ICAgIGpHdmFyWzhdID0gMzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIGlHZnVuWzhdID0gMzsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly89PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgIC8vIENvbXB1dGVzIHRoZSBub25saW5lYXIgb2JqZWN0aXZlIGFuZCBjb25zdHJhaW50IHRlcm1zIGZvciB0aGUgdG95CiAgICAvLyBwcm9ibGVtIGZlYXR1cmVkIGluIHRoZSBTbm9wdEEgdXNlcnMgZ3VpZGUuCiAgICAvLyBuZUYgPSAzLCBuID0gMi4KICAgIC8vCiAgICAvLyAgIE1pbmltaXplICAgICB4KDIpCiAgICAvLwogICAgLy8gICBzdWJqZWN0IHRvICAgeCgxKSoqMiAgICAgICsgNCB4KDIpKioyICA8PSA0LAogICAgLy8gICAgICAgICAgICAgICAoeCgxKSAtIDIpKioyICsgICB4KDIpKioyICA8PSA1LAogICAgLy8gICAgICAgICAgICAgICAgeCgxKSA+PSAwLgogICAgLy8KICAgIC8vIFRoZSB0cmlwbGVzIChnKGspLGlHZnVuKGspLGpHdmFyKGspKSwgayA9IDE6bmVHLCBkZWZpbmUKICAgIC8vIHRoZSBzcGFyc2l0eSBwYXR0ZXJuIGFuZCB2YWx1ZXMgb2YgdGhlIG5vbmxpbmVhciBlbGVtZW50cwogICAgLy8gb2YgdGhlIEphY29iaWFuLgogICAgLy89</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5lQSAgICAgID0gMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEFbMF0gICAgID0gMS4wOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8vIGlHZnVuWzBdID0gMQogICAgICAgIC8vIGpHdmFyWzBdID0gMA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGpBdmFyWzBdID0gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
