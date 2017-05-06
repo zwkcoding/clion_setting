@@ -125,11 +125,11 @@
         <mark key="." line="303" column="18" />
         <mark key="^" line="303" column="18" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.hpp" timestamp="1493938223863">
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="64" column="6" />
-        <mark key="^" line="64" column="6" />
-        <mark key="." line="64" column="6" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.hpp" timestamp="1494093205998">
+        <mark key="[" line="78" column="42" />
+        <mark key="]" line="80" column="6" />
+        <mark key="^" line="80" column="6" />
+        <mark key="." line="80" column="6" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/solution.cpp" timestamp="1493917927504">
         <mark key="[" line="16" column="1" />
@@ -589,7 +589,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${CERES_LIBRARIES}</text>
+        <text encoding="base64">Ym9vbCBzbm9wdFNvbHZlKGNvbnN0IFN0YXRlICZzdGFydCwKICAgICAgICAgICAgICAgICAgICBjb25zdCBTdGF0ZSAmZW5kLAogICAgICAgICAgICAgICAgICAgIGRvdWJsZSAqcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICpsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICp1cHBlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgUGFyYW1fa25vdCAqc29sdXRpb24pOw==</text>
       </register>
       <register name="-" type="4">
         <text>${CERES_LIBRARIES}</text>
@@ -598,10 +598,7 @@
         <text>IPOPT</text>
       </register>
       <register name="0" type="4">
-        <text>${CERES_LIBRARIES}
-  ${IPOPT_LIBRARIES}
-  ${SNOPT_LIBRARIES}
-  ${NLOPT_LIBRARIES}</text>
+        <text encoding="base64">Ym9vbCBzbm9wdFNvbHZlKGNvbnN0IFN0YXRlICZzdGFydCwKICAgICAgICAgICAgICAgICAgICBjb25zdCBTdGF0ZSAmZW5kLAogICAgICAgICAgICAgICAgICAgIGRvdWJsZSAqcGFyYW0sCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICpsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgZG91YmxlICp1cHBlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgUGFyYW1fa25vdCAqc29sdXRpb24pOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
