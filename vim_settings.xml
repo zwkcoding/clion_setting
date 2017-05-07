@@ -259,11 +259,11 @@
         <mark key="^" line="48" column="34" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494187715115">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494190062695">
         <mark key="'" line="281" column="6" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="255" column="45" />
-        <mark key="." line="255" column="45" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
         <mark key="^" line="255" column="45" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
@@ -618,7 +618,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjc3JjL25sb3B0X3Byb2JsZW0uY3BwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJzb2x2ZXIgdHlwZTogc25vcHQuICIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="-" type="4">
         <text>// goal state in global frame</text>
@@ -630,108 +630,32 @@
         <text encoding="base64">IyBGaW5kIFNOT1BUCiMKIyBUaGlzIHNldHMgdGhlIGZvbGxvd2luZyB2YXJpYWJsZXM6CiMgU05PUFRfRk9VTkQKIyBTTk9QVF9JTkNMVURFX0RJUlMKIyBTTk9QVF9MSUJSQVJJRVMKIyBTTk9QVF9ERUZJTklUSU9OUwoKZmluZF9wYWNrYWdlKFBrZ0NvbmZpZyBRVUlFVCkKcGtnX2NoZWNrX21vZHVsZXMoUENfU05PUFQgc25vcHQpCnNldChTTk9QVF9ERUZJTklUSU9OUyAke1BDX1NOT1BUX0NGTEFHU19PVEhFUn0pCnNldChTTk9QVF9JTkNMVURFX0RJUlMgJHtQQ19TTk9QVF9JTkNMVURFX0RJUlN9KQpzZXQoU05PUFRfTElCUkFSSUVTICR7UENfU05PUFRfTElCUkFSSUVTfSkKc2V0KFNOT1BUX1ZFUlNJT04gJHtQQ19TTk9QVF9WRVJTSU9OfSkKCmluY2x1ZGUoRmluZFBhY2thZ2VIYW5kbGVTdGFuZGFyZEFyZ3MpCmZpbmRfcGFja2FnZV9oYW5kbGVfc3RhbmRhcmRfYXJncyhTTk9QVCBERUZBVUxUX01TRwogIFNOT1BUX0xJQlJBUklFUyBTTk9QVF9JTkNMVURFX0RJUlMpCgptYXJrX2FzX2FkdmFuY2VkKFNOT1BUX0lOQ0xVREVfRElSUyBTTk9QVF9MSUJSQVJJRVMpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJzb2x2ZXIgdHlwZTogc25vcHQuICIgPDwgc3RkOjplbmRsOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYmVmb3JlIHJldHVybiIgPDwgc3RkOjplbmRsOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYmVmb3JlIHNub3B0IHNvbHZlOiIgPDwgc3RkOjplbmRsOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYWZ0ZXIgc29sdmU6Ijw8IHN0ZDo6ZW5kbDsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAjc3JjL25sb3B0X3Byb2JsZW0uY3BwCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>include/opt_solver/nlp_solver.hpp
   include/opt_solver/nlopt_problem.hpp</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcyhpbmNsdWRlKQo=</text>
+        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>## Declare a C++ library
-# add_library(${PROJECT_NAME}
-#   src/${PROJECT_NAME}/roscpp.cpp
-# )
-
-## Add cmake target dependencies of the library
-## as an example, code may need to be generated before libraries
-## either from message generation or dynamic reconfigure
-# add_dependencies(${PROJECT_NAME} ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-
-## Declare a C++ executable
-## With catkin_make all packages are built within a single CMake context
-## The recommended prefix ensures that target names across packages don't collide
-# add_executable(${PROJECT_NAME}_node src/roscpp_node.cpp)
-
-## Rename C++ executable without prefix
-## The above recommended prefix causes long target names, the following renames the
-## target back to the shorter version for ease of user use
-## e.g. &quot;rosrun someones_pkg node&quot; instead of &quot;rosrun someones_pkg someones_pkg_node&quot;
-# set_target_properties(${PROJECT_NAME}_node PROPERTIES OUTPUT_NAME node PREFIX &quot;&quot;)
-
-## Add cmake target dependencies of the executable
-## same as for the library above
-# add_dependencies(${PROJECT_NAME}_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-
-## Specify libraries to link a library or executable target against
-# target_link_libraries(${PROJECT_NAME}_node
-#   ${catkin_LIBRARIES}
-# )
-
-#############
-## Install ##
-#############
-
-# all install targets should use catkin DESTINATION variables
-# See http://ros.org/doc/api/catkin/html/adv_user_guide/variables.html
-
-## Mark executable scripts (Python etc.) for installation
-## in contrast to setup.py, you can choose the destination
-# install(PROGRAMS
-#   scripts/my_python_script
-#   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-# )
-
-## Mark executables and/or libraries for installation
-# install(TARGETS ${PROJECT_NAME} ${PROJECT_NAME}_node
-#   ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
-#   LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
-#   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-# )
-
-## Mark cpp header files for installation
-# install(DIRECTORY include/${PROJECT_NAME}/
-#   DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}
-#   FILES_MATCHING PATTERN &quot;*.h&quot;
-#   PATTERN &quot;.svn&quot; EXCLUDE
-# )
-
-## Mark other files for installation (e.g. launch and bag files, etc.)
-# install(FILES
-#   # myfile1
-#   # myfile2
-#   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
-# )
-
-#############
-## Testing ##
-#############
-
-## Add gtest based cpp test target and link libraries
-# catkin_add_gtest(${PROJECT_NAME}-test test/test_roscpp.cpp)
-# if(TARGET ${PROJECT_NAME}-test)
-#   target_link_libraries(${PROJECT_NAME}-test ${PROJECT_NAME})
-# endif()
-
-## Add folders to be run by python nosetests
-# catkin_add_nosetests(test)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
