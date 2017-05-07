@@ -276,12 +276,12 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1494045269780">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1494185723616">
         <mark key="'" line="3" column="31" />
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="7" />
+        <mark key="[" line="41" column="54" />
+        <mark key="]" line="41" column="53" />
+        <mark key="^" line="41" column="53" />
+        <mark key="." line="41" column="53" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" timestamp="1493842637512">
         <mark key="[" line="29" column="14" />
