@@ -265,12 +265,12 @@
         <mark key="^" line="48" column="34" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494190062695">
-        <mark key="'" line="281" column="6" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="255" column="45" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494194721931">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="276" column="50" />
+        <mark key="]" line="277" column="44" />
+        <mark key="." line="277" column="44" />
+        <mark key="^" line="277" column="44" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -407,12 +407,12 @@
         <mark key="^" line="383" column="56" />
         <mark key="." line="374" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlopt_problem.cpp" timestamp="1494108671102">
-        <mark key="'" line="28" column="7" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlopt_problem.cpp" timestamp="1494194532140">
+        <mark key="'" line="27" column="7" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="55" column="35" />
+        <mark key="." line="55" column="35" />
+        <mark key="^" line="55" column="35" />
       </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/README.md" timestamp="1493999396127">
         <mark key="[" line="71" column="76" />
@@ -521,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1174" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="27" column="30" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="531" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="649" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -607,7 +606,6 @@
       <jump line="196" column="5" filename="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" />
       <jump line="192" column="39" filename="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" />
       <jump line="5" column="38" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
       <jump line="374" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
       <jump line="14" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" />
       <jump line="27" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindNLOPT.cmake" />
@@ -621,13 +619,15 @@
       <jump line="25" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.hpp" />
       <jump line="279" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
       <jump line="60" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" />
+      <jump line="44" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRhdGE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>NLProblem</text>
@@ -636,32 +636,31 @@
         <text encoding="base64">IyBGaW5kIFNOT1BUCiMKIyBUaGlzIHNldHMgdGhlIGZvbGxvd2luZyB2YXJpYWJsZXM6CiMgU05PUFRfRk9VTkQKIyBTTk9QVF9JTkNMVURFX0RJUlMKIyBTTk9QVF9MSUJSQVJJRVMKIyBTTk9QVF9ERUZJTklUSU9OUwoKZmluZF9wYWNrYWdlKFBrZ0NvbmZpZyBRVUlFVCkKcGtnX2NoZWNrX21vZHVsZXMoUENfU05PUFQgc25vcHQpCnNldChTTk9QVF9ERUZJTklUSU9OUyAke1BDX1NOT1BUX0NGTEFHU19PVEhFUn0pCnNldChTTk9QVF9JTkNMVURFX0RJUlMgJHtQQ19TTk9QVF9JTkNMVURFX0RJUlN9KQpzZXQoU05PUFRfTElCUkFSSUVTICR7UENfU05PUFRfTElCUkFSSUVTfSkKc2V0KFNOT1BUX1ZFUlNJT04gJHtQQ19TTk9QVF9WRVJTSU9OfSkKCmluY2x1ZGUoRmluZFBhY2thZ2VIYW5kbGVTdGFuZGFyZEFyZ3MpCmZpbmRfcGFja2FnZV9oYW5kbGVfc3RhbmRhcmRfYXJncyhTTk9QVCBERUZBVUxUX01TRwogIFNOT1BUX0xJQlJBUklFUyBTTk9QVF9JTkNMVURFX0RJUlMpCgptYXJrX2FzX2FkdmFuY2VkKFNOT1BUX0lOQ0xVREVfRElSUyBTTk9QVF9MSUJSQVJJRVMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJzb2x2ZXIgdHlwZTogc25vcHQuICIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIGRhdGE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYmVmb3JlIHJldHVybiIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIHZvaWQgZGF0YSA9IHswLCAwLCAwfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYmVmb3JlIHNub3B0IHNvbHZlOiIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgICoqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYWZ0ZXIgc29sdmU6Ijw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjc3JjL25sb3B0X3Byb2JsZW0uY3BwCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPG9wdF9zb2x2ZXIvbmxvcHRfcHJvYmxlbS5ocHA+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>include/opt_solver/nlp_solver.hpp
-  include/opt_solver/nlopt_problem.hpp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJzb2x2ZXIgdHlwZTogc25vcHQuICIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYmVmb3JlIHJldHVybiIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYmVmb3JlIHNub3B0IHNvbHZlOiIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjJHtOTE9QVF9MSUJSQVJJRVN9Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiYWZ0ZXIgc29sdmU6Ijw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
