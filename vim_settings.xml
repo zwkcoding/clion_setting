@@ -27,11 +27,11 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solution.hpp" timestamp="1493919382816">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="22" column="4" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solution.hpp" timestamp="1494184021374">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="22" column="19" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/snopt.pc" timestamp="1494111537719">
         <mark key="[" line="5" column="26" />
@@ -131,11 +131,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/solution.cpp" timestamp="1493917927504">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/solution.cpp" timestamp="1494184488285">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/package.xml" timestamp="1493326149032">
         <mark key="[" line="19" column="33" />
@@ -612,10 +612,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcyhpbmNsdWRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text>// goal state in global frame</text>
       </register>
       <register name="/" type="4">
         <text>NLProblem</text>
@@ -624,12 +624,15 @@
         <text encoding="base64">IyBGaW5kIFNOT1BUCiMKIyBUaGlzIHNldHMgdGhlIGZvbGxvd2luZyB2YXJpYWJsZXM6CiMgU05PUFRfRk9VTkQKIyBTTk9QVF9JTkNMVURFX0RJUlMKIyBTTk9QVF9MSUJSQVJJRVMKIyBTTk9QVF9ERUZJTklUSU9OUwoKZmluZF9wYWNrYWdlKFBrZ0NvbmZpZyBRVUlFVCkKcGtnX2NoZWNrX21vZHVsZXMoUENfU05PUFQgc25vcHQpCnNldChTTk9QVF9ERUZJTklUSU9OUyAke1BDX1NOT1BUX0NGTEFHU19PVEhFUn0pCnNldChTTk9QVF9JTkNMVURFX0RJUlMgJHtQQ19TTk9QVF9JTkNMVURFX0RJUlN9KQpzZXQoU05PUFRfTElCUkFSSUVTICR7UENfU05PUFRfTElCUkFSSUVTfSkKc2V0KFNOT1BUX1ZFUlNJT04gJHtQQ19TTk9QVF9WRVJTSU9OfSkKCmluY2x1ZGUoRmluZFBhY2thZ2VIYW5kbGVTdGFuZGFyZEFyZ3MpCmZpbmRfcGFja2FnZV9oYW5kbGVfc3RhbmRhcmRfYXJncyhTTk9QVCBERUZBVUxUX01TRwogIFNOT1BUX0xJQlJBUklFUyBTTk9QVF9JTkNMVURFX0RJUlMpCgptYXJrX2FzX2FkdmFuY2VkKFNOT1BUX0lOQ0xVREVfRElSUyBTTk9QVF9MSUJSQVJJRVMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcyhpbmNsdWRlKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcyhpbmNsdWRlKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>## Declare a C++ library
 # add_library(${PROJECT_NAME}
 #   src/${PROJECT_NAME}/roscpp.cpp
@@ -708,14 +711,14 @@
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IyBZb3VyIHBhY2thZ2UgbG9jYXRpb25zIHNob3VsZCBiZSBsaXN0ZWQgYmVmb3JlIG90aGVyIGxvY2F0aW9ucwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>## Specify additional locations of header files
 #</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
 
@@ -806,14 +809,11 @@
 ## CATKIN_DEPENDS: catkin_packages dependent projects also need
 ## DEPENDS: system dependencies of this project that dependent projects also need</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIm5sb3B0IGRlZjoiICR7TkxPUFRfREVGSU5JVElPTlN9KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIm5sb3B0IGxpYjoiICR7TkxPUFRfTElCUkFSSUVTfSkK</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIm5sb3B0IGRlZjoiICR7TkxPUFRfREVGSU5JVElPTlN9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
