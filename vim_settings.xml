@@ -451,12 +451,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494262534961">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494268123968">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="152" column="55" />
-        <mark key="]" line="152" column="55" />
-        <mark key="^" line="146" column="40" />
-        <mark key="." line="152" column="55" />
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494205510552">
         <mark key="[" line="15" column="10" />
@@ -642,10 +642,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PDwgIiwi</text>
+        <text encoding="base64">IHMgKyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PDwgIiwi</text>
+        <text encoding="base64">IHMgKyA=</text>
       </register>
       <register name="/" type="4">
         <text>NLProblem</text>
@@ -654,31 +654,31 @@
         <text>hmpl::endrow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Y3N2IDw8ICAxICA8PCAiU3RyaW5nIHZhbHVlIiA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgICAgIGNzdiA8PCAgMiAgPDwgMTIzICAgICAgICAgICAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgICAgICBjc3YgPDwgIDMgIDw8IDEuZiAgICAgICAgICAgIDw8IGhtcGw6OmVuZHJvdzsKICAgICAgICAgICAgY3N2IDw8ICA0ICA8PCAxLjIgICAgICAgICAgICA8PCBobXBsOjplbmRyb3c7</text>
+        <text encoding="base64">aWYgKCBpID09IDAgKSB7CiAgICAgICAgICAgIGN1cnZlLT5hdChpKS5rID0gMDsKICAgICAgICAgICAgY3VydmUtPmF0KGkpLnMgPSAwOwogICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3ByYWdtYSBvbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y3N2IDw8ICAxICA8PCAiU3RyaW5nIHZhbHVlIiA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgICAgIGNzdiA8PCAgMiAgPDwgMTIzICAgICAgICAgICAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgICAgICBjc3YgPDwgIDMgIDw8IDEuZiAgICAgICAgICAgIDw8IGhtcGw6OmVuZHJvdzsKICAgICAgICAgICAgY3N2IDw8ICA0ICA8PCAxLjIgICAgICAgICAgICA8PCBobXBsOjplbmRyb3c7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3ByYWdtYSBvbmNlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGN1cnZlLT5hdCggaSArIDIgKS5rID0gMDsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
