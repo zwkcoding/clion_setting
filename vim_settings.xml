@@ -429,6 +429,13 @@
         <mark key="." line="71" column="84" />
         <mark key="^" line="71" column="84" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494272518383">
+        <mark key="'" line="1015" column="0" />
+        <mark key="[" line="1019" column="25" />
+        <mark key="]" line="1019" column="24" />
+        <mark key="^" line="1019" column="24" />
+        <mark key="." line="1019" column="24" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/package.xml" timestamp="1492536271248">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="21" column="20" />
@@ -533,7 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1042" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="432" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="431" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="38" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" />
@@ -633,6 +639,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="87" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/csv_file.hpp" />
       <jump line="16" column="13" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/csv_file.hpp" />
+      <jump line="1015" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -642,7 +649,7 @@
         <text encoding="base64">IHMgKyA=</text>
       </register>
       <register name="/" type="4">
-        <text>NLProblem</text>
+        <text>Bspline</text>
       </register>
       <register name="0" type="4">
         <text>hmpl::endrow</text>
@@ -679,9 +686,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NLProblem</last-search>
+      <last-search>Bspline</last-search>
       <last-offset />
-      <last-pattern>NLProblem</last-pattern>
+      <last-pattern>Bspline</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -689,7 +696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spaceExplore</entry>
         <entry>Overlap</entry>
         <entry>Rebuild</entry>
         <entry>spaceExpl</entry>
@@ -709,6 +715,7 @@
         <entry>polysync</entry>
         <entry>IPOPT</entry>
         <entry>NLProblem</entry>
+        <entry>Bspline</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
