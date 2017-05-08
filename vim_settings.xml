@@ -39,11 +39,11 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/package.xml" timestamp="1494190895412">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="16" column="21" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="16" column="21" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/package.xml" timestamp="1494205499519">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1494181157987">
         <mark key="'" line="14" column="15" />
@@ -236,11 +236,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494192991420">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="6" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494204875122">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="58" />
+        <mark key="." line="17" column="58" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" timestamp="1493757525770">
         <mark key="'" line="74" column="3" />
@@ -426,11 +426,17 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494191076803">
-        <mark key="[" line="37" column="2" />
-        <mark key="]" line="37" column="13" />
-        <mark key="." line="37" column="13" />
-        <mark key="^" line="37" column="13" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494205538086">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494205510552">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quatratic_cost_function.h" timestamp="1493665595814">
         <mark key="[" line="65" column="9" />
