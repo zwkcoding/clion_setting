@@ -120,9 +120,6 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="22" column="20" />
       </file>
-      <file name="/LLDB" timestamp="1494187088349">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492740092746">
         <mark key="[" line="24" column="10" />
         <mark key="]" line="25" column="0" />
@@ -399,12 +396,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1493767216464">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/global_path_node.cpp" timestamp="1494268464102">
         <mark key="'" line="86" column="13" />
-        <mark key="[" line="92" column="21" />
-        <mark key="]" line="92" column="38" />
-        <mark key="^" line="92" column="38" />
-        <mark key="." line="92" column="38" />
+        <mark key="[" line="105" column="6" />
+        <mark key="]" line="105" column="7" />
+        <mark key="^" line="105" column="7" />
+        <mark key="." line="105" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1494010494647">
         <mark key="'" line="374" column="0" />
@@ -481,9 +478,6 @@
         <mark key="]" line="30" column="18" />
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
-      </file>
-      <file name="/fragment.mm" timestamp="1494187218279">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/tinyspline.c" timestamp="1492740825876">
         <mark key="[" line="5" column="19" />
