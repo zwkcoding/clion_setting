@@ -498,12 +498,12 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/my_trajectory.py" timestamp="1494279596750">
-        <mark key="'" line="191" column="2" />
-        <mark key="[" line="51" column="52" />
-        <mark key="]" line="51" column="51" />
-        <mark key="^" line="51" column="51" />
-        <mark key="." line="51" column="51" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/my_trajectory.py" timestamp="1494285438419">
+        <mark key="'" line="199" column="2" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="32" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492819734041">
         <mark key="'" line="80" column="20" />
@@ -650,47 +650,59 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>limit_k</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="-" type="4">
-        <text>limit_k</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="/" type="4">
         <text>Bspline</text>
       </register>
       <register name="0" type="4">
-        <text>hmpl::endrow</text>
+        <text>limit  = [(x,y),(x_limit,y_limit)]
+    xs, ys = zip(*limit)
+    lline = Line2D(xs,ys,linewidth = 0.5, color = 'red')
+    ax.add_line(lline)
+
+    x_end = x + cos(deltat)*length*fabs(k)
+    y_end = y + sin(deltat)*length*fabs(k)
+    vert = [(x,y),(x_end,y_end),]
+    code = [Path.MOVETO,Path.MOVETO,]
+    #curvature = Path(vert,code)
+    #patch = patches.PathPatch(curvature, facecolor = 'blue', lw = 2)
+    #ax.add_patch(patch)
+    xs, ys = zip(*vert)
+    #ax.plot(xs,ys,lw = 2, color = 'blue', ms = 10)
+    myline = Line2D(xs,ys,linewidth = 1.0, color = 'blue')
+    myline.set_antialiased(True)
+    ax.add_line(myline)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKHgsIHksIGhlYWRpbmcsIGspCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyA9IFtdCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>print (len(traj_data.x))
-
-print (len(traj_data.y))
-
-print (len(traj_data.heading))</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBheC5hZGRfbGluZShsaW5lcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXguc2V0X3lsaW0oLTUsNSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMuYXBwZW5kKGxpbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXguc2V0X3hsaW0oLTEsMTMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsYyA9IExpbmVDb2xsZWN0aW9uKHNlZ21lbnRzLCBjb2xvcnM9WydiJ10sIGxpbmVzdHlsZT0nc29saWQnKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKCBpID09IDAgKSB7CiAgICAgICAgICAgIGN1cnZlLT5hdChpKS5rID0gMDsKICAgICAgICAgICAgY3VydmUtPmF0KGkpLnMgPSAwOwogICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBheC5hZGRfY29sbGVjdGlvbihsYykK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmZyb20gbWF0cGxvdGxpYi5jb2xsZWN0aW9ucyBpbXBvcnQgTGluZUNvbGxlY3Rpb24=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBheC5wbG90LmF4aXMoImVxdWFsIikK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y3N2IDw8ICAxICA8PCAiU3RyaW5nIHZhbHVlIiA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgICAgIGNzdiA8PCAgMiAgPDwgMTIzICAgICAgICAgICAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgICAgICBjc3YgPDwgIDMgIDw8IDEuZiAgICAgICAgICAgIDw8IGhtcGw6OmVuZHJvdzsKICAgICAgICAgICAgY3N2IDw8ICA0ICA8PCAxLjIgICAgICAgICAgICA8PCBobXBsOjplbmRyb3c7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aXRsZSgieCB2cyB5IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
