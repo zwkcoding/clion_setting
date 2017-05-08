@@ -471,11 +471,11 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/CMakeLists.txt" timestamp="1494211601045">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/CMakeLists.txt" timestamp="1494212338333">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492819734041">
         <mark key="'" line="80" column="20" />
@@ -497,12 +497,11 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1494211571995">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1494212212350">
         <mark key="'" line="88" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1492740146226">
         <mark key="'" line="0" column="0" />
@@ -622,8 +621,8 @@
       <jump line="263" column="5" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZG91YmxlIGdldEN1cnZhdHVyZShjb25zdCBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiAmZmlyc3RfcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT4gJnNlY29uZF9wb2ludCwKICAgICAgICAgICAgICAgICAgICBjb25zdCBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiAmdGhpcmRfcG9pbnQpIHs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NLOPT_LD_SLSQP</text>
@@ -635,28 +634,28 @@
         <text encoding="base64">ZG91YmxlIGdldEN1cnZhdHVyZShjb25zdCBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiAmZmlyc3RfcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT4gJnNlY29uZF9wb2ludCwKICAgICAgICAgICAgICAgICAgICBjb25zdCBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiAmdGhpcmRfcG9pbnQpIHs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFzdGFyb3B0L0VudGl0aWVzL1ZlY3RvcjJELmhwcD4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib29sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cmVzID0gbmxwX3NvbHZlci5zb2x2ZShzdGFydF9zdGF0ZSwgZmluYWxfc3RhdGUsIHBhcmFtLCBsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgICAgICB1cHBwZXJfYm91bmRzLCAmc29sdXRpb24pOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBib29sCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">cmVzID0gbmxwX3NvbHZlci5zb2x2ZShzdGFydF9zdGF0ZSwgZmluYWxfc3RhdGUsIHBhcmFtLCBsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgICAgICB1cHBwZXJfYm91bmRzLCAmc29sdXRpb24pOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
