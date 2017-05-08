@@ -451,12 +451,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494261366587">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494262534961">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="35" column="29" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="152" column="55" />
+        <mark key="]" line="152" column="55" />
+        <mark key="^" line="146" column="40" />
+        <mark key="." line="152" column="55" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494205510552">
         <mark key="[" line="15" column="10" />
@@ -642,40 +642,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">PDwgIiwi</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">PDwgIiwi</text>
       </register>
       <register name="/" type="4">
         <text>NLProblem</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZG91YmxlIGdldEN1cnZhdHVyZShjb25zdCBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiAmZmlyc3RfcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT4gJnNlY29uZF9wb2ludCwKICAgICAgICAgICAgICAgICAgICBjb25zdCBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiAmdGhpcmRfcG9pbnQpIHs=</text>
+        <text>hmpl::endrow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3ByYWdtYSBvbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y3N2IDw8ICAxICA8PCAiU3RyaW5nIHZhbHVlIiA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgICAgIGNzdiA8PCAgMiAgPDwgMTIzICAgICAgICAgICAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgICAgICBjc3YgPDwgIDMgIDw8IDEuZiAgICAgICAgICAgIDw8IGhtcGw6OmVuZHJvdzsKICAgICAgICAgICAgY3N2IDw8ICA0ICA8PCAxLjIgICAgICAgICAgICA8PCBobXBsOjplbmRyb3c7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I3ByYWdtYSBvbmNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGN1cnZlLT5hdCggaSArIDIgKS5rID0gMDsKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgIGN1cnZlLT5hdCggaSArIDIgKS5rID0gMDsKICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
