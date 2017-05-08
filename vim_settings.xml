@@ -256,12 +256,12 @@
         <mark key="^" line="48" column="34" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494199359343">
-        <mark key="'" line="116" column="20" />
-        <mark key="[" line="267" column="45" />
-        <mark key="]" line="267" column="46" />
-        <mark key="^" line="267" column="46" />
-        <mark key="." line="267" column="46" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494203932490">
+        <mark key="'" line="266" column="5" />
+        <mark key="[" line="263" column="39" />
+        <mark key="]" line="264" column="24" />
+        <mark key="." line="264" column="24" />
+        <mark key="^" line="264" column="24" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -276,7 +276,7 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1494186892613">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1494204077738">
         <mark key="'" line="3" column="31" />
         <mark key="[" line="41" column="54" />
         <mark key="]" line="41" column="53" />
@@ -508,9 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="66" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="386" column="84" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
-      <jump line="786" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="525" column="17" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="399" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="543" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -608,13 +605,16 @@
       <jump line="284" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
       <jump line="116" column="20" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.hpp" />
+      <jump line="296" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
+      <jump line="48" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
+      <jump line="263" column="5" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>NLOPT_LD_SLSQP</text>
       </register>
       <register name="/" type="4">
         <text>NLProblem</text>
@@ -623,32 +623,31 @@
         <text>hmpl::SIBendingEnergy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIGhtcGwgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSAgLy8gbmFtZXNwYWNlIGhtcGwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIGhtcGwgewo=</text>
+        <text encoding="base64">ICAgICAgICBib29sCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cmVzID0gbmxwX3NvbHZlci5zb2x2ZShzdGFydF9zdGF0ZSwgZmluYWxfc3RhdGUsIHBhcmFtLCBsb3dlcl9ib3VuZHMsCiAgICAgICAgICAgICAgICAgICAgICAgICB1cHBwZXJfYm91bmRzLCAmc29sdXRpb24pOw==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSByYWdkb2xsIG9uIDAxLzA1LzE3LgovLwojcHJhZ21hIG9uY2UK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG5sb3B0LmhwcD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>#include &quot;opt_solver/snopt_problem.hpp&quot;
-#include &quot;opt_solver/nlopt_problem.hpp&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
