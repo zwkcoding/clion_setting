@@ -417,7 +417,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/trajectory_plot.py" timestamp="1494214029151">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/trajectory_plot.py" timestamp="1494276270340">
         <mark key="'" line="549" column="16" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -498,6 +498,13 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/my_trajectory.py" timestamp="1494279596750">
+        <mark key="'" line="190" column="2" />
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="51" column="51" />
+        <mark key="^" line="51" column="51" />
+        <mark key="." line="51" column="51" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/tests/internal_grid_map_test.cpp" timestamp="1492819734041">
         <mark key="'" line="80" column="20" />
         <mark key="[" line="66" column="29" />
@@ -540,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="431" column="16" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="38" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" />
       <jump line="82" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" />
@@ -640,13 +646,14 @@
       <jump line="87" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/csv_file.hpp" />
       <jump line="16" column="13" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/csv_file.hpp" />
       <jump line="1015" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="157" column="2" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/my_trajectory.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHMgKyA=</text>
+        <text>limit_k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHMgKyA=</text>
+        <text>limit_k</text>
       </register>
       <register name="/" type="4">
         <text>Bspline</text>
@@ -655,31 +662,35 @@
         <text>hmpl::endrow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKHgsIHksIGhlYWRpbmcsIGspCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKCBpID09IDAgKSB7CiAgICAgICAgICAgIGN1cnZlLT5hdChpKS5rID0gMDsKICAgICAgICAgICAgY3VydmUtPmF0KGkpLnMgPSAwOwogICAgICAgIH0=</text>
+        <text>print (len(traj_data.x))
+
+print (len(traj_data.y))
+
+print (len(traj_data.heading))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YXguc2V0X3lsaW0oLTUsNSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">YXguc2V0X3hsaW0oLTEsMTMpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y3N2IDw8ICAxICA8PCAiU3RyaW5nIHZhbHVlIiA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgICAgIGNzdiA8PCAgMiAgPDwgMTIzICAgICAgICAgICAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgICAgICBjc3YgPDwgIDMgIDw8IDEuZiAgICAgICAgICAgIDw8IGhtcGw6OmVuZHJvdzsKICAgICAgICAgICAgY3N2IDw8ICA0ICA8PCAxLjIgICAgICAgICAgICA8PCBobXBsOjplbmRyb3c7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">I3ByYWdtYSBvbmNlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKCBpID09IDAgKSB7CiAgICAgICAgICAgIGN1cnZlLT5hdChpKS5rID0gMDsKICAgICAgICAgICAgY3VydmUtPmF0KGkpLnMgPSAwOwogICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y3N2IDw8ICAxICA8PCAiU3RyaW5nIHZhbHVlIiA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgICAgIGNzdiA8PCAgMiAgPDwgMTIzICAgICAgICAgICAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgICAgICBjc3YgPDwgIDMgIDw8IDEuZiAgICAgICAgICAgIDw8IGhtcGw6OmVuZHJvdzsKICAgICAgICAgICAgY3N2IDw8ICA0ICA8PCAxLjIgICAgICAgICAgICA8PCBobXBsOjplbmRyb3c7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
