@@ -423,6 +423,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/path_type.hpp" timestamp="1494305176140">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/README.md" timestamp="1493999396127">
         <mark key="[" line="71" column="76" />
         <mark key="]" line="71" column="84" />
