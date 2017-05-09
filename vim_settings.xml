@@ -461,12 +461,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494349002180">
-        <mark key="'" line="97" column="5" />
-        <mark key="[" line="84" column="3" />
-        <mark key="]" line="84" column="3" />
-        <mark key="." line="84" column="3" />
-        <mark key="^" line="84" column="3" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494357966898">
+        <mark key="'" line="112" column="5" />
+        <mark key="[" line="96" column="29" />
+        <mark key="]" line="96" column="29" />
+        <mark key="." line="96" column="29" />
+        <mark key="^" line="96" column="29" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494286116488">
         <mark key="[" line="17" column="19" />
@@ -655,11 +655,11 @@
       <jump line="30" column="5" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>_s</text>
       </register>
       <register name="-" type="4">
-        <text>OPTLocalPlanner::</text>
+        <text>_s</text>
       </register>
       <register name="/" type="4">
         <text>Bspline</text>
