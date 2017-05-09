@@ -461,12 +461,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494361303399">
-        <mark key="'" line="119" column="5" />
-        <mark key="[" line="97" column="11" />
-        <mark key="]" line="97" column="12" />
-        <mark key="." line="97" column="12" />
-        <mark key="^" line="97" column="37" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494363085699">
+        <mark key="'" line="130" column="5" />
+        <mark key="[" line="115" column="7" />
+        <mark key="]" line="115" column="7" />
+        <mark key="." line="115" column="7" />
+        <mark key="^" line="115" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494286116488">
         <mark key="[" line="17" column="19" />
@@ -656,10 +656,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// state offset curvature</text>
+        <text>num</text>
       </register>
       <register name="-" type="4">
-        <text>// state offset curvature</text>
+        <text>num</text>
       </register>
       <register name="/" type="4">
         <text>Bspline</text>
