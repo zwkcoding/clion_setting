@@ -461,12 +461,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494308539166">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="230" column="49" />
-        <mark key="]" line="230" column="48" />
-        <mark key="." line="230" column="48" />
-        <mark key="^" line="230" column="48" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494309281304">
+        <mark key="'" line="30" column="5" />
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="235" column="25" />
+        <mark key="." line="235" column="25" />
+        <mark key="^" line="235" column="25" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494286116488">
         <mark key="[" line="17" column="19" />
@@ -553,9 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" />
-      <jump line="25" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" />
-      <jump line="26" column="4" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/se2_constraints.h" />
       <jump line="26" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" />
       <jump line="2303" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" />
       <jump line="20" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
@@ -653,19 +650,22 @@
       <jump line="48" column="54" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="195" column="54" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="32" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
+      <jump line="235" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
+      <jump line="24" column="14" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
+      <jump line="30" column="5" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>sampling_state</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>sampling_state</text>
       </register>
       <register name="/" type="4">
         <text>Bspline</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dm9pZCBzYW1wbGluZ19zdGF0ZShjb25zdCBobXBsOjpJbnRlcm5hbEdyaWRNYXAgJmdyaWRfbWFwLAogICAgICAgICAgICAgICAgICAgIGNvbnN0IGFzdGFyOjpQb3NlMkQgc3RhcnQsCiAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3RkOjp2ZWN0b3I8aG1wbDo6U3RhdGU+ICZjdXJ2ZSwKICAgICAgICAgICAgICAgICAgICBkb3VibGUgbG9va2FoZWFkKQ==</text>
+        <text>deepStateSampling</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
