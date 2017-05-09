@@ -58,11 +58,11 @@
         <mark key="^" line="66" column="51" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/package.xml" timestamp="1494286124864">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="29" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/package.xml" timestamp="1494311488142">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="38" />
+        <mark key="^" line="23" column="38" />
+        <mark key="." line="23" column="38" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1494181157987">
         <mark key="'" line="14" column="15" />
@@ -265,14 +265,14 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1493936348919">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1494311939414">
         <mark key="'" line="45" column="15" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="48" column="34" />
-        <mark key="." line="153" column="0" />
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494203932490">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494311463452">
         <mark key="'" line="266" column="5" />
         <mark key="[" line="263" column="39" />
         <mark key="]" line="264" column="24" />
@@ -292,7 +292,7 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1494204077738">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1494311658625">
         <mark key="'" line="3" column="31" />
         <mark key="[" line="41" column="54" />
         <mark key="]" line="41" column="53" />
@@ -461,12 +461,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494311198437">
-        <mark key="'" line="77" column="5" />
-        <mark key="[" line="88" column="3" />
-        <mark key="]" line="54" column="9" />
-        <mark key="." line="54" column="9" />
-        <mark key="^" line="54" column="9" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494311759307">
+        <mark key="'" line="78" column="5" />
+        <mark key="[" line="282" column="8" />
+        <mark key="]" line="285" column="33" />
+        <mark key="." line="285" column="33" />
+        <mark key="^" line="285" column="33" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494286116488">
         <mark key="[" line="17" column="19" />
@@ -655,8 +655,8 @@
       <jump line="30" column="5" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OPTLocalPlanner::</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>OPTLocalPlanner::</text>
@@ -667,20 +667,20 @@
       <register name="0" type="4">
         <text>deepStateSampling</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">dm9pZCBzaW5nbGVfc2FtcGxpbmcoY29uc3QgaG1wbDo6SW50ZXJuYWxHcmlkTWFwICZncmlkX21hcCwKICAgICAgICAgICAgICAgICAgICAgY29uc3QgaG1wbDo6U3RhdGUgJnN0YXJ0LAogICAgICAgICAgICAgICAgICAgICBjb25zdCBobXBsOjpTdGF0ZSAmZ29hbCwKICAgICAgICAgICAgICAgICAgICAgc3RkOjp2ZWN0b3I8aG1wbDo6U3RhdGU+ICpzZWxlY3RlZCkgewogICAgCn0KCnZvaWQgc2VsZWN0QmVzdFBhdGgodm9pZCkgewoKfQoKCnN0ZDo6dmVjdG9yPGhtcGw6OlN0YXRlPiBnZXRMb25Hb2FsU2V0KGNvbnN0IGFzdGFyOjpQb3NlMkQgJnN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OnZlY3RvcjxobXBsOjpTdGF0ZT4gJmN1cnZlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb3VibGUgbG9va2FoZWFkKSB7CiAgICBzdGQ6OnZlY3RvcjxobXBsOjpTdGF0ZT4gbG9uX2dvYWxfc2V0OwogICAgCiAgICByZXR1cm4gbG9uX2dvYWxfc2V0Owp9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGthcHBhX3NldC4gPSBrYXBwYV9saXN0LmhlYWRlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGthcHBhX3NldC4gPSBrYXBwYV9saXN0LmhlYWRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -689,12 +689,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBsZW5ndGggPSAxOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>kappa_list.header.frame_id = &quot;map&quot;;
-        kappa_list.ns = &quot;modifed_path&quot;;
-        kappa_list.id = 1;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRvdWJsZSBsZW5ndGggPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
