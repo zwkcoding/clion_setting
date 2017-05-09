@@ -455,12 +455,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494300819958">
-        <mark key="'" line="195" column="54" />
-        <mark key="[" line="195" column="51" />
-        <mark key="]" line="195" column="49" />
-        <mark key="." line="195" column="49" />
-        <mark key="^" line="195" column="49" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494304307164">
+        <mark key="'" line="224" column="54" />
+        <mark key="[" line="42" column="1" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494286116488">
         <mark key="[" line="17" column="19" />
@@ -649,17 +649,17 @@
       <jump line="195" column="54" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gY3VydmF0dXJlX2xpbWl0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Bspline</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrYXBwYV9saXN0LnBvaW50cy5wdXNoX2JhY2socHQxKTsK</text>
+      <register name="0" type="4">
+        <text>hmpl::InternalGridMap</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
