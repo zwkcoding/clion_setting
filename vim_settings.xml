@@ -455,12 +455,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494292407689">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494295885792">
         <mark key="'" line="50" column="54" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="3" />
-        <mark key="^" line="56" column="3" />
-        <mark key="." line="56" column="3" />
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="57" column="37" />
+        <mark key="^" line="57" column="37" />
+        <mark key="." line="57" column="37" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494286116488">
         <mark key="[" line="17" column="19" />
