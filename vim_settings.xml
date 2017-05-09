@@ -455,9 +455,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494286319432">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494292407689">
         <mark key="'" line="50" column="54" />
-        <mark key="[" line="53" column="1" />
+        <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="3" />
         <mark key="^" line="56" column="3" />
         <mark key="." line="56" column="3" />
