@@ -27,7 +27,6 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/v_repExtUrdf.pro" timestamp="1494401369642" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solution.hpp" timestamp="1494184021374">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="19" />
@@ -59,7 +58,6 @@
         <mark key="^" line="66" column="51" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/v_repExtUrdf.cpp" timestamp="1494403525570" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/package.xml" timestamp="1494368961841">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -194,7 +192,6 @@
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/urdfdialog.cpp" timestamp="1494403027950">
         <mark key="'" line="176" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.h" timestamp="1494405311933" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" timestamp="1493756889699">
         <mark key="'" line="5" column="15" />
         <mark key="[" line="96" column="2" />
@@ -280,7 +277,6 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/urdfdialog.h" timestamp="1494402885453" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1494311939414">
         <mark key="'" line="45" column="15" />
         <mark key="[" line="14" column="10" />
@@ -436,7 +432,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.h" timestamp="1494404198877" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/path_type.hpp" timestamp="1494305829559">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="15" column="80" />
@@ -475,12 +470,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494371666295">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494454971048">
         <mark key="'" line="20" column="49" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="^" line="161" column="20" />
-        <mark key="." line="161" column="0" />
+        <mark key="[" line="84" column="27" />
+        <mark key="]" line="84" column="27" />
+        <mark key="^" line="84" column="27" />
+        <mark key="." line="84" column="27" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494368973390">
         <mark key="[" line="17" column="0" />
