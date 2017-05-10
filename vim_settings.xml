@@ -65,8 +65,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.cpp" timestamp="1494402631124">
-        <mark key="'" line="205" column="15" />
+      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.cpp" timestamp="1494404346958">
+        <mark key="'" line="66" column="14" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1494181157987">
         <mark key="'" line="14" column="15" />
@@ -194,12 +194,20 @@
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/urdfdialog.cpp" timestamp="1494403027950">
         <mark key="'" line="176" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.h" timestamp="1494405311933" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" timestamp="1493756889699">
         <mark key="'" line="5" column="15" />
         <mark key="[" line="96" column="2" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
         <mark key="^" line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="301" column="85" />
+        <mark key="]" line="301" column="94" />
+        <mark key="^" line="301" column="94" />
+        <mark key="." line="301" column="94" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/launch/modified_path_demo.launch" timestamp="1493767253203">
         <mark key="[" line="3" column="86" />
@@ -319,6 +327,9 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/tinyxml2.h" timestamp="1494403907251">
+        <mark key="e" line="195" column="0" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" timestamp="1494211341569">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="180" column="0" />
@@ -425,13 +436,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/trajectory_plot.py" timestamp="1494276270340">
-        <mark key="'" line="549" column="16" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.h" timestamp="1494402863229" />
+      <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.h" timestamp="1494404198877" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/path_type.hpp" timestamp="1494305829559">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="15" column="80" />
@@ -546,12 +551,6 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1494212212350">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/internal_grid_map.hpp" timestamp="1494370111355">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="60" />
@@ -568,8 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" />
-      <jump line="5" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" />
       <jump line="19" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/opt_base.h" />
       <jump line="74" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" />
       <jump line="30" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
@@ -668,6 +665,8 @@
       <jump line="83" column="28" filename="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.cpp" />
       <jump line="204" column="23" filename="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.cpp" />
       <jump line="205" column="15" filename="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.cpp" />
+      <jump line="66" column="14" filename="$USER_HOME$/workspace/codes/v_repExtUrdf/robot.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -677,7 +676,7 @@
         <text>lat_goals.push_back(tmp_state);</text>
       </register>
       <register name="/" type="4">
-        <text>vLinks</text>
+        <text>Importing</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyh0bXBfc3RhdGUueCwgdG1wX3N0YXRlLnkpOwogICAgICAgICAgICBkb3VibGUgZGlzdCA9IGdyaWRfbWFwLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiBzYWZlX2Rpc3RhbmNlKSB7CiAgICAgICAgICAgICAgICBsYXRfZ29hbHMucHVzaF9iYWNrKHRtcF9zdGF0ZSk7CiAgICAgICAgICAgIH0=</text>
@@ -715,9 +714,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vLinks</last-search>
+      <last-search>Importing</last-search>
       <last-offset />
-      <last-pattern>vLinks</last-pattern>
+      <last-pattern>Importing</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -725,11 +724,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spaceExpl</entry>
-        <entry>optimizePath</entry>
-        <entry>processNOde</entry>
-        <entry>space</entry>
-        <entry>processNode</entry>
         <entry>Update</entry>
         <entry>after interpolation</entry>
         <entry>before interpolation</entry>
@@ -745,6 +739,11 @@
         <entry>Bspline</entry>
         <entry>import</entry>
         <entry>vLinks</entry>
+        <entry>mesh</entry>
+        <entry>geometry</entry>
+        <entry>createLinks</entry>
+        <entry>dae</entry>
+        <entry>Importing</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
