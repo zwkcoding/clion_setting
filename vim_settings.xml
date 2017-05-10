@@ -98,6 +98,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling_base.hpp" timestamp="1494456917768">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/quadratic_cost_function_test.cpp" timestamp="1493841398627">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="9" />
@@ -264,11 +270,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494360373300">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="58" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494456854271">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" timestamp="1493757525770">
         <mark key="'" line="74" column="3" />
@@ -470,12 +476,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494454971048">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494456538086">
         <mark key="'" line="20" column="49" />
-        <mark key="[" line="84" column="27" />
-        <mark key="]" line="84" column="27" />
-        <mark key="^" line="84" column="27" />
-        <mark key="." line="84" column="27" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="182" column="1" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494368973390">
         <mark key="[" line="17" column="0" />
@@ -665,7 +670,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gYmFzZSBjbGFzcyAK</text>
       </register>
       <register name="-" type="4">
         <text>lat_goals.push_back(tmp_state);</text>
@@ -677,32 +682,31 @@
         <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyh0bXBfc3RhdGUueCwgdG1wX3N0YXRlLnkpOwogICAgICAgICAgICBkb3VibGUgZGlzdCA9IGdyaWRfbWFwLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiBzYWZlX2Rpc3RhbmNlKSB7CiAgICAgICAgICAgICAgICBsYXRfZ29hbHMucHVzaF9iYWNrKHRtcF9zdGF0ZSk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gYmFzZSBjbGFzcyAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnZvaWQgc2luZ2xlX3NhbXBsaW5nKGNvbnN0IGhtcGw6OkludGVybmFsR3JpZE1hcCAmZ3JpZF9tYXAsCiAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGhtcGw6OlN0YXRlICZzdGFydCwKICAgICAgICAgICAgICAgICAgICAgY29uc3QgaG1wbDo6U3RhdGUgJmdvYWwsCiAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSBvZmZzZXQsCiAgICAgICAgICAgICAgICAgICAgIHN0ZDo6c2l6ZV90IG51bSwKICAgICAgICAgICAgICAgICAgICAgc3RkOjp2ZWN0b3I8aG1wbDo6U3RhdGU+ICpzZWxlY3RlZCkgewogICAgLy8gc3RhcnQgdGhlIHNpbmdsZSBzYW1wbGluZyAsIHdpdGggb25seSBvbmUgbG9uZ2l0dWRlIGdvYWwKICAgIGRvdWJsZSBzYWZlX2Rpc3RhbmNlID0gMS42OwogICAgc3RkOjp2ZWN0b3I8aG1wbDo6U3RhdGU+IGdvYWxfc3RhdGVzID0gZ2V0TGF0R29hbFNldChncmlkX21hcCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ29hbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb2Zmc2V0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYWZlX2Rpc3RhbmNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzKTsKICAgIAp9</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBlbHNlIHsKICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayh0bXBfc3RhdGUpOwogICAgICAgIH0=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBlbHNlIHsKICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBlbHNlIHsKICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>else {
-            }</text>
+        <text encoding="base64">ICBlbHNlIHsKICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayh0bXBfc3RhdGUpOwogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
