@@ -285,7 +285,7 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494528530105">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494531128321">
         <mark key="[" line="56" column="54" />
         <mark key="]" line="58" column="33" />
         <mark key="^" line="58" column="33" />
@@ -312,11 +312,11 @@
         <mark key="." line="264" column="24" />
         <mark key="^" line="264" column="24" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494528572076">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494531353295">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -712,11 +712,18 @@
       <jump line="10" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z20udXBkYXRlRGlzdGFuY2VMYXllcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>unsigned int rows, cols;
+        rows = 800;
+        cols = 800;
+        double resolution = 0.1;
+        cv::Mat img(rows, cols, CV_8UC1, 255);
+        gm.initializeFromImage(img, resolution, grid_map::Position::Zero());
+        gm.addObstacleLayerFromImage(img);
+        gm.updateDistanceLayer();</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgU3RhdGUgJnJlY2VudF9zdGF0ZSwgY29uc3Qgc3RkOjp2ZWN0b3I8U3RhdGU+ICZjdXJ2ZQ==</text>
+        <text>construct</text>
       </register>
       <register name="/" type="4">
         <text>Importing</text>
@@ -724,32 +731,39 @@
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgU3RhdGUgJnJlY2VudF9zdGF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6dmVjdG9yPFN0YXRlPiAmY3VydmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnNpemVfdCAqY2xvc2VzdF9pbmRleA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Z20udXBkYXRlRGlzdGFuY2VMYXllcigpOwo=</text>
+      <register name="1" type="4">
+        <text>unsigned int rows, cols;
+        rows = 800;
+        cols = 800;
+        double resolution = 0.1;
+        cv::Mat img(rows, cols, CV_8UC1, 255);
+        gm.initializeFromImage(img, resolution, grid_map::Position::Zero());
+        gm.addObstacleLayerFromImage(img);
+        gm.updateDistanceLayer();</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z20uYWRkT2JzdGFjbGVMYXllckZyb21JbWFnZShpbWcpOwo=</text>
+        <text encoding="base64">Z20udXBkYXRlRGlzdGFuY2VMYXllcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z20uaW5pdGlhbGl6ZUZyb21JbWFnZShpbWcsIHJlc29sdXRpb24sIGdyaWRfbWFwOjpQb3NpdGlvbjo6WmVybygpKTsK</text>
+        <text encoding="base64">Z20uYWRkT2JzdGFjbGVMYXllckZyb21JbWFnZShpbWcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3Y6Ok1hdCBpbWcocm93cywgY29scywgQ1ZfOFVDMSwgMjU1KTsK</text>
+        <text encoding="base64">Z20uaW5pdGlhbGl6ZUZyb21JbWFnZShpbWcsIHJlc29sdXRpb24sIGdyaWRfbWFwOjpQb3NpdGlvbjo6WmVybygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG91YmxlIHJlc29sdXRpb24gPSAxLjA7Cg==</text>
+        <text encoding="base64">Y3Y6Ok1hdCBpbWcocm93cywgY29scywgQ1ZfOFVDMSwgMjU1KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29scyA9IDUwMDsK</text>
+        <text encoding="base64">ZG91YmxlIHJlc29sdXRpb24gPSAxLjA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cm93cyA9IDUwMDsK</text>
+        <text encoding="base64">Y29scyA9IDUwMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dW5zaWduZWQgaW50IHJvd3MsIGNvbHM7Cg==</text>
+        <text encoding="base64">cm93cyA9IDUwMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aG1wbDo6SW50ZXJuYWxHcmlkTWFwIGdtOwo=</text>
+        <text encoding="base64">dW5zaWduZWQgaW50IHJvd3MsIGNvbHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
