@@ -267,10 +267,10 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494474795311">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494477986307">
         <mark key="'" line="163" column="40" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="40" column="59" />
         <mark key="^" line="20" column="33" />
         <mark key="." line="12" column="0" />
       </file>
@@ -422,6 +422,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494480361069">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="27" column="79" />
+        <mark key="." line="27" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="301" column="85" />
@@ -461,11 +467,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494473007005">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494480495178">
+        <mark key="[" line="26" column="79" />
+        <mark key="]" line="27" column="78" />
+        <mark key="^" line="27" column="78" />
+        <mark key="." line="27" column="78" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1494473320119">
         <mark key="'" line="44" column="15" />
@@ -552,11 +558,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494368973390">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494478175035">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="46" column="23" />
+        <mark key="." line="46" column="23" />
+        <mark key="^" line="46" column="23" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quatratic_cost_function.h" timestamp="1493665595814">
         <mark key="[" line="65" column="9" />
@@ -699,44 +705,48 @@
       <jump line="166" column="40" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbnN0YW50cy5ocHAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>double offset,
+                                       double safe_distance,
+                                       std::size_t half_num</text>
       </register>
       <register name="-" type="4">
-        <text>OPT_</text>
+        <text>hmpl::</text>
       </register>
       <register name="/" type="4">
         <text>Importing</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyh0bXBfc3RhdGUueCwgdG1wX3N0YXRlLnkpOwogICAgICAgICAgICBkb3VibGUgZGlzdCA9IGdyaWRfbWFwLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiBzYWZlX2Rpc3RhbmNlKSB7CiAgICAgICAgICAgICAgICBsYXRfZ29hbHMucHVzaF9iYWNrKHRtcF9zdGF0ZSk7CiAgICAgICAgICAgIH0=</text>
+        <text>half_num_</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbnN0YW50cy5ocHAiCg==</text>
+      <register name="1" type="4">
+        <text>double offset,
+                                       double safe_distance,
+                                       std::size_t half_num</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGRvdWJsZSBvZmZzZXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSBzYWZlX2Rpc3RhbmNlLA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">c3RkOjp2ZWN0b3I8aG1wbDo6U3RhdGU+IFN0YXRlU2FtcGxpbmc6OmdldExhdEdvYWxTZXQoY29uc3QgaG1wbDo6U3RhdGUgJnN0YXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb3VibGUgb2Zmc2V0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb3VibGUgc2FmZV9kaXN0YW5jZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpzaXplX3QgaGFsZl9udW0pIHsKICAgIHJldHVybiBzdGQ6OnZlY3RvcjxTdGF0ZT4oKTsKfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3ByYWdtYSBvbmNlCg==</text>
+        <text encoding="base64">ICAgICAgIFN0YXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHJvcy9yb3MuaD4K</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbnN0YW50cy5ocHAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG9wdF91dGlscy9jc3ZfZmlsZS5ocHA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG9wdF91dGlscy91dGlscy5ocHA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNzdl9maWxlLmhwcCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
