@@ -166,11 +166,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494614480371">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="14" column="19" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494623872462">
+        <mark key="[" line="37" column="2" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -735,8 +735,8 @@
       <jump line="215" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgdXNpbmcgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT47Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -748,31 +748,31 @@
         <text encoding="base64">Y29uc3QgU3RhdGUgJnN0YXJ0X2ludGVybWVkaWF0ZSwgY29uc3QgU3RhdGUgJmVuZF9pbnRlcm1lZGlhdGU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgdXNpbmcgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT47Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgdGhpcy0+Zm9vdF9wcmludF8gPSB7VmVjdG9yMkQ8ZG91YmxlPigpfTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">YXN0YXI6OlZlY3RvcjJEPGRvdWJsZT4gcmVhcl9yaWdodF87CiAgICBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiBmcm9udF9yaWdodF87CiAgICBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiBmcm9udF9sZWZ0XzsKICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IHJlYXJfbGVmdF87</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IGZyb250X3JpZ2h0XzsKICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IGZyb250X2xlZnRfOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IHByaXZhdGU6Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPnNpbmdsZV9waGFzZV9wYXRoXy5jbGVhcigpOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInBhdGhfdHlwZS5ocHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRoaXMtPnNpbmdsZV9waGFzZV9wYXRoXy5jbGVhcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
