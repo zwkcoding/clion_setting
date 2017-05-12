@@ -432,12 +432,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494602423783">
-        <mark key="'" line="244" column="3" />
-        <mark key="[" line="233" column="46" />
-        <mark key="]" line="233" column="34" />
-        <mark key="." line="233" column="34" />
-        <mark key="^" line="233" column="34" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494605926103">
+        <mark key="'" line="262" column="3" />
+        <mark key="[" line="253" column="76" />
+        <mark key="]" line="253" column="76" />
+        <mark key="." line="253" column="76" />
+        <mark key="^" line="253" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -607,11 +607,11 @@
         <mark key="." line="59" column="22" />
         <mark key="^" line="59" column="22" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/car_footprint.hpp" timestamp="1494369579704">
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="31" column="26" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/car_footprint.hpp" timestamp="1494606130793">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="33" column="3" />
+        <mark key="^" line="33" column="3" />
+        <mark key="." line="33" column="3" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/base.h" timestamp="1494472835046">
         <mark key="[" line="104" column="10" />
@@ -724,10 +724,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_state</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>_state</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>Importing</text>
@@ -736,31 +736,31 @@
         <text encoding="base64">Y29uc3QgU3RhdGUgJnN0YXJ0X2ludGVybWVkaWF0ZSwgY29uc3QgU3RhdGUgJmVuZF9pbnRlcm1lZGlhdGU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IGZyb250X3JpZ2h0XzsKICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IGZyb250X2xlZnRfOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPnNpbmdsZV9waGFzZV9wYXRoXy5jbGVhcigpOwo=</text>
+        <text encoding="base64">IHByaXZhdGU6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInBhdGhfdHlwZS5ocHAiCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMtPnNpbmdsZV9waGFzZV9wYXRoXy5jbGVhcigpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgInBhdGhfdHlwZS5ocHAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0YXRlIGVuZF9sb2NhbCA9IGdsb2JhbFRvTG9jYWwodGhpcy0+c3RhcnRfc3RhdGVfLCBlbmRfaW50ZXJtZWRpYXRlKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHZvaWQgc2ltcGxlU3RhdGVTYW1wbGluZygpOwo=</text>
+        <text encoding="base64">ICAgIFN0YXRlIGVuZF9sb2NhbCA9IGdsb2JhbFRvTG9jYWwodGhpcy0+c3RhcnRfc3RhdGVfLCBlbmRfaW50ZXJtZWRpYXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
