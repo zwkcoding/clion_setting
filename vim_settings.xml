@@ -410,11 +410,11 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/car_geometry.hpp" timestamp="1494614335508">
-        <mark key="[" line="69" column="55" />
-        <mark key="]" line="70" column="70" />
-        <mark key="." line="70" column="70" />
-        <mark key="^" line="70" column="70" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/car_geometry.hpp" timestamp="1494619102808">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="0" />
       </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" timestamp="1493999507662">
         <mark key="'" line="192" column="39" />
