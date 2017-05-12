@@ -166,11 +166,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494624786985">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="2" />
-        <mark key="." line="45" column="2" />
-        <mark key="^" line="45" column="2" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494625628018">
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="40" />
+        <mark key="." line="64" column="40" />
+        <mark key="^" line="64" column="40" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -575,12 +575,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494272518383">
-        <mark key="'" line="1015" column="0" />
-        <mark key="[" line="1019" column="25" />
-        <mark key="]" line="1019" column="24" />
-        <mark key="^" line="1019" column="24" />
-        <mark key="." line="1019" column="24" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494625240827">
+        <mark key="'" line="117" column="31" />
+        <mark key="[" line="799" column="36" />
+        <mark key="]" line="799" column="36" />
+        <mark key="^" line="1188" column="55" />
+        <mark key="." line="799" column="36" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/constants.h" timestamp="1493760085735">
         <mark key="[" line="8" column="0" />
@@ -633,11 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
-      <jump line="4" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/src/base.cpp" />
-      <jump line="9" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/si_bending_energy.h" />
-      <jump line="12" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" />
-      <jump line="451" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/si_bending_energy.cpp" />
       <jump line="62" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/si_bending_energy.h" />
       <jump line="45" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" />
       <jump line="55" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
@@ -733,16 +728,21 @@
       <jump line="145" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" />
       <jump line="13" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" />
       <jump line="215" column="3" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="1019" column="24" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="1188" column="55" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="799" column="36" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="118" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="117" column="31" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgdGhpcy0+Y2VudGVyc18ucHVzaF9iYWNrKGRkZGQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>Importing</text>
+        <text>Distance2</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29uc3QgU3RhdGUgJnN0YXJ0X2ludGVybWVkaWF0ZSwgY29uc3QgU3RhdGUgJmVuZF9pbnRlcm1lZGlhdGU=</text>
@@ -779,9 +779,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Importing</last-search>
+      <last-search>Distance2</last-search>
       <last-offset />
-      <last-pattern>Importing</last-pattern>
+      <last-pattern>Distance2</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -789,7 +789,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Update</entry>
         <entry>after interpolation</entry>
         <entry>before interpolation</entry>
         <entry>The length before</entry>
@@ -809,6 +808,7 @@
         <entry>createLinks</entry>
         <entry>dae</entry>
         <entry>Importing</entry>
+        <entry>Distance2</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
