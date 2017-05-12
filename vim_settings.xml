@@ -195,12 +195,12 @@
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494543943867">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494547754187">
         <mark key="'" line="10" column="33" />
-        <mark key="[" line="94" column="35" />
-        <mark key="]" line="98" column="35" />
-        <mark key="." line="98" column="35" />
-        <mark key="^" line="98" column="35" />
+        <mark key="[" line="200" column="3" />
+        <mark key="]" line="30" column="56" />
+        <mark key="." line="30" column="56" />
+        <mark key="^" line="30" column="56" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1494038701339">
         <mark key="'" line="9" column="15" />
@@ -294,11 +294,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494545034016">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="68" column="9" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494548017265">
+        <mark key="[" line="87" column="18" />
+        <mark key="]" line="87" column="51" />
+        <mark key="^" line="87" column="51" />
+        <mark key="." line="87" column="51" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" timestamp="1493757525770">
         <mark key="'" line="74" column="3" />
@@ -321,11 +321,12 @@
         <mark key="." line="264" column="24" />
         <mark key="^" line="264" column="24" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494544424585">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494548326429">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="135" column="40" />
+        <mark key="]" line="135" column="50" />
+        <mark key="." line="135" column="50" />
+        <mark key="^" line="135" column="50" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -483,11 +484,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/path_type.hpp" timestamp="1494305829559">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="15" column="80" />
-        <mark key="^" line="15" column="80" />
-        <mark key="." line="15" column="80" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/path_type.hpp" timestamp="1494548127547">
+        <mark key="[" line="19" column="81" />
+        <mark key="]" line="19" column="79" />
+        <mark key="^" line="19" column="79" />
+        <mark key="." line="19" column="79" />
       </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/README.md" timestamp="1493999396127">
         <mark key="[" line="71" column="76" />
@@ -721,17 +722,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>hpp</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Importing</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgKGdyaWRfbWFwXy5tYXBzLmlzSW5zaWRlKHBvcykpIHsKICAgICAgICAgICAgICAgIGRvdWJsZSBkaXN0ID0gdGhpcy0+Z3JpZF9tYXBfLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgICAgIGlmIChkaXN0ID4gdGhpcy0+c2FmZV9kaXN0YW5jZV8pIHsKICAgICAgICAgICAgICAgICAgICBsYXRfZ29hbHMucHVzaF9iYWNrKHRtcF9zdGF0ZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">Y29uc3QgU3RhdGUgJnN0YXJ0X2ludGVybWVkaWF0ZSwgY29uc3QgU3RhdGUgJmVuZF9pbnRlcm1lZGlhdGU=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
