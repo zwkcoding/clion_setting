@@ -294,11 +294,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494548017265">
-        <mark key="[" line="87" column="18" />
-        <mark key="]" line="87" column="51" />
-        <mark key="^" line="87" column="51" />
-        <mark key="." line="87" column="51" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494548965688">
+        <mark key="[" line="70" column="17" />
+        <mark key="]" line="70" column="33" />
+        <mark key="^" line="70" column="33" />
+        <mark key="." line="70" column="33" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" timestamp="1493757525770">
         <mark key="'" line="74" column="3" />
