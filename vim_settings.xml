@@ -21,6 +21,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/car_geometry_test.cpp" timestamp="1494637446041">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/csv_file.hpp" timestamp="1494473088863">
         <mark key="'" line="16" column="13" />
         <mark key="[" line="90" column="7" />
@@ -503,10 +509,10 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494634764229">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494637410750">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="135" column="40" />
-        <mark key="]" line="135" column="50" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="146" column="0" />
         <mark key="." line="135" column="50" />
         <mark key="^" line="135" column="50" />
       </file>
@@ -735,8 +741,8 @@
       <jump line="117" column="31" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmludCBtYWluKGludCBhcmdjLCBjaGFyICoqYXJndikgewogICAgOjp0ZXN0aW5nOjpJbml0R29vZ2xlVGVzdCgmYXJnYywgYXJndik7CiAgICByZXR1cm4gUlVOX0FMTF9URVNUUygpOwp9</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -745,7 +751,7 @@
         <text>Distance2</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29uc3QgU3RhdGUgJnN0YXJ0X2ludGVybWVkaWF0ZSwgY29uc3QgU3RhdGUgJmVuZF9pbnRlcm1lZGlhdGU=</text>
+        <text encoding="base64">CmludCBtYWluKGludCBhcmdjLCBjaGFyICoqYXJndikgewogICAgOjp0ZXN0aW5nOjpJbml0R29vZ2xlVGVzdCgmYXJnYywgYXJndik7CiAgICByZXR1cm4gUlVOX0FMTF9URVNUUygpOwp9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
