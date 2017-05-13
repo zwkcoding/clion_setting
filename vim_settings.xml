@@ -172,11 +172,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494638027438">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494657658401">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="40" column="11" />
+        <mark key="^" line="40" column="11" />
+        <mark key="." line="40" column="11" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -501,11 +501,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494612598711">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="35" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494658040502">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="136" column="47" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1494473320119">
         <mark key="'" line="44" column="15" />
@@ -644,8 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/si_bending_energy.h" />
-      <jump line="45" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" />
       <jump line="55" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quadratic_cost_function.h" />
       <jump line="17" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/CMakeLists.txt" />
@@ -744,10 +743,12 @@
       <jump line="799" column="36" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="118" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="117" column="31" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="87" column="40" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dHJ5CiAgICB7CiAgICAgICAgaG1wbDo6Y3N2ZmlsZSBjc3YoImNhci5jc3YiKTsgLy8gdGhyb3dzIGV4Y2VwdGlvbnMhCiAgICAgICAgLy8gSGVhcmVyCiAgICAgICAgY3N2IDw8ICJ4IiA8PCAieSIgIDw8ICJyIiAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgIAogICAgICAgIGZvciAoc3RkOjpzaXplX3QgaSA9IDA7IGkgPCBjYXIuZ2V0Rm9vdFByaW50KCkuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgY3N2IDw8IGNhci5nZXRGb290UHJpbnQoKVtpXS54IDw8IGNhci5nZXRGb290UHJpbnQoKVtpXS55IDw8IDAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgIH0KICAgICAgICAvLyBEYXRhCiAgICAgICAgZm9yIChhdXRvICZpdHIgOiBjYXIuZ2V0Q2VudGVycygpKSB7CiAgICAgICAgICAgIGNzdiA8PCBpdHIucG9zaXRpb24ueCA8PCBpdHIucG9zaXRpb24ueSA8PCBpdHIuciA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgfQogICAgfQogICAgY2F0Y2ggKGNvbnN0IHN0ZDo6ZXhjZXB0aW9uJiBleCkKICAgIHsKICAgICAgICBzdGQ6OmNvdXQgPDwgIkV4Y2VwdGlvbiB3YXMgdGhyb3duOiAiIDw8IGV4LndoYXQoKSA8PCBzdGQ6OmVuZGw7CiAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICUuNGY=</text>
@@ -763,36 +764,36 @@
         self.heading = df['z']
         self.k = df['k']</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">dHJ5CiAgICB7CiAgICAgICAgaG1wbDo6Y3N2ZmlsZSBjc3YoImNhci5jc3YiKTsgLy8gdGhyb3dzIGV4Y2VwdGlvbnMhCiAgICAgICAgLy8gSGVhcmVyCiAgICAgICAgY3N2IDw8ICJ4IiA8PCAieSIgIDw8ICJyIiAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgIAogICAgICAgIGZvciAoc3RkOjpzaXplX3QgaSA9IDA7IGkgPCBjYXIuZ2V0Rm9vdFByaW50KCkuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgY3N2IDw8IGNhci5nZXRGb290UHJpbnQoKVtpXS54IDw8IGNhci5nZXRGb290UHJpbnQoKVtpXS55IDw8IDAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgIH0KICAgICAgICAvLyBEYXRhCiAgICAgICAgZm9yIChhdXRvICZpdHIgOiBjYXIuZ2V0Q2VudGVycygpKSB7CiAgICAgICAgICAgIGNzdiA8PCBpdHIucG9zaXRpb24ueCA8PCBpdHIucG9zaXRpb24ueSA8PCBpdHIuciA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgfQogICAgfQogICAgY2F0Y2ggKGNvbnN0IHN0ZDo6ZXhjZXB0aW9uJiBleCkKICAgIHsKICAgICAgICBzdGQ6OmNvdXQgPDwgIkV4Y2VwdGlvbiB3YXMgdGhyb3duOiAiIDw8IGV4LndoYXQoKSA8PCBzdGQ6OmVuZGw7CiAgICB9</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>error = self.circles[0].r - self.width / 4.0
         error2 = self.circles[5].r - self.width / 2.0
         print (&quot;Error:&quot;, error)
         print (&quot;Litter Error&quot;, error2)</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJzdGQiKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFscGhhID0gMC41LAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>,
                 fill=False</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBheD1zdWJwbG90KGFzcGVjdD0nZXF1YWwnKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBheC5heGlzKCJlcXVhbCIpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAobGVuKHNlbGYucG9pbnRzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
