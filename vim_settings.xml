@@ -455,12 +455,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494605926103">
-        <mark key="'" line="262" column="3" />
-        <mark key="[" line="253" column="76" />
-        <mark key="]" line="253" column="76" />
-        <mark key="." line="253" column="76" />
-        <mark key="^" line="253" column="76" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494659194733">
+        <mark key="'" line="271" column="3" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="266" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -515,12 +515,12 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494637410750">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494659077889">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="135" column="50" />
-        <mark key="^" line="135" column="50" />
+        <mark key="[" line="144" column="46" />
+        <mark key="]" line="145" column="3" />
+        <mark key="." line="145" column="3" />
+        <mark key="^" line="145" column="3" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/utils.h" timestamp="1493756833254">
         <mark key="'" line="6" column="0" />
@@ -748,7 +748,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICUuNGY=</text>
@@ -765,35 +765,34 @@
         self.k = df['k']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3RvcjxQYXRoV2l0aENvc3Q+IHBhdGhfc2V0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">dHJ5CiAgICB7CiAgICAgICAgaG1wbDo6Y3N2ZmlsZSBjc3YoImNhci5jc3YiKTsgLy8gdGhyb3dzIGV4Y2VwdGlvbnMhCiAgICAgICAgLy8gSGVhcmVyCiAgICAgICAgY3N2IDw8ICJ4IiA8PCAieSIgIDw8ICJyIiAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgIAogICAgICAgIGZvciAoc3RkOjpzaXplX3QgaSA9IDA7IGkgPCBjYXIuZ2V0Rm9vdFByaW50KCkuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgY3N2IDw8IGNhci5nZXRGb290UHJpbnQoKVtpXS54IDw8IGNhci5nZXRGb290UHJpbnQoKVtpXS55IDw8IDAgPDwgaG1wbDo6ZW5kcm93OwogICAgICAgIH0KICAgICAgICAvLyBEYXRhCiAgICAgICAgZm9yIChhdXRvICZpdHIgOiBjYXIuZ2V0Q2VudGVycygpKSB7CiAgICAgICAgICAgIGNzdiA8PCBpdHIucG9zaXRpb24ueCA8PCBpdHIucG9zaXRpb24ueSA8PCBpdHIuciA8PCBobXBsOjplbmRyb3c7CiAgICAgICAgfQogICAgfQogICAgY2F0Y2ggKGNvbnN0IHN0ZDo6ZXhjZXB0aW9uJiBleCkKICAgIHsKICAgICAgICBzdGQ6OmNvdXQgPDwgIkV4Y2VwdGlvbiB3YXMgdGhyb3duOiAiIDw8IGV4LndoYXQoKSA8PCBzdGQ6OmVuZGw7CiAgICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>error = self.circles[0].r - self.width / 4.0
         error2 = self.circles[5].r - self.width / 2.0
         print (&quot;Error:&quot;, error)
         print (&quot;Litter Error&quot;, error2)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJzdGQiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFscGhhID0gMC41LAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>,
-                fill=False</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
