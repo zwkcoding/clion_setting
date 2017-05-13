@@ -166,11 +166,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494625628018">
-        <mark key="[" line="64" column="40" />
-        <mark key="]" line="64" column="40" />
-        <mark key="." line="64" column="40" />
-        <mark key="^" line="64" column="40" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494634703985">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="79" column="36" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -503,7 +503,7 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494548326429">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494634764229">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="135" column="40" />
         <mark key="]" line="135" column="50" />
@@ -735,8 +735,8 @@
       <jump line="117" column="31" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -748,31 +748,31 @@
         <text encoding="base64">Y29uc3QgU3RhdGUgJnN0YXJ0X2ludGVybWVkaWF0ZSwgY29uc3QgU3RhdGUgJmVuZF9pbnRlcm1lZGlhdGU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgdGhpcy0+Y2VudGVyc18ucHVzaF9iYWNrKGRkZGQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgdXNpbmcgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT47Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgdGhpcy0+Zm9vdF9wcmludF8gPSB7VmVjdG9yMkQ8ZG91YmxlPigpfTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YXN0YXI6OlZlY3RvcjJEPGRvdWJsZT4gcmVhcl9yaWdodF87CiAgICBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiBmcm9udF9yaWdodF87CiAgICBhc3Rhcjo6VmVjdG9yMkQ8ZG91YmxlPiBmcm9udF9sZWZ0XzsKICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IHJlYXJfbGVmdF87</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IGZyb250X3JpZ2h0XzsKICAgIGFzdGFyOjpWZWN0b3IyRDxkb3VibGU+IGZyb250X2xlZnRfOwo=</text>
+        <text encoding="base64">ICAgdGhpcy0+Y2VudGVyc18ucHVzaF9iYWNrKGRkZGQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IHByaXZhdGU6Cg==</text>
+        <text encoding="base64">ICAgdXNpbmcgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgdGhpcy0+Zm9vdF9wcmludF8gPSB7VmVjdG9yMkQ8ZG91YmxlPigpfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
