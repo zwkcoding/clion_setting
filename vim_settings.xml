@@ -9,11 +9,11 @@
         <mark key="^" line="29" column="7" />
         <mark key="." line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/utils.hpp" timestamp="1494610592454">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="93" column="3" />
-        <mark key="^" line="93" column="3" />
-        <mark key="." line="93" column="3" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/utils.hpp" timestamp="1494707764646">
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="58" column="14" />
+        <mark key="^" line="58" column="44" />
+        <mark key="." line="58" column="14" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/solver.h" timestamp="1493666111724">
         <mark key="[" line="9" column="18" />
@@ -172,11 +172,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494657658401">
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="40" column="11" />
-        <mark key="^" line="40" column="11" />
-        <mark key="." line="40" column="11" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494707180148">
+        <mark key="[" line="86" column="57" />
+        <mark key="]" line="86" column="49" />
+        <mark key="^" line="86" column="49" />
+        <mark key="." line="86" column="49" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -415,11 +415,11 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/car_geometry.hpp" timestamp="1494619755305">
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="57" column="61" />
-        <mark key="." line="57" column="61" />
-        <mark key="^" line="57" column="61" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/car_geometry.hpp" timestamp="1494707193352">
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="40" column="40" />
+        <mark key="." line="40" column="40" />
+        <mark key="^" line="40" column="40" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/car_decompose.py" timestamp="1494655014259">
         <mark key="[" line="69" column="16" />
@@ -455,12 +455,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494705230446">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494707657140">
         <mark key="'" line="274" column="3" />
-        <mark key="[" line="287" column="7" />
-        <mark key="]" line="287" column="7" />
-        <mark key="." line="287" column="7" />
-        <mark key="^" line="287" column="7" />
+        <mark key="[" line="291" column="11" />
+        <mark key="]" line="296" column="51" />
+        <mark key="." line="296" column="51" />
+        <mark key="^" line="296" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -747,11 +747,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGRvdWJsZSBzYWZlX2Rpc3RhbmNlXzsK</text>
+      <register name="&quot;" type="4">
+        <text>std::numeric_limits::infinity()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>std::numeric_limits::infinity()</text>
       </register>
       <register name="/" type="4">
         <text>Distance2</text>
