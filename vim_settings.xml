@@ -455,12 +455,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494703728765">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494704522078">
         <mark key="'" line="274" column="3" />
-        <mark key="[" line="278" column="24" />
-        <mark key="]" line="278" column="23" />
-        <mark key="." line="278" column="23" />
-        <mark key="^" line="278" column="23" />
+        <mark key="[" line="281" column="5" />
+        <mark key="]" line="282" column="3" />
+        <mark key="." line="282" column="3" />
+        <mark key="^" line="282" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -747,11 +747,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICUuNGY=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Distance2</text>
