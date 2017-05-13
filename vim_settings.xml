@@ -421,11 +421,11 @@
         <mark key="." line="57" column="61" />
         <mark key="^" line="57" column="61" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/car_decompose.py" timestamp="1494651607373">
-        <mark key="[" line="51" column="75" />
-        <mark key="]" line="52" column="54" />
-        <mark key="." line="52" column="54" />
-        <mark key="^" line="52" column="54" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/car_decompose.py" timestamp="1494653948342">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+        <mark key="^" line="63" column="20" />
       </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" timestamp="1493999507662">
         <mark key="'" line="192" column="39" />
@@ -747,7 +747,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBheD1zdWJwbG90KGFzcGVjdD0nZXF1YWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJzdGQiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -764,31 +764,32 @@
         self.k = df['k']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBheD1zdWJwbG90KGFzcGVjdD0nZXF1YWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJzdGQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFscGhhID0gMC41LAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBheC5heGlzKCJlcXVhbCIpCg==</text>
+      <register name="3" type="4">
+        <text>,
+                fill=False</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAobGVuKHNlbGYucG9pbnRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBheD1zdWJwbG90KGFzcGVjdD0nZXF1YWwnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAobGVuKHNlbGYuY2lyY2xlcykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoInJpZ2h0IikK</text>
+        <text encoding="base64">ICAgICAgICBheC5heGlzKCJlcXVhbCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJ0ZXN0IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAobGVuKHNlbGYucG9pbnRzKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAobGVuKHNlbGYuY2lyY2xlcykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoInJpZ2h0IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -836,6 +837,7 @@
         <entry>%s/IPOPT/NLOPT/g</entry>
         <entry>e</entry>
         <entry>%s/NLProblem//g</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
