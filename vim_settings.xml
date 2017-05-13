@@ -21,11 +21,11 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/car_geometry_test.cpp" timestamp="1494637446041">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/car_geometry_test.cpp" timestamp="1494638613587">
+        <mark key="[" line="27" column="67" />
+        <mark key="]" line="27" column="68" />
+        <mark key="^" line="27" column="68" />
+        <mark key="." line="27" column="68" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/csv_file.hpp" timestamp="1494473088863">
         <mark key="'" line="16" column="13" />
@@ -172,11 +172,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494634703985">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="79" column="36" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/car_geometry.cpp" timestamp="1494638027438">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/CMakeLists.txt" timestamp="1492659765223">
         <mark key="[" line="27" column="37" />
@@ -282,10 +282,10 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494532975390">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494638213212">
         <mark key="'" line="163" column="40" />
-        <mark key="[" line="120" column="4" />
-        <mark key="]" line="122" column="23" />
+        <mark key="[" line="362" column="12" />
+        <mark key="]" line="370" column="12" />
         <mark key="^" line="20" column="33" />
         <mark key="." line="12" column="0" />
       </file>
@@ -371,7 +371,6 @@
         <mark key="^" line="66" column="51" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/package.xml" timestamp="1494601527284" />
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/snopt_problem.hpp" timestamp="1494181157987">
         <mark key="'" line="14" column="15" />
         <mark key="[" line="50" column="37" />
@@ -421,6 +420,12 @@
         <mark key="]" line="57" column="61" />
         <mark key="." line="57" column="61" />
         <mark key="^" line="57" column="61" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/car_decompose.py" timestamp="1494651607373">
+        <mark key="[" line="51" column="75" />
+        <mark key="]" line="52" column="54" />
+        <mark key="." line="52" column="54" />
+        <mark key="^" line="52" column="54" />
       </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" timestamp="1493999507662">
         <mark key="'" line="192" column="39" />
@@ -594,11 +599,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494610498971">
-        <mark key="[" line="47" column="41" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="21" />
-        <mark key="^" line="48" column="21" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494638486624">
+        <mark key="[" line="72" column="2" />
+        <mark key="]" line="73" column="17" />
+        <mark key="." line="72" column="2" />
+        <mark key="^" line="72" column="1" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quatratic_cost_function.h" timestamp="1493665595814">
         <mark key="[" line="65" column="9" />
@@ -618,10 +623,10 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/my_trajectory.py" timestamp="1494299485679">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/my_trajectory.py" timestamp="1494639380083">
         <mark key="'" line="199" column="2" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="22" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="26" column="23" />
         <mark key="." line="59" column="22" />
         <mark key="^" line="59" column="22" />
       </file>
@@ -741,44 +746,49 @@
       <jump line="117" column="31" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CmludCBtYWluKGludCBhcmdjLCBjaGFyICoqYXJndikgewogICAgOjp0ZXN0aW5nOjpJbml0R29vZ2xlVGVzdCgmYXJnYywgYXJndik7CiAgICByZXR1cm4gUlVOX0FMTF9URVNUUygpOwp9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBheD1zdWJwbG90KGFzcGVjdD0nZXF1YWwnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>Distance2</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CmludCBtYWluKGludCBhcmdjLCBjaGFyICoqYXJndikgewogICAgOjp0ZXN0aW5nOjpJbml0R29vZ2xlVGVzdCgmYXJnYywgYXJndik7CiAgICByZXR1cm4gUlVOX0FMTF9URVNUUygpOwp9</text>
+        <text>df  = pd.read_csv(trajectory_file, sep = &quot;;&quot;)
+        self.s = df['s']
+        self.x = df['x']
+        self.y = df['y']
+        self.heading = df['z']
+        self.k = df['k']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBheD1zdWJwbG90KGFzcGVjdD0nZXF1YWwnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBheC5heGlzKCJlcXVhbCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAobGVuKHNlbGYucG9pbnRzKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAobGVuKHNlbGYuY2lyY2xlcykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoInJpZ2h0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgdGhpcy0+Y2VudGVyc18ucHVzaF9iYWNrKGRkZGQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJ0ZXN0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgdXNpbmcgYXN0YXI6OlZlY3RvcjJEPGRvdWJsZT47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgdGhpcy0+Zm9vdF9wcmludF8gPSB7VmVjdG9yMkQ8ZG91YmxlPigpfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
