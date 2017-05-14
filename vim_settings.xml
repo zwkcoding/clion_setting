@@ -461,12 +461,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494723933660">
-        <mark key="'" line="223" column="60" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="196" column="40" />
-        <mark key="." line="200" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494724918179">
+        <mark key="'" line="232" column="60" />
+        <mark key="[" line="279" column="3" />
+        <mark key="]" line="280" column="74" />
+        <mark key="." line="280" column="74" />
+        <mark key="^" line="280" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -757,10 +757,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbiBwbGFjZSBjb252ZXJ0aW5nCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9pbnRfaXRyLT54</text>
+        <text>end_intermediate</text>
       </register>
       <register name="/" type="4">
         <text>getLat</text>
@@ -769,36 +769,31 @@
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3RhcnQgc3RhdGUgaW50ZXJtZWRpYXRlIDoiIDw8IHN0YXJ0X2xvY2FsLnggPDwgIiwiICA8PCBzdGFydF9sb2NhbC55IDw8ICIsIiA8PCBzdGFydF9sb2NhbC56IDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbiBwbGFjZSBjb252ZXJ0aW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAibGF0ZXJhbCBnb2FsIHNldCBzaXplOiIgPDwgbGF0ZXJhbF9nb2FsX3NldC5zaXplKCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiZ29hbCBzdGF0ZSBpbnRlcm1lZGlhdGUgOiIgPDwgZW5kX2ludGVybWVkaWF0ZS54IDw8ICIsIiAgPDwgZW5kX2ludGVybWVkaWF0ZS55IDw8ICIsIiA8PCBlbmRfaW50ZXJtZWRpYXRlLnogPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAibGF0ZXJhbCBnb2FsIHNldCBzaXplOiIgPDwgbGF0ZXJhbF9nb2FsX3NldC5zaXplKCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3RhcnQgc3RhdGUgaW50ZXJtZWRpYXRlIDoiIDw8IHN0YXJ0X2xvY2FsLnggPDwgIiwiICA8PCBzdGFydF9sb2NhbC55IDw8ICIsIiA8PCBzdGFydF9sb2NhbC56IDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiZ29hbCBzdGF0ZSBpbnRlcm1lZGlhdGUgOiIgPDwgZW5kX2ludGVybWVkaWF0ZS54IDw8ICIsIiAgPDwgZW5kX2ludGVybWVkaWF0ZS55IDw8ICIsIiA8PCBlbmRfaW50ZXJtZWRpYXRlLnogPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnZlcnQgdGhlIHN0YXRlIHRvIGVnbyBmcmFtZQo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3RhcnQgc3RhdGUgaW50ZXJtZWRpYXRlIDoiIDw8IHN0YXJ0X2xvY2FsLnggPDwgIiwiICA8PCBzdGFydF9sb2NhbC55IDw8ICIsIiA8PCBzdGFydF9sb2NhbC56IDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-        * Support to solve every single BVP problem in ego frame, watch the transformation between different frame
-        * A pair of state in ego frame
-        * functions needed:  transfer to the origin of every problem and
-        * @return
-        */</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnZlcnQgdGhlIHN0YXRlIHRvIGVnbyBmcmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
