@@ -58,7 +58,7 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="/LLDB" timestamp="1494731684090">
+      <file name="/LLDB" timestamp="1494733308918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492740092746">
@@ -288,12 +288,12 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494731515768">
-        <mark key="'" line="282" column="8" />
-        <mark key="[" line="58" column="23" />
-        <mark key="]" line="58" column="23" />
-        <mark key="^" line="58" column="23" />
-        <mark key="." line="58" column="23" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494733792441">
+        <mark key="'" line="286" column="8" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="3" />
+        <mark key="^" line="102" column="3" />
+        <mark key="." line="102" column="3" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
@@ -461,12 +461,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494732038954">
-        <mark key="'" line="348" column="53" />
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="27" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494733488265">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="133" column="22" />
+        <mark key="]" line="133" column="26" />
+        <mark key="." line="133" column="26" />
+        <mark key="^" line="133" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -729,7 +729,6 @@
       <jump line="21" column="42" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="204" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="22" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="268" column="43" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="132" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
@@ -754,6 +753,7 @@
       <jump line="350" column="43" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="348" column="53" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="17" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="22" column="26" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -763,7 +763,7 @@
         <text>80</text>
       </register>
       <register name="/" type="4">
-        <text>lower_boundary_</text>
+        <text>deep</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dmlzdWFsaXphdGlvbl9tc2dzOjpNYXJrZXIgcGF0aF9tYXJrZXI7CiAgICB2aXN1YWxpemF0aW9uX21zZ3M6Ok1hcmtlckFycmF5IHBhdGhfc2V0X21hcmtlcjsKICAgIHBhdGhfbWFya2VyLmhlYWRlci5mcmFtZV9pZCA9ICIvbWFwIjsKICAgIHBhdGhfbWFya2VyLmhlYWRlci5zdGFtcCA9IHJvczo6VGltZTo6bm93KCk7CiAgICBwYXRoX21hcmtlci5ucyA9ICJzdGF0ZV9zYW1wbGluZ19kZW1vIjsKICAgIHBhdGhfbWFya2VyLmlkID0gNDAwOyAgIC8vICBtYWtlIGFuIGlkIHNwYWNlIGZvciBwYXRoIG9ubHkuCiAgICBwYXRoX21hcmtlci50eXBlID0gdmlzdWFsaXphdGlvbl9tc2dzOjpNYXJrZXI6OkxJTkVfU1RSSVA7CiAgICBwYXRoX21hcmtlci5wb3NlLm9yaWVudGF0aW9uLnggPSAwLjA7CiAgICBwYXRoX21hcmtlci5wb3NlLm9yaWVudGF0aW9uLnkgPSAwLjA7CiAgICBwYXRoX21hcmtlci5wb3NlLm9yaWVudGF0aW9uLnogPSAwLjA7CiAgICBwYXRoX21hcmtlci5wb3NlLm9yaWVudGF0aW9uLncgPSAxLjA7CiAgICBwYXRoX21hcmtlci5wb3NlLnBvc2l0aW9uLnggPSAwOwogICAgcGF0aF9tYXJrZXIucG9zZS5wb3NpdGlvbi55ID0gMDsKICAgIHBhdGhfbWFya2VyLnBvc2UucG9zaXRpb24ueiA9IDAuMDsKICAgIHBhdGhfbWFya2VyLnNjYWxlLnggPSAwLjA1OwogICAKICAgIAogICAgZm9yIChhdXRvIHBhdGhfaXRyID0gcGF0aF9zZXQuYmVnaW4oKTsKICAgICAgICAgcGF0aF9pdHIgIT0gcGF0aF9zZXQuZW5kKCk7CiAgICAgICAgICsrcGF0aF9pdHIpIHsKICAgICAgICBpZiAocGF0aF9pdHItPmNvbGxpc2lvbl9mcmVlKSB7CiAgICAgICAgICAgIHBhdGhfbWFya2VyLmNvbG9yLmEgPSAxLjA7CiAgICAgICAgICAgIHBhdGhfbWFya2VyLmNvbG9yLmIgPSAwLjA7CiAgICAgICAgICAgIHBhdGhfbWFya2VyLmNvbG9yLnIgPSAwLjA7CiAgICAgICAgICAgIHBhdGhfbWFya2VyLmNvbG9yLmcgPSAxLjA7CiAgICAgICAgfSAgZWxzZSB7CiAgICAgICAgICAgIHBhdGhfbWFya2VyLmNvbG9yLmEgPSAxLjA7CiAgICAgICAgICAgIHBhdGhfbWFya2VyLmNvbG9yLmIgPSAwLjA7CiAgICAgICAgICAgIHBhdGhfbWFya2VyLmNvbG9yLnIgPSAxLjA7CiAgICAgICAgICAgIHBhdGhfbWFya2VyLmNvbG9yLmcgPSAwLjA7CiAgICAgICAgfQogICAgICAgIHBhdGhfbWFya2VyLmlkICs9MTsKICAgICAgICBwYXRoX21hcmtlci5wb2ludHMuY2xlYXIoKTsKICAgICAgIAogICAgICAgIC8vIGVnbyB0byBtYXAKICAgICAgICAKICAgICAgICBmb3IgKGF1dG8gcG9pbnRfaXRyID0gcGF0aF9pdHItPnBhdGguYmVnaW4oKTsKICAgICAgICAgICAgIHBvaW50X2l0ciAhPSBwYXRoX2l0ci0+cGF0aC5lbmQoKTsKICAgICAgICAgICAgICsrcG9pbnRfaXRyKSB7CiAgICAgICAgICAgIAogICAgICAgICAgICBobXBsOjpTdGF0ZSBnbG9iYWxfc3RhdGUgPSBobXBsOjpsb2NhbFRvR2xvYmFsKGN1cnJlbnQsICpwb2ludF9pdHIpOwogICAgICAgICAgICBnZW9tZXRyeV9tc2dzOjpQb2ludCBwOwogICAgICAgICAgICBwLnggPSBnbG9iYWxfc3RhdGUueDsKICAgICAgICAgICAgcC55ID0gZ2xvYmFsX3N0YXRlLnk7CiAgICAgICAgICAgIHAueiA9IDAuMDsKICAgICAgICAgICAgcGF0aF9tYXJrZXIucG9pbnRzLnB1c2hfYmFjayhwKTsKICAgICAgICB9CiAgICAgICAgcGF0aF9zZXRfbWFya2VyLm1hcmtlcnMucHVzaF9iYWNrKHBhdGhfbWFya2VyKTsKICAgIH0KICAgIHB1Yi5wdWJsaXNoKHBhdGhfc2V0X21hcmtlcik7</text>
@@ -802,9 +802,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lower_boundary_</last-search>
+      <last-search>deep</last-search>
       <last-offset />
-      <last-pattern>lower_boundary_</last-pattern>
+      <last-pattern>deep</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -830,8 +830,8 @@
         <entry>singlePhase</entry>
         <entry>getLat</entry>
         <entry>std::cout</entry>
-        <entry>deep</entry>
         <entry>lower_boundary_</entry>
+        <entry>deep</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
