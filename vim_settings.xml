@@ -288,12 +288,12 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494720187019">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494722811819">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="267" column="7" />
-        <mark key="]" line="267" column="82" />
-        <mark key="." line="267" column="82" />
-        <mark key="^" line="267" column="82" />
+        <mark key="[" line="172" column="64" />
+        <mark key="]" line="172" column="64" />
+        <mark key="^" line="172" column="64" />
+        <mark key="." line="172" column="64" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
@@ -461,12 +461,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494719660399">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="266" column="45" />
-        <mark key="]" line="268" column="43" />
-        <mark key="." line="268" column="43" />
-        <mark key="^" line="268" column="43" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494723933660">
+        <mark key="'" line="223" column="60" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="196" column="40" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -507,12 +507,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494719077398">
-        <mark key="'" line="160" column="6" />
-        <mark key="[" line="27" column="117" />
-        <mark key="]" line="28" column="91" />
-        <mark key="." line="28" column="91" />
-        <mark key="^" line="28" column="91" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494723683907">
+        <mark key="'" line="155" column="6" />
+        <mark key="[" line="79" column="7" />
+        <mark key="]" line="79" column="7" />
+        <mark key="^" line="81" column="46" />
+        <mark key="." line="79" column="7" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1494473320119">
         <mark key="'" line="44" column="15" />
@@ -654,9 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" />
-      <jump line="16" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" />
-      <jump line="458" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_solver.cpp" />
       <jump line="98" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindIPOPT.cmake" />
       <jump line="9" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindIPOPT.cmake" />
       <jump line="185" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
@@ -754,55 +751,63 @@
       <jump line="204" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="22" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="268" column="43" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="132" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="226" column="60" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy0+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+</text>
+        <text encoding="base64">cG9pbnRfaXRyLT54</text>
       </register>
       <register name="/" type="4">
-        <text>Distance2</text>
+        <text>getLat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3RhcnQgc3RhdGUgaW50ZXJtZWRpYXRlIDoiIDw8IHN0YXJ0X2xvY2FsLnggPDwgIiwiICA8PCBzdGFydF9sb2NhbC55IDw8ICIsIiA8PCBzdGFydF9sb2NhbC56IDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPnBhdGhfc2V0Xy5tYXJrZXJzLmNsZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHQxLnggPSBpdHItPng7CiAgICAgICAgcHQxLnkgPSBpdHItPnk7CiAgICAgICAgcHQxLnogPSAwOwogICAgICAgIGRvdWJsZSBoZWFkaW5nOwogICAgICAgIGlmIChpdHItPmsgPiAwKSB7CiAgICAgICAgICAgIGhlYWRpbmcgPSBpdHItPnogLSBNX1BJIC8gMi4wOwogICAgICAgIH0gZWxzZSBpZiAoaXRyLT5rID09IDApIHsKICAgICAgICAgICAgaGVhZGluZyA9IGl0ci0+ejsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBoZWFkaW5nID0gaXRyLT56ICsgTV9QSSAvIDIuMDsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcHQyLnggPSBwdDEueCArIGNvcyhoZWFkaW5nKSAqIHNjYWxlICogZmFicyhpdHItPmspIC8gY3VydmF0dXJlX21heDsKICAgICAgICBwdDIueSA9IHB0MS55ICsgc2luKGhlYWRpbmcpICogc2NhbGUgKiBmYWJzKGl0ci0+aykgLyBjdXJ2YXR1cmVfbWF4OwogICAgICAgIAogICAgICAgIGthcHBhX2xpc3QucG9pbnRzLnB1c2hfYmFjayhwdDEpOwogICAgICAgIGthcHBhX2xpc3QucG9pbnRzLnB1c2hfYmFjayhwdDIpOwogICAgICAgIGthcHBhX3NldC5tYXJrZXJzLnB1c2hfYmFjayhrYXBwYV9saXN0KTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZV9zYW1wbGluZy5kZWVwU3RhdGVTYW1wbGluZyhpbl9nbSwgY3VydmUpIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gc2luZ2xlIHBoYXNlIHBhdGggc2V0CiAgICAgICBzdGQ6OnZlY3RvcjxobXBsOjpQYXRoV2l0aENvc3Q+IHNpbmdsZV9wYXRoX3NldDsKICAgICAgIAogICAgICAgaG1wbDo6UGF0aFdpdGhDb3N0IHNpbmdsZV9maW5hbF9wYXRoOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAibGF0ZXJhbCBnb2FsIHNldCBzaXplOiIgPDwgbGF0ZXJhbF9nb2FsX3NldC5zaXplKCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IAogICAgLy8gbG9uZ2l0dWRpbmFsIHNlZ21lbnQgZm9yIGxvb3AKICAgIAogICAgICAgIC8vIHNpbmdsZSBzdGF0ZSBzYW1wbGluZwogICAgICAgICAgICAvLyBsYXRlcmFsIGdvYWwgc3RhdGUgc2FtcGxpbmcKICAgIAogICAgICAgICAgICAvLyBzb2x2ZSBCVlAgcHJvYmxlbQogICAgICAgICAgICAKICAgICAgICAgICAgLy8gc2VsZWN0IHRoZSBiZXN0IG9uZQogICAgCiAgICAgICAgICAgIC8vIHB1c2ggYmFjayB0byB0aGUgcGF0aCB2ZWN0b3IKICAgIAogICAgLy8=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiZ29hbCBzdGF0ZSBpbnRlcm1lZGlhdGUgOiIgPDwgZW5kX2ludGVybWVkaWF0ZS54IDw8ICIsIiAgPDwgZW5kX2ludGVybWVkaWF0ZS55IDw8ICIsIiA8PCBlbmRfaW50ZXJtZWRpYXRlLnogPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3RhcnQgc3RhdGUgaW50ZXJtZWRpYXRlIDoiIDw8IHN0YXJ0X2xvY2FsLnggPDwgIiwiICA8PCBzdGFydF9sb2NhbC55IDw8ICIsIiA8PCBzdGFydF9sb2NhbC56IDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnZlcnQgdGhlIHN0YXRlIHRvIGVnbyBmcmFtZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>/**
+        * Support to solve every single BVP problem in ego frame, watch the transformation between different frame
+        * A pair of state in ego frame
+        * functions needed:  transfer to the origin of every problem and
+        * @return
+        */</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Distance2</last-search>
+      <last-search>getLat</last-search>
       <last-offset />
-      <last-pattern>Distance2</last-pattern>
+      <last-pattern>getLat</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -810,8 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>after interpolation</entry>
-        <entry>before interpolation</entry>
         <entry>The length before</entry>
         <entry>goal and start overlapped</entry>
         <entry>circle point number</entry>
@@ -830,6 +833,8 @@
         <entry>dae</entry>
         <entry>Importing</entry>
         <entry>Distance2</entry>
+        <entry>singlePhase</entry>
+        <entry>getLat</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
