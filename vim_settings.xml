@@ -58,7 +58,7 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="/LLDB" timestamp="1494541530796">
+      <file name="/LLDB" timestamp="1494719362365">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/include/internal_grid_map/eigen2cv.h" timestamp="1492740092746">
@@ -66,6 +66,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/launch/state_sampling.launch" timestamp="1494716655391">
+        <mark key="[" line="2" column="74" />
+        <mark key="]" line="2" column="94" />
+        <mark key="." line="2" column="94" />
+        <mark key="^" line="2" column="94" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1494207094668">
         <mark key="'" line="125" column="0" />
@@ -282,12 +288,12 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494714285316">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494720187019">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="207" column="7" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="267" column="7" />
+        <mark key="]" line="267" column="82" />
+        <mark key="." line="267" column="82" />
+        <mark key="^" line="267" column="82" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
@@ -455,12 +461,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494714269642">
-        <mark key="'" line="274" column="3" />
-        <mark key="[" line="304" column="15" />
-        <mark key="]" line="304" column="34" />
-        <mark key="." line="304" column="34" />
-        <mark key="^" line="304" column="34" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494719660399">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="266" column="45" />
+        <mark key="]" line="268" column="43" />
+        <mark key="." line="268" column="43" />
+        <mark key="^" line="268" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -501,11 +507,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494713982274">
-        <mark key="'" line="150" column="6" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494719077398">
+        <mark key="'" line="160" column="6" />
+        <mark key="[" line="27" column="117" />
+        <mark key="]" line="28" column="91" />
+        <mark key="." line="28" column="91" />
+        <mark key="^" line="28" column="91" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1494473320119">
         <mark key="'" line="44" column="15" />
@@ -514,12 +521,12 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494659077889">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494717174858">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="144" column="46" />
-        <mark key="]" line="145" column="3" />
-        <mark key="." line="145" column="3" />
-        <mark key="^" line="145" column="3" />
+        <mark key="[" line="121" column="39" />
+        <mark key="]" line="121" column="48" />
+        <mark key="." line="121" column="48" />
+        <mark key="^" line="121" column="48" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/utils.h" timestamp="1493756833254">
         <mark key="'" line="6" column="0" />
@@ -599,11 +606,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494638486624">
-        <mark key="[" line="72" column="2" />
-        <mark key="]" line="73" column="17" />
-        <mark key="." line="72" column="2" />
-        <mark key="^" line="72" column="1" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/CMakeLists.txt" timestamp="1494715937771">
+        <mark key="[" line="58" column="21" />
+        <mark key="]" line="59" column="16" />
+        <mark key="." line="59" column="16" />
+        <mark key="^" line="59" column="16" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/quatratic_cost_function.h" timestamp="1493665595814">
         <mark key="[" line="65" column="9" />
@@ -616,6 +623,9 @@
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
+      </file>
+      <file name="/fragment.mm" timestamp="1494717890637">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/CMakeLists.txt" timestamp="1494212338333">
         <mark key="[" line="15" column="9" />
@@ -644,9 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/utils.h" />
-      <jump line="9" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/quadratic_cost_function.cpp" />
       <jump line="162" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" />
       <jump line="16" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" />
       <jump line="458" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_solver.cpp" />
@@ -744,54 +751,49 @@
       <jump line="206" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="21" column="42" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
+      <jump line="204" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="22" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy0+</text>
       </register>
       <register name="-" type="4">
-        <text>std::numeric_limits::infinity()</text>
+        <text encoding="base64">dGhpcy0+</text>
       </register>
       <register name="/" type="4">
         <text>Distance2</text>
       </register>
-      <register name="0" type="4">
-        <text>df  = pd.read_csv(trajectory_file, sep = &quot;;&quot;)
-        self.s = df['s']
-        self.x = df['x']
-        self.y = df['y']
-        self.heading = df['z']
-        self.k = df['k']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAic3RhcnQgc3RhdGUgaW50ZXJtZWRpYXRlIDoiIDw8IHN0YXJ0X2xvY2FsLnggPDwgIiwiICA8PCBzdGFydF9sb2NhbC55IDw8ICIsIiA8PCBzdGFydF9sb2NhbC56IDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMtPnBhdGhfc2V0Xy5tYXJrZXJzLmNsZWFyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHQxLnggPSBpdHItPng7CiAgICAgICAgcHQxLnkgPSBpdHItPnk7CiAgICAgICAgcHQxLnogPSAwOwogICAgICAgIGRvdWJsZSBoZWFkaW5nOwogICAgICAgIGlmIChpdHItPmsgPiAwKSB7CiAgICAgICAgICAgIGhlYWRpbmcgPSBpdHItPnogLSBNX1BJIC8gMi4wOwogICAgICAgIH0gZWxzZSBpZiAoaXRyLT5rID09IDApIHsKICAgICAgICAgICAgaGVhZGluZyA9IGl0ci0+ejsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBoZWFkaW5nID0gaXRyLT56ICsgTV9QSSAvIDIuMDsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcHQyLnggPSBwdDEueCArIGNvcyhoZWFkaW5nKSAqIHNjYWxlICogZmFicyhpdHItPmspIC8gY3VydmF0dXJlX21heDsKICAgICAgICBwdDIueSA9IHB0MS55ICsgc2luKGhlYWRpbmcpICogc2NhbGUgKiBmYWJzKGl0ci0+aykgLyBjdXJ2YXR1cmVfbWF4OwogICAgICAgIAogICAgICAgIGthcHBhX2xpc3QucG9pbnRzLnB1c2hfYmFjayhwdDEpOwogICAgICAgIGthcHBhX2xpc3QucG9pbnRzLnB1c2hfYmFjayhwdDIpOwogICAgICAgIGthcHBhX3NldC5tYXJrZXJzLnB1c2hfYmFjayhrYXBwYV9saXN0KTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHZvaWQgc2V0R2xvYmFsUGF0aChjb25zdCBzdGQ6OnZlY3RvcjxTdGF0ZT4gJmN1cnZlKSB7dGhpcy0+Y3VydmVfID0gY3VydmU7fQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZV9zYW1wbGluZy5kZWVwU3RhdGVTYW1wbGluZyhpbl9nbSwgY3VydmUpIAo=</text>
       </register>
       <register name="5" type="4">
-        <text>deepStateSampling(in_gm,
-                          start_point,
-                          curve,
-                          10.0);</text>
+        <text encoding="base64">Ly8gc2luZ2xlIHBoYXNlIHBhdGggc2V0CiAgICAgICBzdGQ6OnZlY3RvcjxobXBsOjpQYXRoV2l0aENvc3Q+IHNpbmdsZV9wYXRoX3NldDsKICAgICAgIAogICAgICAgaG1wbDo6UGF0aFdpdGhDb3N0IHNpbmdsZV9maW5hbF9wYXRoOw==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CnZvaWQgc2VsZWN0QmVzdFBhdGgodm9pZCkgewoKfQoKCgovLyBmb3Igbm93IGp1c3QgcHJvdmlkZSBhIGRpc3RhbmNlIGxvd2VyIGJvdW5kYXJ5Ci8vIGdldCB0aGUgbGF0ZXJhbCBnb2FsIHNldApzdGQ6OnZlY3RvcjxobXBsOjpTdGF0ZT4gZ2V0TGF0R29hbFNldChjb25zdCBobXBsOjpJbnRlcm5hbEdyaWRNYXAgJmdyaWRfbWFwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBobXBsOjpTdGF0ZSAmc3RhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSBvZmZzZXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSBzYWZlX2Rpc3RhbmNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnNpemVfdCBoYWxmX251bSkgewogICAgLy8gZ2V0IHRoZSBmZWFzaWJsZSByZWdpb24KICAgIGNvbnN0IGRvdWJsZSBjdXJ2YXR1cmVfZGVhZF96b25lID0gMC4wNTsKICAgIGRvdWJsZSByaWdodF9vZmZzZXRfaGVhZGluZzsKICAgIGRvdWJsZSBsZWZ0X29mZnNldF9oZWFkaW5nOwogICAgLy8gdHVybmluZyBsZWZ0CiAgICByaWdodF9vZmZzZXRfaGVhZGluZyA9IHN0YXRlLnogLSBNX1BJIC8gMi4wOwogICAgbGVmdF9vZmZzZXRfaGVhZGluZyA9IHN0YXRlLnogKyBNX1BJIC8gMi4wOwogICAgCiAgICBzdGQ6OnZlY3RvcjxobXBsOjpTdGF0ZT4gbGF0X2dvYWxzOwogICAgaG1wbDo6U3RhdGUgdG1wX3N0YXRle307CiAgICAvLyBkZWZpbmUgdGhlIG9mZnNldCBzZXF1ZW5jZSAgLCBhbHdheXMgZnJvbSByaWdodCB0byBsZWZ0ICwgZm9sbG93IHRoZSB5CiAgICAvLyBkaXJlY3Rpb24KICAgIGlmIChzdGF0ZS5rID4gY3VydmF0dXJlX2RlYWRfem9uZSkgewogICAgICAgIC8vICBvZmZzZXRzIGFyZSBpbiByaWdodCBzaWRlICAgIGZyb20gcmlnaHQgdG8gbGVmdAogICAgICAgIGZvciAoc3RkOjpzaXplX3QgaSA9IGhhbGZfbnVtICogMiArIDE7IGkgPj0gMDsgaS0tKSB7CiAgICAgICAgICAgIHRtcF9zdGF0ZS54ID0gc3RhdGUueCArIGNvcyhyaWdodF9vZmZzZXRfaGVhZGluZykgKiBvZmZzZXQgKiBpOwogICAgICAgICAgICB0bXBfc3RhdGUueSA9IHN0YXRlLnkgKyBzaW4ocmlnaHRfb2Zmc2V0X2hlYWRpbmcpICogb2Zmc2V0ICogaTsKICAgICAgICAgICAgdG1wX3N0YXRlLnogPSBzdGF0ZS56OwogICAgICAgICAgICB0bXBfc3RhdGUuayA9IHN0YXRlLms7CiAgICAgICAgICAgIGdyaWRfbWFwOjpQb3NpdGlvbiBwb3ModG1wX3N0YXRlLngsIHRtcF9zdGF0ZS55KTsKICAgICAgICAgICAgZG91YmxlIGRpc3QgPSBncmlkX21hcC5nZXRPYnN0YWNsZURpc3RhbmNlKHBvcyk7CiAgICAgICAgICAgIGlmIChkaXN0ID4gc2FmZV9kaXN0YW5jZSkgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayh0bXBfc3RhdGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfSBlbHNlIGlmIChzdGF0ZS5rIDwgLSBjdXJ2YXR1cmVfZGVhZF96b25lKSB7CiAgICAgICAgLy8gIG9mZnNldHMgYXJlIGluIHRoZSBsZWZ0IHNpZGUgICByaWdodCByZWdpb24gICBmcm9tIHJpZ2h0IHRvIGxlZnQKICAgICAgICBmb3IgKHN0ZDo6c2l6ZV90IGkgPSAwOyBpIDw9IGhhbGZfbnVtICogMiArIDE7IGkrKykgewogICAgICAgICAgICB0bXBfc3RhdGUueCA9IHN0YXRlLnggKyBjb3MobGVmdF9vZmZzZXRfaGVhZGluZykgKiBvZmZzZXQgKiBpOwogICAgICAgICAgICB0bXBfc3RhdGUueSA9IHN0YXRlLnkgKyBzaW4obGVmdF9vZmZzZXRfaGVhZGluZykgKiBvZmZzZXQgKiBpOwogICAgICAgICAgICB0bXBfc3RhdGUueiA9IHN0YXRlLno7CiAgICAgICAgICAgIHRtcF9zdGF0ZS5rID0gc3RhdGUuazsKICAgICAgICAgICAgLy8gdGVzdCBjb2xsaXNpb24KICAgICAgICAgICAgZ3JpZF9tYXA6OlBvc2l0aW9uIHBvcyh0bXBfc3RhdGUueCwgdG1wX3N0YXRlLnkpOwogICAgICAgICAgICBkb3VibGUgZGlzdCA9IGdyaWRfbWFwLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiBzYWZlX2Rpc3RhbmNlKSB7CiAgICAgICAgICAgICAgICBsYXRfZ29hbHMucHVzaF9iYWNrKHRtcF9zdGF0ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9IGVsc2UgewogICAgICAgIC8vIG1pZGRsZSByZWdpb24gICBmcm9tIHJpZ2h0IHRvIGxlZnQKICAgICAgICAvLyByaWdodCBwb3J0aW9uCiAgICAgICAgZm9yIChzdGQ6OnNpemVfdCBpID0gaGFsZl9udW07IGkgPj0gMDsgaS0tKSB7CiAgICAgICAgICAgIHRtcF9zdGF0ZS54ID0gc3RhdGUueCArIGNvcyhyaWdodF9vZmZzZXRfaGVhZGluZykgKiBvZmZzZXQgKiBpOwogICAgICAgICAgICB0bXBfc3RhdGUueSA9IHN0YXRlLnkgKyBzaW4obGVmdF9vZmZzZXRfaGVhZGluZykgKiBvZmZzZXQgKiBpOwogICAgICAgICAgICB0bXBfc3RhdGUueiA9IHN0YXRlLno7CiAgICAgICAgICAgIHRtcF9zdGF0ZS5rID0gc3RhdGUuazsKICAgICAgICAgICAgZ3JpZF9tYXA6OlBvc2l0aW9uIHBvcyh0bXBfc3RhdGUueCwgdG1wX3N0YXRlLnkpOwogICAgICAgICAgICBkb3VibGUgZGlzdCA9IGdyaWRfbWFwLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiBzYWZlX2Rpc3RhbmNlKSB7CiAgICAgICAgICAgICAgICBsYXRfZ29hbHMucHVzaF9iYWNrKHRtcF9zdGF0ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgLy8gbWlkZGxlIHN0YXRlCiAgICAgICAgZ3JpZF9tYXA6OlBvc2l0aW9uIHBvcyh0bXBfc3RhdGUueCwgdG1wX3N0YXRlLnkpOwogICAgICAgIGRvdWJsZSBkaXN0ID0gZ3JpZF9tYXAuZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgIGlmIChkaXN0ID4gc2FmZV9kaXN0YW5jZSkgewogICAgICAgICAgICBsYXRfZ29hbHMucHVzaF9iYWNrKHRtcF9zdGF0ZSk7CiAgICAgICAgfQogICAgICAgIC8vIGxlZnQgcG9ydGlvbgogICAgICAgIGZvciAoc3RkOjpzaXplX3QgaSA9IDA7IGkgPD0gaGFsZl9udW07IGkrKykgewogICAgICAgICAgICB0bXBfc3RhdGUueCA9IHN0YXRlLnggKyBjb3MobGVmdF9vZmZzZXRfaGVhZGluZykgKiBvZmZzZXQgKiBpOwogICAgICAgICAgICB0bXBfc3RhdGUueSA9IHN0YXRlLnkgKyBzaW4obGVmdF9vZmZzZXRfaGVhZGluZykgKiBvZmZzZXQgKiBpOwogICAgICAgICAgICB0bXBfc3RhdGUueiA9IHN0YXRlLno7CiAgICAgICAgICAgIHRtcF9zdGF0ZS5rID0gc3RhdGUuazsKICAgICAgICAgICAgZ3JpZF9tYXA6OlBvc2l0aW9uIHBvcyh0bXBfc3RhdGUueCwgdG1wX3N0YXRlLnkpOwogICAgICAgICAgICBkb3VibGUgZGlzdCA9IGdyaWRfbWFwLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiBzYWZlX2Rpc3RhbmNlKSB7CiAgICAgICAgICAgICAgICBsYXRfZ29hbHMucHVzaF9iYWNrKHRtcF9zdGF0ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CiAgICByZXR1cm4gbGF0X2dvYWxzOwp9CgovLyBzZWdtZW50IHRoZSBtb2RpZmllZCBnbG9iYWwgcGF0aCB3aXRoIGRpZmZlcmVudCBzdHJhdGVneQpzdGQ6OnZlY3RvcjxobXBsOjpTdGF0ZT4gZ2V0TG9uR29hbFNldChjb25zdCBhc3Rhcjo6UG9zZTJEICZzdGFydCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3RkOjp2ZWN0b3I8aG1wbDo6U3RhdGU+ICZjdXJ2ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlIGxvb2thaGVhZCkgewogICAgc3RkOjp2ZWN0b3I8aG1wbDo6U3RhdGU+IGxvbl9nb2FsX3NldDsKICAgIAogICAgcmV0dXJuIGxvbl9nb2FsX3NldDsKfQoKdm9pZCBzaW5nbGVfc2FtcGxpbmcoY29uc3QgaG1wbDo6SW50ZXJuYWxHcmlkTWFwICZncmlkX21hcCwKICAgICAgICAgICAgICAgICAgICAgY29uc3QgaG1wbDo6U3RhdGUgJnN0YXJ0LAogICAgICAgICAgICAgICAgICAgICBjb25zdCBobXBsOjpTdGF0ZSAmZ29hbCwKICAgICAgICAgICAgICAgICAgICAgZG91YmxlIG9mZnNldCwKICAgICAgICAgICAgICAgICAgICAgc3RkOjpzaXplX3QgbnVtLAogICAgICAgICAgICAgICAgICAgICBzdGQ6OnZlY3RvcjxobXBsOjpTdGF0ZT4gKnNlbGVjdGVkKSB7CiAgICAvLyBzdGFydCB0aGUgc2luZ2xlIHNhbXBsaW5nICwgd2l0aCBvbmx5IG9uZSBsb25naXR1ZGUgZ29hbAogICAgZG91YmxlIHNhZmVfZGlzdGFuY2UgPSAxLjY7CiAgICAvLyBsb29rIGFoZWFkIGRpc3RhbmNlCiAgICBzdGQ6OnZlY3RvcjxobXBsOjpTdGF0ZT4gZ29hbF9zdGF0ZXMgPSBnZXRMYXRHb2FsU2V0KGdyaWRfbWFwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnb2FsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvZmZzZXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNhZmVfZGlzdGFuY2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDMpOwogICAgCn0Kdm9pZCBkZWVwU3RhdGVTYW1wbGluZyhjb25zdCBobXBsOjpJbnRlcm5hbEdyaWRNYXAgJmdyaWRfbWFwLAogICAgICAgICAgICAgICAgICAgIGNvbnN0IGFzdGFyOjpQb3NlMkQgc3RhcnQsCiAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3RkOjp2ZWN0b3I8aG1wbDo6U3RhdGU+ICZjdXJ2ZSwKICAgICAgICAgICAgICAgICAgICBkb3VibGUgbG9va2FoZWFkKSB7CiAgICBzdGQ6OnZlY3RvcjxobXBsOjpTdGF0ZT4gbG9uU3RhdGUgPSBnZXRMb25Hb2FsU2V0KHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJ2ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9va2FoZWFkKTsKICAgIGhtcGw6OlN0YXRlIGN1cnJlbnRfc3RhdGU7CiAgICBjdXJyZW50X3N0YXRlLnggPSBzdGFydC5wb3NpdGlvbi54OwogICAgY3VycmVudF9zdGF0ZS55ID0gc3RhcnQucG9zaXRpb24ueTsKICAgIGN1cnJlbnRfc3RhdGUueiA9IHN0YXJ0Lm9yaWVudGF0aW9uOwogICAgY3VycmVudF9zdGF0ZS5rID0gMDsKICAgIAogICAgLy8gb3B0aW1pemF0aW9uIHNldHVwCiAgICBTdGF0ZSBzdGFydF9zdGF0ZXt9OwogICAgZG91YmxlIGN1cnZhdHVyZV9tYXggPSAwLjU7CiAgICBkb3VibGUgbG93ZXJfYm91bmRzWzNdID0gey1jdXJ2YXR1cmVfbWF4LCAtY3VydmF0dXJlX21heCwgMC4wfTsKICAgIGRvdWJsZSB1cHBlcl9ib3VuZHNbM10gPSB7Y3VydmF0dXJlX21heCxjdXJ2YXR1cmVfbWF4LDEwMH07CiAgICAKICAgIGhtcGw6Ok5MUFNvbHZlciBubHBfc29sdmVyKGhtcGw6OlNvbHZlclR5cGU6OlNOT1BUKTsKICAgIAogICAgZm9yIChhdXRvICZsb25faXRyOiBsb25TdGF0ZSkgewogICAgICAgIGhtcGw6OlN0YXRlIGxvY2FsX3RhcmdldCA9IGhtcGw6Omdsb2JhbFRvTG9jYWwoY3VycmVudF9zdGF0ZSwgbG9uX2l0cik7CiAgICAgICAgZG91YmxlIGRpc3QgPSBnZXROb3JtKGxvY2FsX3RhcmdldCk7CiAgICAgICAgZG91YmxlIHBhcmFtWzNdID0gezAsIDAsIGRpc3R9OwogICAgICAgIFBhcmFtX2tub3Qgc29sdXRpb247CiAgICAgICAgYm9vbCByZXMgPSBubHBfc29sdmVyLnNvbHZlKHN0YXJ0X3N0YXRlLCBsb2NhbF90YXJnZXQsIHBhcmFtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb3dlcl9ib3VuZHMsIHVwcGVyX2JvdW5kcywgJnNvbHV0aW9uKTsKICAgIH0KfQoK</text>
+        <text encoding="base64">IAogICAgLy8gbG9uZ2l0dWRpbmFsIHNlZ21lbnQgZm9yIGxvb3AKICAgIAogICAgICAgIC8vIHNpbmdsZSBzdGF0ZSBzYW1wbGluZwogICAgICAgICAgICAvLyBsYXRlcmFsIGdvYWwgc3RhdGUgc2FtcGxpbmcKICAgIAogICAgICAgICAgICAvLyBzb2x2ZSBCVlAgcHJvYmxlbQogICAgICAgICAgICAKICAgICAgICAgICAgLy8gc2VsZWN0IHRoZSBiZXN0IG9uZQogICAgCiAgICAgICAgICAgIC8vIHB1c2ggYmFjayB0byB0aGUgcGF0aCB2ZWN0b3IKICAgIAogICAgLy8=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGRvdWJsZSBzYWZlX2Rpc3RhbmNlXzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
