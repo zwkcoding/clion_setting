@@ -288,12 +288,12 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494795778156">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494796440130">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="253" column="75" />
-        <mark key="]" line="253" column="75" />
-        <mark key="." line="253" column="75" />
-        <mark key="^" line="253" column="75" />
+        <mark key="[" line="256" column="31" />
+        <mark key="]" line="256" column="34" />
+        <mark key="." line="256" column="34" />
+        <mark key="^" line="256" column="34" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
@@ -757,16 +757,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBjb25zdCBobXBsOjpJbnRlcm5hbEdyaWRNYXAgJm1w</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBjb25zdCBobXBsOjpJbnRlcm5hbEdyaWRNYXAgJm1w</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>spline</text>
       </register>
       <register name="0" type="4">
-        <text>ax1.legend(loc=&quot;path&quot;)</text>
+        <text encoding="base64">bmF2X21zZ3M6OlBhdGggcGF0aF9tc2c7CiAgICAgICAgZ2VvbWV0cnlfbXNnczo6UG9zZVN0YW1wZWQgcG9zZTsKICAgICAgICBwYXRoX21zZy5oZWFkZXIuZnJhbWVfaWQgPSBpbl9nbS5tYXBzLmdldEZyYW1lSWQoKTsKICAgICAgICBwYXRoX21zZy5oZWFkZXIuc3RhbXAgPSByb3M6OlRpbWU6Om5vdygpOwogICAgICAgIHBvc2UuaGVhZGVyID0gcGF0aF9tc2cuaGVhZGVyOwogICAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
