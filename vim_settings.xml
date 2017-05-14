@@ -461,12 +461,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494724918179">
-        <mark key="'" line="232" column="60" />
-        <mark key="[" line="279" column="3" />
-        <mark key="]" line="280" column="74" />
-        <mark key="." line="280" column="74" />
-        <mark key="^" line="280" column="74" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494726951504">
+        <mark key="'" line="336" column="7" />
+        <mark key="[" line="335" column="3" />
+        <mark key="]" line="335" column="6" />
+        <mark key="." line="335" column="6" />
+        <mark key="^" line="335" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -507,12 +507,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494726029751">
-        <mark key="'" line="156" column="6" />
-        <mark key="[" line="87" column="69" />
-        <mark key="]" line="87" column="69" />
-        <mark key="^" line="87" column="69" />
-        <mark key="." line="87" column="69" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/include/state_sampling/state_sampling.hpp" timestamp="1494726691089">
+        <mark key="'" line="159" column="6" />
+        <mark key="[" line="155" column="38" />
+        <mark key="]" line="153" column="56" />
+        <mark key="^" line="153" column="56" />
+        <mark key="." line="153" column="56" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1494473320119">
         <mark key="'" line="44" column="15" />
@@ -654,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindIPOPT.cmake" />
       <jump line="9" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/cmake/FindIPOPT.cmake" />
       <jump line="185" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
       <jump line="239" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
@@ -754,6 +753,7 @@
       <jump line="268" column="43" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="132" column="10" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="226" column="60" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="331" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -763,7 +763,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getLat</text>
+        <text>deep</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RkOjp2ZWN0b3I8UGF0aFdpdGhDb3N0Pg==</text>
@@ -800,9 +800,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getLat</last-search>
+      <last-search>deep</last-search>
       <last-offset />
-      <last-pattern>getLat</last-pattern>
+      <last-pattern>deep</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -810,7 +810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>The length before</entry>
         <entry>goal and start overlapped</entry>
         <entry>circle point number</entry>
         <entry>INF</entry>
@@ -830,6 +829,7 @@
         <entry>Distance2</entry>
         <entry>singlePhase</entry>
         <entry>getLat</entry>
+        <entry>deep</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
