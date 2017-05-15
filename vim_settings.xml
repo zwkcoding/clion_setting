@@ -593,12 +593,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494808306269">
-        <mark key="'" line="671" column="8" />
-        <mark key="[" line="687" column="20" />
-        <mark key="]" line="687" column="22" />
-        <mark key="^" line="687" column="22" />
-        <mark key="." line="687" column="22" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494813441852">
+        <mark key="'" line="326" column="15" />
+        <mark key="[" line="687" column="23" />
+        <mark key="]" line="688" column="22" />
+        <mark key="^" line="688" column="22" />
+        <mark key="." line="688" column="22" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/constants.h" timestamp="1493760085735">
         <mark key="[" line="8" column="0" />
@@ -654,13 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="350" column="43" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="348" column="53" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="118" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="320" column="24" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="328" column="56" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="329" column="33" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="333" column="29" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="324" column="60" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="70" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
@@ -754,6 +747,13 @@
       <jump line="1011" column="18" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="20" column="6" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="671" column="8" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="850" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="90" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="98" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="103" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="293" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="318" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
+      <jump line="326" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -763,7 +763,7 @@
         <text>CERES</text>
       </register>
       <register name="/" type="4">
-        <text>opt</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgKHRoaXMtPmdsb2JhbFN0YXRlQ29sbGlzaW9uQ2hlY2soZ2xvYmFsX3N0YXRlKSkgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayh0bXBfc3RhdGUpOwogICAgICAgICAgICB9</text>
@@ -800,9 +800,9 @@
       </register>
     </registers>
     <search>
-      <last-search>opt</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>opt</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -810,7 +810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deep</entry>
         <entry>select</entry>
         <entry>simple</entry>
         <entry>singlePhase</entry>
@@ -830,6 +829,7 @@
         <entry>optimize</entry>
         <entry>optize</entry>
         <entry>opt</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
