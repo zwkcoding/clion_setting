@@ -461,12 +461,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494954539959">
-        <mark key="'" line="24" column="19" />
-        <mark key="[" line="235" column="53" />
-        <mark key="]" line="235" column="57" />
-        <mark key="^" line="235" column="57" />
-        <mark key="." line="235" column="57" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1494965670388">
+        <mark key="'" line="257" column="28" />
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/codes/v_repExtUrdf/link.cpp" timestamp="1494404874438">
         <mark key="'" line="0" column="0" />
@@ -593,12 +593,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494959546230">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494965534873">
         <mark key="'" line="326" column="15" />
-        <mark key="[" line="857" column="9" />
-        <mark key="]" line="857" column="37" />
-        <mark key="^" line="857" column="37" />
-        <mark key="." line="857" column="37" />
+        <mark key="[" line="855" column="8" />
+        <mark key="]" line="857" column="10" />
+        <mark key="^" line="857" column="10" />
+        <mark key="." line="857" column="10" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/constants.h" timestamp="1493760085735">
         <mark key="[" line="8" column="0" />
@@ -654,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="428" column="94" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="368" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="132" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
@@ -754,6 +753,7 @@
       <jump line="24" column="19" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="386" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="523" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
+      <jump line="257" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -763,7 +763,7 @@
         <text>CERES</text>
       </register>
       <register name="/" type="4">
-        <text>optimize</text>
+        <text>Ceres</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgKHRoaXMtPmdsb2JhbFN0YXRlQ29sbGlzaW9uQ2hlY2soZ2xvYmFsX3N0YXRlKSkgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayh0bXBfc3RhdGUpOwogICAgICAgICAgICB9</text>
@@ -800,9 +800,9 @@
       </register>
     </registers>
     <search>
-      <last-search>optimize</last-search>
+      <last-search>Ceres</last-search>
       <last-offset />
-      <last-pattern>optimize</last-pattern>
+      <last-pattern>Ceres</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -810,7 +810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>singlePhase</entry>
         <entry>getLateral</entry>
         <entry>getLa</entry>
         <entry>collision</entry>
@@ -830,6 +829,7 @@
         <entry>final</entry>
         <entry>publishFinalPath</entry>
         <entry>optimize</entry>
+        <entry>Ceres</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
