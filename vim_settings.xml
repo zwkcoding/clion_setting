@@ -288,12 +288,12 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494959174415">
-        <mark key="'" line="523" column="0" />
-        <mark key="[" line="76" column="29" />
-        <mark key="]" line="76" column="28" />
-        <mark key="^" line="76" column="28" />
-        <mark key="." line="76" column="28" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494971087146">
+        <mark key="'" line="76" column="28" />
+        <mark key="[" line="506" column="44" />
+        <mark key="]" line="508" column="44" />
+        <mark key="." line="508" column="44" />
+        <mark key="^" line="508" column="44" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
@@ -654,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="94" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="368" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="132" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="245" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -754,10 +753,11 @@
       <jump line="386" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="523" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="257" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="76" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CERES</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ci56ID0gYXRhbjIoc2luKGl0ci56KSxjb3MoaXRyLnopKTsK</text>
       </register>
       <register name="-" type="4">
         <text>CERES</text>
@@ -768,32 +768,32 @@
       <register name="0" type="4">
         <text encoding="base64">aWYgKHRoaXMtPmdsb2JhbFN0YXRlQ29sbGlzaW9uQ2hlY2soZ2xvYmFsX3N0YXRlKSkgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayh0bXBfc3RhdGUpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ci56ID0gYXRhbjIoc2luKGl0ci56KSxjb3MoaXRyLnopKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgIGlmICh0aGlzLT5ncmlkX21hcF8ubWFwcy5pc0luc2lkZShwb3MpKSB7CiAgICAgICAgICAgIGRvdWJsZSBkaXN0ID0gdGhpcy0+Z3JpZF9tYXBfLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayhzdGF0ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwbGluZV9pdHIueiA9IGF0YW4yKHNpbihzcGxpbmVfaXRyLnopLCBjb3Moc3BsaW5lX2l0ci56KSk7Cg==</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgIGlmICh0aGlzLT5ncmlkX21hcF8ubWFwcy5pc0luc2lkZShwb3MpKSB7CiAgICAgICAgICAgIGRvdWJsZSBkaXN0ID0gdGhpcy0+Z3JpZF9tYXBfLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayhzdGF0ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICBncmlkX21hcDo6UG9zaXRpb24gcG9zKGdsb2JhbF9zdGF0ZS54LCBnbG9iYWxfc3RhdGUueSk7CiAgICAgICAgICAgIGlmIChncmlkX21hcF8ubWFwcy5pc0luc2lkZShwb3MpKSB7CiAgICAgICAgICAgICAgICBkb3VibGUgZGlzdCA9IHRoaXMtPmdyaWRfbWFwXy5nZXRPYnN0YWNsZURpc3RhbmNlKHBvcyk7CiAgICAgICAgICAgICAgICBpZiAoZGlzdCA+IHRoaXMtPnNhZmVfZGlzdGFuY2VfKSB7CiAgICAgICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayh0bXBfc3RhdGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
