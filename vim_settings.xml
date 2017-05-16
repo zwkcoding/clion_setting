@@ -73,8 +73,8 @@
         <mark key="." line="2" column="94" />
         <mark key="^" line="2" column="94" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1494959335333">
-        <mark key="'" line="110" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" timestamp="1494972999039">
+        <mark key="'" line="205" column="25" />
         <mark key="[" line="203" column="32" />
         <mark key="]" line="205" column="25" />
         <mark key="." line="205" column="25" />
@@ -288,12 +288,12 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494971087146">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1494972430272">
         <mark key="'" line="76" column="28" />
-        <mark key="[" line="506" column="44" />
-        <mark key="]" line="508" column="44" />
-        <mark key="." line="508" column="44" />
-        <mark key="^" line="508" column="44" />
+        <mark key="[" line="481" column="10" />
+        <mark key="]" line="481" column="18" />
+        <mark key="." line="481" column="18" />
+        <mark key="^" line="481" column="18" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
@@ -593,12 +593,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494965534873">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1494972562469">
         <mark key="'" line="326" column="15" />
-        <mark key="[" line="855" column="8" />
-        <mark key="]" line="857" column="10" />
-        <mark key="^" line="857" column="10" />
-        <mark key="." line="857" column="10" />
+        <mark key="[" line="357" column="13" />
+        <mark key="]" line="357" column="12" />
+        <mark key="^" line="357" column="12" />
+        <mark key="." line="357" column="12" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/constants.h" timestamp="1493760085735">
         <mark key="[" line="8" column="0" />
@@ -654,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="132" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="245" column="22" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="22" column="26" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
@@ -754,55 +753,56 @@
       <jump line="523" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="257" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="76" column="28" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
+      <jump line="205" column="25" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ci56ID0gYXRhbjIoc2luKGl0ci56KSxjb3MoaXRyLnopKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>CERES</text>
       </register>
       <register name="/" type="4">
-        <text>Ceres</text>
+        <text>getChild</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgKHRoaXMtPmdsb2JhbFN0YXRlQ29sbGlzaW9uQ2hlY2soZ2xvYmFsX3N0YXRlKSkgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayh0bXBfc3RhdGUpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ci56ID0gYXRhbjIoc2luKGl0ci56KSxjb3MoaXRyLnopKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ci56ID0gYXRhbjIoc2luKGl0ci56KSxjb3MoaXRyLnopKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNwbGluZV9pdHIueiA9IGF0YW4yKHNpbihzcGxpbmVfaXRyLnopLCBjb3Moc3BsaW5lX2l0ci56KSk7Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgIGlmICh0aGlzLT5ncmlkX21hcF8ubWFwcy5pc0luc2lkZShwb3MpKSB7CiAgICAgICAgICAgIGRvdWJsZSBkaXN0ID0gdGhpcy0+Z3JpZF9tYXBfLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayhzdGF0ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgIGlmICh0aGlzLT5ncmlkX21hcF8ubWFwcy5pc0luc2lkZShwb3MpKSB7CiAgICAgICAgICAgIGRvdWJsZSBkaXN0ID0gdGhpcy0+Z3JpZF9tYXBfLmdldE9ic3RhY2xlRGlzdGFuY2UocG9zKTsKICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgbGF0X2dvYWxzLnB1c2hfYmFjayhzdGF0ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Z3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhnbG9iYWxfc3RhdGUueCwgZ2xvYmFsX3N0YXRlLnkpOwogICAgICAgICAgICBpZiAoZ3JpZF9tYXBfLm1hcHMuaXNJbnNpZGUocG9zKSkgewogICAgICAgICAgICAgICAgZG91YmxlIGRpc3QgPSB0aGlzLT5ncmlkX21hcF8uZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgICAgICAgICAgaWYgKGRpc3QgPiB0aGlzLT5zYWZlX2Rpc3RhbmNlXykgewogICAgICAgICAgICAgICAgICAgIGxhdF9nb2Fscy5wdXNoX2JhY2sodG1wX3N0YXRlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ceres</last-search>
+      <last-search>getChild</last-search>
       <last-offset />
-      <last-pattern>Ceres</last-pattern>
+      <last-pattern>getChild</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -810,7 +810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getLateral</entry>
         <entry>getLa</entry>
         <entry>collision</entry>
         <entry>best</entry>
@@ -830,6 +829,7 @@
         <entry>publishFinalPath</entry>
         <entry>optimize</entry>
         <entry>Ceres</entry>
+        <entry>getChild</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
