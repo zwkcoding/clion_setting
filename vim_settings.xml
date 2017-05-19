@@ -184,12 +184,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1494311463452">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1495169815816">
         <mark key="'" line="266" column="5" />
-        <mark key="[" line="263" column="39" />
-        <mark key="]" line="264" column="24" />
-        <mark key="." line="264" column="24" />
-        <mark key="^" line="264" column="24" />
+        <mark key="[" line="98" column="51" />
+        <mark key="]" line="98" column="52" />
+        <mark key="." line="98" column="52" />
+        <mark key="^" line="98" column="52" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -486,12 +486,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1495142186294">
-        <mark key="'" line="237" column="9" />
-        <mark key="[" line="190" column="4" />
-        <mark key="]" line="190" column="6" />
-        <mark key="." line="190" column="6" />
-        <mark key="^" line="190" column="6" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" timestamp="1495169576366">
+        <mark key="'" line="171" column="57" />
+        <mark key="[" line="240" column="55" />
+        <mark key="]" line="240" column="54" />
+        <mark key="." line="240" column="54" />
+        <mark key="^" line="240" column="54" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/dae_multiple_shooting.py" timestamp="1495069660486">
         <mark key="[" line="106" column="0" />
@@ -572,12 +572,12 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1494473581620">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/path_generator.cpp" timestamp="1495169723277">
         <mark key="'" line="3" column="31" />
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="27" />
+        <mark key="[" line="43" column="51" />
+        <mark key="]" line="43" column="50" />
+        <mark key="^" line="43" column="50" />
+        <mark key="." line="43" column="50" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_solver.h" timestamp="1493842637512">
         <mark key="[" line="29" column="14" />
@@ -634,12 +634,12 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1495168788743">
-        <mark key="'" line="252" column="32" />
-        <mark key="[" line="102" column="3" />
-        <mark key="]" line="102" column="21" />
-        <mark key="^" line="102" column="21" />
-        <mark key="." line="102" column="21" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1495169449736">
+        <mark key="'" line="253" column="32" />
+        <mark key="[" line="367" column="35" />
+        <mark key="]" line="367" column="35" />
+        <mark key="^" line="367" column="35" />
+        <mark key="." line="367" column="35" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1495144065976">
         <mark key="'" line="934" column="63" />
@@ -702,7 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="48" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="446" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="353" column="30" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="422" column="63" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
@@ -802,28 +801,30 @@
       <jump line="5" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/jerk_constraints.cpp" />
       <jump line="248" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
       <jump line="186" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/jerk_constraints.cpp" />
+      <jump line="171" column="57" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>values[0] += lambda[3] * didp11(param);
+        values[1] += lambda[3] * didp21(param);
+        values[2] += lambda[3] * didp22(param);
+        values[3] += lambda[3] * didp41(param);
+        values[4] += lambda[3] * didp42(param);
+        values[5] += lambda[3] * didp44(param);</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>SE2Constraints::</text>
       </register>
       <register name="/" type="4">
-        <text>spline</text>
+        <text>SNOPT</text>
       </register>
       <register name="0" type="4">
-        <text>double fif(Param_knot param);
-double didp1(Param_knot param);
-double didp2(Param_knot param);
-double didp4(Param_knot param);
-double didp11(Param_knot param);
-double didp21(Param_knot param);
-double didp22(Param_knot param);
-double didp41(Param_knot param);
-double didp42(Param_knot param);
-double didp44(Param_knot param);</text>
+        <text>values[0] += lambda[3] * didp11(param);
+        values[1] += lambda[3] * didp21(param);
+        values[2] += lambda[3] * didp22(param);
+        values[3] += lambda[3] * didp41(param);
+        values[4] += lambda[3] * didp42(param);
+        values[5] += lambda[3] * didp44(param);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
@@ -869,9 +870,9 @@ double djd44 (Param_knot param);</text>
       </register>
     </registers>
     <search>
-      <last-search>spline</last-search>
+      <last-search>SNOPT</last-search>
       <last-offset />
-      <last-pattern>spline</last-pattern>
+      <last-pattern>SNOPT</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -879,7 +880,6 @@ double djd44 (Param_knot param);</text>
     </search>
     <history>
       <history-search>
-        <entry>lateral</entry>
         <entry>selectBest</entry>
         <entry>CERES</entry>
         <entry>getLat</entry>
@@ -893,12 +893,13 @@ double djd44 (Param_knot param);</text>
         <entry>optimizePath</entry>
         <entry>updateCircle</entry>
         <entry>Ceres</entry>
-        <entry>SNOPT</entry>
         <entry>longitude</entry>
         <entry>length</entry>
         <entry>getPathLength</entry>
         <entry>optimizePathLength</entry>
         <entry>spline</entry>
+        <entry>snopt</entry>
+        <entry>SNOPT</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
