@@ -105,11 +105,11 @@
         <mark key="^" line="84" column="72" />
         <mark key="." line="84" column="73" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/jerk_constraints.hpp" timestamp="1495161165806">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="33" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/jerk_constraints.hpp" timestamp="1495163526084">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+        <mark key="." line="27" column="31" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1494038701339">
         <mark key="'" line="9" column="15" />
@@ -170,12 +170,12 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/jerk_constraints.cpp" timestamp="1495162161300">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="1" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/jerk_constraints.cpp" timestamp="1495163546098">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="1" />
+        <mark key="^" line="188" column="1" />
+        <mark key="." line="188" column="1" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_base.h" timestamp="1493757525770">
         <mark key="'" line="74" column="3" />
@@ -804,8 +804,8 @@
       <jump line="186" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/jerk_constraints.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -814,7 +814,16 @@
         <text>spline</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">d2hpbGUgKHNlY29uZC0+cG9zaXRpb24uRGlzdGFuY2UocGVycGVuZGljdWxhci5wb3NpdGlvbikgPiAwLjAwMDAxKSB7CiAgICAgICAgZ3JpZF9tYXA6OlBvc2l0aW9uIHBvcyhwZXJwZW5kaWN1bGFyLnBvc2l0aW9uLngsIHBlcnBlbmRpY3VsYXIucG9zaXRpb24ueSk7CiAgICAgICAgZG91YmxlIGNsZWFyYW5jZSA9IGludGVybmFsX2dyaWQuZ2V0T2JzdGFjbGVEaXN0YW5jZShwb3MpOwogICAgICAgIGlmIChjbGVhcmFuY2UgPiB0aGlzLT5sb3dlcl9ib3VuZGFyeV8gKyBzYWZldHlfbWFyZ2luXyAmJgogICAgICAgICAgICAgICAgdXRpbHM6OmdldEN1cnZhdHVyZShwYXJlbnQucG9zaXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3QucG9zaXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGVycGVuZGljdWxhci5wb3NpdGlvbikgPD0gdGhpcy0+Y3VydmF0dXJlX21heF8pIHsKICAgICAgICAgICAgKnNlY29uZCA9IHBlcnBlbmRpY3VsYXI7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcGVycGVuZGljdWxhci5wb3NpdGlvbi54ID0gKHBlcnBlbmRpY3VsYXIucG9zaXRpb24ueCArIHNlY29uZC0+cG9zaXRpb24ueCkgLyAyLjA7CiAgICAgICAgICAgIHBlcnBlbmRpY3VsYXIucG9zaXRpb24ueSA9IChwZXJwZW5kaWN1bGFyLnBvc2l0aW9uLnkgKyBzZWNvbmQtPnBvc2l0aW9uLnkpIC8gMi4wOwogICAgICAgICAgICBwZXJwZW5kaWN1bGFyLnIgPSBjbGVhcmFuY2U7CiAgICAgICAgfQogICAgfQ==</text>
+        <text>double fif(Param_knot param);
+double didp1(Param_knot param);
+double didp2(Param_knot param);
+double didp4(Param_knot param);
+double didp11(Param_knot param);
+double didp21(Param_knot param);
+double didp22(Param_knot param);
+double didp41(Param_knot param);
+double didp42(Param_knot param);
+double didp44(Param_knot param);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
