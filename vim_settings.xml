@@ -105,8 +105,8 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.c" timestamp="1495579610036">
-        <mark key="'" line="1690" column="0" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.c" timestamp="1495581930701">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="10" />
@@ -131,11 +131,11 @@
         <mark key="^" line="27" column="31" />
         <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/Makefile" timestamp="1495579674872">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/Makefile" timestamp="1495581206329">
+        <mark key="[" line="5" column="91" />
+        <mark key="]" line="5" column="99" />
+        <mark key="." line="5" column="91" />
+        <mark key="^" line="5" column="90" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1494038701339">
         <mark key="'" line="9" column="15" />
@@ -733,10 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
-      <jump line="70" column="20" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="229" column="86" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="290" column="58" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="302" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="334" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="396" column="12" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
@@ -833,16 +829,20 @@
       <jump line="367" column="35" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
       <jump line="67" column="33" filename="$USER_HOME$/workspace/lib_sources/speed_planning/barrier_front.c" />
       <jump line="1690" column="0" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.c" />
+      <jump line="65" column="18" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.c" />
+      <jump line="377" column="27" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.c" />
+      <jump line="765" column="40" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2RlZmluZSBNQVRMQUJfTUVYX0ZJTEUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LWxjYmxhcyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LWZyYW1ld29yayBBY2NlbGVyYXRlIA==</text>
+        <text encoding="base64">LWxjYmxhcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>SNOPT</text>
+        <text>dgemv</text>
       </register>
       <register name="0" type="4">
         <text>(double *)</text>
@@ -879,9 +879,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SNOPT</last-search>
+      <last-search>dgemv</last-search>
       <last-offset />
-      <last-pattern>SNOPT</last-pattern>
+      <last-pattern>dgemv</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -889,8 +889,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectBest</entry>
-        <entry>CERES</entry>
         <entry>getLat</entry>
         <entry>optize</entry>
         <entry>opt</entry>
@@ -909,6 +907,8 @@
         <entry>spline</entry>
         <entry>snopt</entry>
         <entry>SNOPT</entry>
+        <entry>sqrt</entry>
+        <entry>dgemv</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
