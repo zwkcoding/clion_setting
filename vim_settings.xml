@@ -184,12 +184,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1495169815816">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/nlp_solver.cpp" timestamp="1495223680645">
         <mark key="'" line="266" column="5" />
-        <mark key="[" line="98" column="51" />
-        <mark key="]" line="98" column="52" />
-        <mark key="." line="98" column="52" />
-        <mark key="^" line="98" column="52" />
+        <mark key="[" line="98" column="53" />
+        <mark key="]" line="98" column="51" />
+        <mark key="." line="98" column="51" />
+        <mark key="^" line="98" column="51" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/path_converter_ros.cpp" timestamp="1493327238158">
         <mark key="[" line="10" column="0" />
@@ -493,6 +493,11 @@
         <mark key="." line="240" column="54" />
         <mark key="^" line="240" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/CMakeLists.txt" timestamp="1495574386754">
+        <mark key="]" line="4" column="62" />
+        <mark key="^" line="4" column="62" />
+        <mark key="." line="4" column="62" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/dae_multiple_shooting.py" timestamp="1495069660486">
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
@@ -545,18 +550,17 @@
         <mark key="^" line="154" column="64" />
         <mark key="." line="154" column="64" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/vdp_collocation.py" timestamp="1495170501278">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="^" line="215" column="0" />
-        <mark key="." line="215" column="0" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/vdp_collocation.py" timestamp="1495214494829">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="^" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1495159750071">
-        <mark key="'" line="45" column="15" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="22" column="30" />
-        <mark key="^" line="22" column="30" />
-        <mark key="." line="22" column="30" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/ipopt_problem.hpp" timestamp="1495223426169">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/tests/state_sampling_test.cpp" timestamp="1494717174858">
         <mark key="'" line="0" column="0" />
@@ -634,12 +638,11 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1495169449736">
-        <mark key="'" line="253" column="32" />
-        <mark key="[" line="367" column="35" />
-        <mark key="]" line="367" column="35" />
-        <mark key="^" line="367" column="35" />
-        <mark key="." line="367" column="35" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" timestamp="1495223513418">
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="0" />
+        <mark key="^" line="61" column="8" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1495144065976">
         <mark key="'" line="934" column="63" />
@@ -702,7 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="446" column="15" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
       <jump line="353" column="30" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="422" column="63" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" />
       <jump line="257" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
@@ -802,15 +804,11 @@
       <jump line="248" column="32" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
       <jump line="186" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/jerk_constraints.cpp" />
       <jump line="171" column="57" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
+      <jump line="367" column="35" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/ipopt_problem.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>values[0] += lambda[3] * didp11(param);
-        values[1] += lambda[3] * didp21(param);
-        values[2] += lambda[3] * didp22(param);
-        values[3] += lambda[3] * didp41(param);
-        values[4] += lambda[3] * didp42(param);
-        values[5] += lambda[3] * didp44(param);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkK</text>
       </register>
       <register name="-" type="4">
         <text>SE2Constraints::</text>
@@ -827,43 +825,31 @@
         values[5] += lambda[3] * didp44(param);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>double fjf (Param_knot param);
-double djdp1 (Param_knot param);
-double djdp2 (Param_knot param);
-double djdp4 (Param_knot param);
-
-double djd11 (Param_knot param);
-double djd21 (Param_knot param);
-double djd22 (Param_knot param);
-
-double djd41 (Param_knot param);
-double djd42 (Param_knot param);
-double djd44 (Param_knot param);</text>
+      <register name="2" type="2">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoc3BlZWRfcGxhbm5pbmcgJHtTT1VSQ0VfRklMRVN9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXNbNV0gKz0gbGFtYmRhWzRdICogZGpkNDQocGFyYW0pOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if i == 0:
-                self.jerk[i] = 0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWx1ZXNbNF0gKz0gbGFtYmRhWzRdICogZGpkNDIocGFyYW0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXNbM10gKz0gbGFtYmRhWzRdICogZGpkNDEocGFyYW0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXNbMl0gKz0gbGFtYmRhWzRdICogZGpkMjIocGFyYW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGRpc3RhbmNlID0gZ2V0Tm9ybShjdXJ2ZS5hdChpKSwgY3VydmUuYmFjaygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXNbMV0gKz0gbGFtYmRhWzRdICogZGpkMjEocGFyYW0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3B0c1snaXBvcHQuJ10K</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXNbMF0gKz0gbGFtYmRhWzRdICogZGpkMTEocGFyYW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
