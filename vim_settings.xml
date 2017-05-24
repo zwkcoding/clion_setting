@@ -9,11 +9,12 @@
         <mark key="^" line="374" column="0" />
         <mark key="." line="374" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/barrier_front.cpp" timestamp="1495578085472">
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="67" column="33" />
-        <mark key="^" line="67" column="33" />
-        <mark key="." line="67" column="33" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/barrier_front.cpp" timestamp="1495601039513">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="74" column="24" />
+        <mark key="]" line="74" column="33" />
+        <mark key="^" line="74" column="33" />
+        <mark key="." line="74" column="33" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/internal_grid_map/src/main.cpp" timestamp="1492740177634">
         <mark key="[" line="29" column="4" />
@@ -161,11 +162,12 @@
         <mark key="^" line="14" column="40" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/csparse.cpp" timestamp="1495599397226">
-        <mark key="[" line="1942" column="7" />
-        <mark key="]" line="1942" column="15" />
-        <mark key="^" line="1942" column="15" />
-        <mark key="." line="1942" column="15" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/csparse.cpp" timestamp="1495600413159">
+        <mark key="'" line="2035" column="18" />
+        <mark key="[" line="2086" column="31" />
+        <mark key="]" line="2086" column="25" />
+        <mark key="^" line="2086" column="25" />
+        <mark key="." line="2086" column="25" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/launch/modified_path_demo.launch" timestamp="1493767253203">
         <mark key="[" line="3" column="86" />
@@ -679,11 +681,12 @@
         <mark key="^" line="61" column="8" />
         <mark key="." line="341" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.cpp" timestamp="1495578698684">
-        <mark key="[" line="1695" column="8" />
-        <mark key="]" line="1695" column="18" />
-        <mark key="^" line="1695" column="7" />
-        <mark key="." line="1695" column="8" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.cpp" timestamp="1495601013430">
+        <mark key="'" line="1558" column="8" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1495144065976">
         <mark key="'" line="934" column="63" />
@@ -743,10 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="23" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" />
-      <jump line="251" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="28" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="254" column="57" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="110" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
       <jump line="31" column="34" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="54" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
@@ -843,10 +842,14 @@
       <jump line="1466" column="122" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.c" />
       <jump line="20" column="6" filename="$USER_HOME$/workspace/lib_sources/speed_planning/barrier_front.c" />
       <jump line="438" column="3" filename="$USER_HOME$/workspace/lib_sources/speed_planning/test_MTSOS.c" />
+      <jump line="2011" column="30" filename="$USER_HOME$/workspace/lib_sources/speed_planning/csparse.cpp" />
+      <jump line="2035" column="18" filename="$USER_HOME$/workspace/lib_sources/speed_planning/csparse.cpp" />
+      <jump line="1551" column="8" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/workspace/lib_sources/speed_planning/barrier_front.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(int *)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNibGFzLmg+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(int *)</text>
@@ -858,31 +861,31 @@
         <text>(int *)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1zdGQ9YysrMTEpCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNibGFzLmg+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgImJsYXMgaW5jbHVkZToiICR7QkxBU19JTkNMVURFX0RJUn0pCg==</text>
+        <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1zdGQ9YysrMTEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgImJsYXMgaW5jbHVkZToiICR7QkxBU19JTkNMVURFX0RJUn0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0KE1BVExBQl9JTkNMVURFX0RJUlMgL3Vzci9sb2NhbC9NQVRMQUIvUjIwMTZiL2V4dGVybi9pbmNsdWRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2RlZmluZSBNQVRMQUJfTUVYX0ZJTEUK</text>
+        <text encoding="base64">c2V0KE1BVExBQl9JTkNMVURFX0RJUlMgL3Vzci9sb2NhbC9NQVRMQUIvUjIwMTZiL2V4dGVybi9pbmNsdWRlKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">I2RlZmluZSBNQVRMQUJfTUVYX0ZJTEUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0ZGRlZi5oPgo=</text>
+        <text encoding="base64">I2RlZmluZSBNQVRMQUJfTUVYX0ZJTEUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0ZGRlZi5oPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NfRkxBR1MgIi1zdGQ9Yzk5IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
