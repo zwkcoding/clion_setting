@@ -89,12 +89,12 @@
         <mark key="." line="225" column="39" />
         <mark key="^" line="225" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/barrier_front.c" timestamp="1495586609046">
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/barrier_front.c" timestamp="1495588061519">
         <mark key="'" line="20" column="6" />
-        <mark key="[" line="84" column="24" />
-        <mark key="]" line="84" column="29" />
-        <mark key="^" line="84" column="29" />
-        <mark key="." line="84" column="29" />
+        <mark key="[" line="84" column="43" />
+        <mark key="]" line="84" column="42" />
+        <mark key="^" line="84" column="42" />
+        <mark key="." line="84" column="42" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/solution.cpp" timestamp="1494184488285">
         <mark key="[" line="12" column="0" />
@@ -128,11 +128,11 @@
         <mark key="^" line="27" column="31" />
         <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/Makefile" timestamp="1495585366816">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="54" />
-        <mark key="." line="32" column="54" />
-        <mark key="^" line="32" column="54" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/Makefile" timestamp="1495587996289">
+        <mark key="[" line="5" column="97" />
+        <mark key="]" line="5" column="97" />
+        <mark key="." line="5" column="97" />
+        <mark key="^" line="5" column="97" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1494038701339">
         <mark key="'" line="9" column="15" />
@@ -833,13 +833,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ptrdiff_t</text>
+        <text>open</text>
       </register>
       <register name="-" type="4">
-        <text>ptrdiff_t</text>
+        <text>open</text>
       </register>
       <register name="/" type="4">
-        <text>dsyr</text>
+        <text>dgemm</text>
       </register>
       <register name="0" type="4">
         <text>CblasColMajor,CblasNoTrans</text>
@@ -876,9 +876,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dsyr</last-search>
+      <last-search>dgemm</last-search>
       <last-offset />
-      <last-pattern>dsyr</last-pattern>
+      <last-pattern>dgemm</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -886,7 +886,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry>final</entry>
         <entry>publishFinalPath</entry>
         <entry>optimize</entry>
@@ -906,6 +905,7 @@
         <entry>blasint</entry>
         <entry>dgemv</entry>
         <entry>dsyr</entry>
+        <entry>dgemm</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
