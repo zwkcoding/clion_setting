@@ -161,6 +161,12 @@
         <mark key="^" line="14" column="40" />
         <mark key="." line="14" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/csparse.cpp" timestamp="1495599397226">
+        <mark key="[" line="1942" column="7" />
+        <mark key="]" line="1942" column="15" />
+        <mark key="^" line="1942" column="15" />
+        <mark key="." line="1942" column="15" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/launch/modified_path_demo.launch" timestamp="1493767253203">
         <mark key="[" line="3" column="86" />
         <mark key="]" line="3" column="98" />
@@ -839,17 +845,17 @@
       <jump line="438" column="3" filename="$USER_HOME$/workspace/lib_sources/speed_planning/test_MTSOS.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1zdGQ9YysrMTEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(int *)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(int *)</text>
       </register>
       <register name="/" type="4">
         <text>dgemm</text>
       </register>
       <register name="0" type="4">
-        <text>CblasColMajor,CblasNoTrans</text>
+        <text>(int *)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1zdGQ9YysrMTEpCg==</text>
