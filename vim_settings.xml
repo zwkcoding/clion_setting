@@ -128,11 +128,11 @@
         <mark key="^" line="27" column="31" />
         <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/Makefile" timestamp="1495587996289">
-        <mark key="[" line="5" column="97" />
-        <mark key="]" line="5" column="97" />
-        <mark key="." line="5" column="97" />
-        <mark key="^" line="5" column="97" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/Makefile" timestamp="1495589343159">
+        <mark key="[" line="32" column="55" />
+        <mark key="]" line="32" column="51" />
+        <mark key="." line="32" column="51" />
+        <mark key="^" line="32" column="51" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/src/se2_constraints.cpp" timestamp="1494038701339">
         <mark key="'" line="9" column="15" />
@@ -516,11 +516,11 @@
         <mark key="." line="240" column="54" />
         <mark key="^" line="240" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/CMakeLists.txt" timestamp="1495578784244">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="13" column="34" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/CMakeLists.txt" timestamp="1495589501316">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/dae_multiple_shooting.py" timestamp="1495069660486">
         <mark key="[" line="106" column="0" />
@@ -833,10 +833,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>open</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>open</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dgemm</text>
@@ -845,31 +845,31 @@
         <text>CblasColMajor,CblasNoTrans</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2RlZmluZSBNQVRMQUJfTUVYX0ZJTEUK</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgImJsYXMgaW5jbHVkZToiICR7QkxBU19JTkNMVURFX0RJUn0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2RlZmluZSBNQVRMQUJfTUVYX0ZJTEUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0ZGRlZi5oPgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2V0KE1BVExBQl9JTkNMVURFX0RJUlMgL3Vzci9sb2NhbC9NQVRMQUIvUjIwMTZiL2V4dGVybi9pbmNsdWRlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2RlZmluZSBNQVRMQUJfTUVYX0ZJTEUK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NfRkxBR1MgIi1zdGQ9Yzk5IikK</text>
+        <text encoding="base64">I2RlZmluZSBNQVRMQUJfTUVYX0ZJTEUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0ZGRlZi5oPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoc3BlZWRfcGxhbm5pbmcgJHtTT1VSQ0VfRklMRVN9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c2V0KENNQUtFX0NfRkxBR1MgIi1zdGQ9Yzk5IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZXNbNV0gKz0gbGFtYmRhWzRdICogZGpkNDQocGFyYW0pOwo=</text>
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
