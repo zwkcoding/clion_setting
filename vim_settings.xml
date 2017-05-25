@@ -618,6 +618,7 @@
         <mark key="." line="121" column="48" />
         <mark key="^" line="121" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/dynamics_front.cpp" timestamp="1495725062375" />
       <file name="/usr/include/cblas.h" timestamp="1495583135480">
         <mark key="'" line="192" column="11" />
       </file>
@@ -691,12 +692,12 @@
         <mark key="^" line="61" column="8" />
         <mark key="." line="341" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.cpp" timestamp="1495601013430">
-        <mark key="'" line="1558" column="8" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.cpp" timestamp="1495725606045">
+        <mark key="'" line="27" column="17" />
+        <mark key="[" line="164" column="17" />
+        <mark key="]" line="164" column="33" />
+        <mark key="^" line="164" column="33" />
+        <mark key="." line="164" column="33" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/src/space_explore.cpp" timestamp="1495144065976">
         <mark key="'" line="934" column="63" />
@@ -756,8 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="410" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="218" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="219" column="48" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="83" column="39" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
@@ -856,6 +855,8 @@
       <jump line="2" column="18" filename="$USER_HOME$/workspace/lib_sources/speed_planning/test_MTSOS.cpp" />
       <jump line="442" column="11" filename="$USER_HOME$/workspace/lib_sources/speed_planning/test_MTSOS.cpp" />
       <jump line="3" column="19" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.h" />
+      <jump line="163" column="3" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.cpp" />
+      <jump line="27" column="17" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
