@@ -149,6 +149,9 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.h" timestamp="1495724628625">
+        <mark key="'" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_utils/include/opt_utils/opt_utils.h" timestamp="1493756889699">
         <mark key="'" line="5" column="15" />
         <mark key="[" line="96" column="2" />
@@ -550,6 +553,13 @@
         <mark key="^" line="301" column="94" />
         <mark key="." line="301" column="94" />
       </file>
+      <file name="$USER_HOME$/workspace/lib_sources/speed_planning/test_MTSOS.cpp" timestamp="1495724620610">
+        <mark key="'" line="442" column="11" />
+        <mark key="[" line="428" column="27" />
+        <mark key="]" line="428" column="26" />
+        <mark key="^" line="428" column="26" />
+        <mark key="." line="428" column="26" />
+      </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/tests/opt_solver_test.cpp" timestamp="1493680224738">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="5" column="30" />
@@ -746,10 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/space_explore/include/space_explore/space_explore.hpp" />
-      <jump line="31" column="34" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="54" column="11" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="394" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="410" column="0" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
       <jump line="218" column="7" filename="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling.cpp" />
@@ -846,6 +852,10 @@
       <jump line="2035" column="18" filename="$USER_HOME$/workspace/lib_sources/speed_planning/csparse.cpp" />
       <jump line="1551" column="8" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.cpp" />
       <jump line="84" column="0" filename="$USER_HOME$/workspace/lib_sources/speed_planning/barrier_front.cpp" />
+      <jump line="443" column="3" filename="$USER_HOME$/workspace/lib_sources/speed_planning/test_MTSOS.cpp" />
+      <jump line="2" column="18" filename="$USER_HOME$/workspace/lib_sources/speed_planning/test_MTSOS.cpp" />
+      <jump line="442" column="11" filename="$USER_HOME$/workspace/lib_sources/speed_planning/test_MTSOS.cpp" />
+      <jump line="3" column="19" filename="$USER_HOME$/workspace/lib_sources/speed_planning/MTSOS.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -855,7 +865,7 @@
         <text>(int *)</text>
       </register>
       <register name="/" type="4">
-        <text>dgemm</text>
+        <text>chrono</text>
       </register>
       <register name="0" type="4">
         <text>(int *)</text>
@@ -892,9 +902,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dgemm</last-search>
+      <last-search>chrono</last-search>
       <last-offset />
-      <last-pattern>dgemm</last-pattern>
+      <last-pattern>chrono</last-pattern>
       <last-replace />
       <last-substitute>NLProblem</last-substitute>
       <last-dir>1</last-dir>
@@ -902,7 +912,6 @@
     </search>
     <history>
       <history-search>
-        <entry>final</entry>
         <entry>publishFinalPath</entry>
         <entry>optimize</entry>
         <entry>getChild</entry>
@@ -922,6 +931,7 @@
         <entry>dgemv</entry>
         <entry>dsyr</entry>
         <entry>dgemm</entry>
+        <entry>chrono</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
