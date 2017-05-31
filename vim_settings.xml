@@ -360,12 +360,12 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1496255537702">
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/state_sampling/src/state_sampling_demo.cpp" timestamp="1496261995484">
         <mark key="'" line="76" column="28" />
-        <mark key="[" line="481" column="10" />
-        <mark key="]" line="481" column="18" />
-        <mark key="." line="481" column="18" />
-        <mark key="^" line="481" column="18" />
+        <mark key="[" line="391" column="6" />
+        <mark key="]" line="392" column="46" />
+        <mark key="." line="392" column="46" />
+        <mark key="^" line="392" column="46" />
       </file>
       <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_solver/include/opt_solver/nlp_solver.h" timestamp="1493755875966">
         <mark key="[" line="30" column="18" />
@@ -499,11 +499,11 @@
         <mark key="^" line="40" column="40" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/car_decompose.py" timestamp="1496259536469">
-        <mark key="[" line="128" column="70" />
-        <mark key="]" line="128" column="69" />
-        <mark key="." line="128" column="69" />
-        <mark key="^" line="128" column="69" />
+      <file name="$USER_HOME$/catkin_ws/src/hybrid_motion_planning/opt_analysis/scripts/car_decompose.py" timestamp="1496261084995">
+        <mark key="[" line="134" column="31" />
+        <mark key="]" line="135" column="28" />
+        <mark key="." line="135" column="28" />
+        <mark key="^" line="135" column="28" />
       </file>
       <file name="$USER_HOME$/autonomoose/rospackages/autonomoose_core/local_planner/src/local_planner_nodelet.cpp" timestamp="1493999507662">
         <mark key="'" line="192" column="39" />
@@ -877,7 +877,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -889,31 +889,31 @@
         <text>ax.add_line(Line2D(line2_xs, line2_ys, linewidth=4, color='black'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaGUgdmFsdWUgb2YgciBpcyByYWRpdXMgb2YgdGhlIHdoZWVscy4gIFNvIHRoaXMgaXMgYW4gYXJyYXkgb2Ygc2l6ZSA1LiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByIHZhbHVlIHRhZ2dlZC4gCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUaGUgdmFsdWUgb2YgciBpcyByYWRpdXMgb2YgdGhlIHdoZWVscy4gIFNvIHRoaXMgaXMgYW4gYXJyYXkgb2Ygc2l6ZSA1LiAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByIHZhbHVlIHRhZ2dlZC4gCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCBmcm9tIHRoZSByZWFyIGF4bGUgY2VudGVyIGFuZCByZWFyIHJpZ2h0IHdoZWVsIHBvc2l0aW9uIHdpdGggbmVnYXRpdmUgCg==</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydCBmcm9tIHRoZSByZWFyIGF4bGUgY2VudGVyIGFuZCByZWFyIHJpZ2h0IHdoZWVsIHBvc2l0aW9uIHdpdGggbmVnYXRpdmUgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmtleXBvaW50cyA9IFtdCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICcnJwogICAgICAgICAgICBjaXJjbGUgZWxlbWVudHMgCiAgICAgICAgICAgICcnJwog</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ZWxzZToKICAgICAgICAgICAgICAgIHBvaW50ID0gUG9pbnQoKQogICAgICAgICAgICAgICAgcG9pbnQueCA9IHgKICAgICAgICAgICAgICAgIHBvaW50LnkgPSB5CiAgICAgICAgICAgICAgICBzZWxmLndoZWVsX3JhZGl1cyA9IGZhYnMocikKICAgICAgICAgICAgICAgIHNlbGYua2V5cG9pbnRzLmFwcGVuZChwb2ludCkK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICcnJwogICAgICAgICAgICBjaXJjbGUgZWxlbWVudHMgCiAgICAgICAgICAgICcnJwog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
