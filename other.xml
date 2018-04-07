@@ -1,0 +1,8 @@
+<application>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="5" />
+  </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+</application>
